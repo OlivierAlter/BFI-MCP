@@ -1,61 +1,9 @@
-[build-system]
-requires = ["setuptools>=45", "wheel"]
-build-backend = "setuptools.build_meta"
-
 [project]
 name = "bfi-mcp"
 version = "0.1.0"
 description = "BFI-MCP: Claude MCP for BFI Southbank Films"
 readme = "README.md"
 requires-python = ">=3.10"
-authors = [
-    {name = "Olivier Legris", email = "olivier@example.com"}
-]
-license = {text = "MIT"}
-keywords = ["mcp", "bfi", "claude", "films", "southbank"]
-classifiers = [
-    "Development Status :: 4 - Beta",
-    "Environment :: Console",
-    "Intended Audience :: Developers",
-    "License :: OSI Approved :: MIT License",
-    "Operating System :: OS Independent",
-    "Programming Language :: Python :: 3",
-    "Programming Language :: Python :: 3.10",
-    "Programming Language :: Python :: 3.11",
-    "Programming Language :: Python :: 3.12",
-    "Programming Language :: Python :: 3.13",
-    "Topic :: Software Development :: Libraries :: Python Modules",
-]
-
 dependencies = [
-    "mcp>=0.1.0",
+    "mcp",
 ]
-
-[project.optional-dependencies]
-dev = [
-    "pytest>=7.0",
-    "black>=23.0",
-    "ruff>=0.1.0",
-]
-
-[project.urls]
-Homepage = "https://github.com/OlivierAlter/BFI-MCP"
-Repository = "https://github.com/OlivierAlter/BFI-MCP.git"
-Issues = "https://github.com/OlivierAlter/BFI-MCP/issues"
-
-[tool.setuptools]
-packages = ["bfi_mcp"]
-
-[tool.black]
-line-length = 100
-target-version = ["py310", "py311", "py312", "py313"]
-
-[tool.ruff]
-line-length = 100
-target-version = "py310"
-select = ["E", "F", "W", "I"]
-ignore = ["E501"]  # line too long (handled by black)
-
-[tool.pytest.ini_options]
-testpaths = ["tests"]
-python_files = ["test_*.py"]
