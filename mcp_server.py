@@ -171,18 +171,23 @@ def get_film_details(
     return "\n".join(lines)
 
 
-# Lambda handler for AWS Lambda deployment
-def lambda_handler(event, context):
-    """AWS Lambda handler function for FastMCP"""
-    _load_data()
-    return mcp.handle_lambda_event(event, context)
+# Load data on startup (happens once when module is imported)
+_load_data()
+
+# Create ASGI application for Lambda Web Adapter / production deployment
+# This is called by uvicorn/gunicorn in the Docker container
+app = mcp.http_app()
 
 
 # Local development server
 if __name__ == "__main__":
     import os
-    _load_data()
-    # FastMCP reads HOST and PORT from environment variables
-    os.environ.setdefault("HOST", "0.0.0.0")
-    os.environ.setdefault("PORT", "8080")
-    mcp.run(transport="streamable-http")
+    import uvicorn
+
+    # Run with uvicorn for local testing
+    uvicorn.run(
+        app,
+        host="0.0.0.0",
+        port=int(os.getenv("PORT", "8080")),
+        log_level="info"
+    )
