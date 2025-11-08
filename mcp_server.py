@@ -171,10 +171,17 @@ def get_film_details(
     return "\n".join(lines)
 
 
+# Lambda handler for AWS Lambda deployment
+def lambda_handler(event, context):
+    """AWS Lambda handler function for FastMCP"""
+    _load_data()
+    return mcp.handle_lambda_event(event, context)
+
+
+# Local development server
 if __name__ == "__main__":
     import os
     _load_data()
-    # Lambda expects server on port 8080, bind to 0.0.0.0 for container access
     # FastMCP reads HOST and PORT from environment variables
     os.environ.setdefault("HOST", "0.0.0.0")
     os.environ.setdefault("PORT", "8080")
