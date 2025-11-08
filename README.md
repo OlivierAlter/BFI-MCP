@@ -4,13 +4,28 @@ A Model Context Protocol (MCP) server that provides access to BFI Southbank film
 
 ## Features
 
-✅ **Access all BFI films** - 90+ films with complete metadata
+✅ **Access all BFI films** - 139 films with complete metadata
 ✅ **Smart filtering** - Filter by category, location, director, date range
 ✅ **Full-text search** - Search in titles, directors, descriptions
 ✅ **Complete details** - Get screenings, metadata, ratings, descriptions
-✅ **Zero dependencies** - Uses existing JSON data files
+✅ **Two deployment options** - Claude Code (local) or Alpic (cloud HTTP)
+✅ **Zero hidden dependencies** - Uses existing JSON data files
 
 ## Installation
+
+Choose one of two deployment options:
+
+### Option A: Claude Code (Local) - Recommended for Personal Use
+
+See **[SETUP.md](SETUP.md)** for complete instructions on integrating with Claude Code as a local subprocess.
+
+### Option B: Alpic (Cloud) - Recommended for Team Use
+
+See **[ALPIC_SETUP.md](ALPIC_SETUP.md)** for deploying to Alpic as a public HTTP service.
+
+---
+
+## Quick Start: Claude Code
 
 ### 1. Install Dependencies
 
