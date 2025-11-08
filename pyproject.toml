@@ -1,9 +1,0 @@
-[project]
-name = "bfi-mcp"
-version = "0.1.0"
-description = "BFI-MCP: Claude MCP for BFI Southbank Films"
-readme = "README.md"
-requires-python = ">=3.10"
-dependencies = [
-    "mcp",
-]
