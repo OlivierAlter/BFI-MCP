@@ -1,0 +1,202 @@
+{
+  "generated": "2025-11-08T21:15:17.564878",
+  "source": "BFI Southbank Programme Guide December 2025",
+  "total_films": 8,
+  "total_screenings": 18,
+  "films": [
+    {
+      "title": "The Worlds of James Cameron",
+      "description": "The perfect primer to a season of films by one of Hollywood's most successful, innovative and visionary filmmakers.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "90 min",
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-01",
+          "time": "20:40",
+          "location": "NFT1"
+        }
+      ],
+      "category": "james_cameron"
+    },
+    {
+      "title": "The Terminator",
+      "description": "James Cameron's breakthrough debut is a classic sci-fi and the perfect vehicle for Arnold Schwarzenegger. A new 35mm print made with funding from the National Lottery",
+      "country_year": "USA 1984",
+      "director": "James Cameron",
+      "cast": "Arnold Schwarzenegger, Linda Hamilton, Michael Biehn",
+      "runtime": "107 min",
+      "format": "35mm",
+      "rating": "15",
+      "screenings": [
+        {
+          "date": "2025-12-07",
+          "time": "13:30",
+          "location": "BFI IMAX"
+        },
+        {
+          "date": "2025-12-20",
+          "time": "17:50",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-12-28",
+          "time": "18:20",
+          "location": "NFT1"
+        }
+      ],
+      "category": "james_cameron"
+    },
+    {
+      "title": "Aliens (Extended Cut)",
+      "description": "James Cameron took Ridley Scott's sci-fi horror and transformed it into a large-scale, gonzo war movie, with all guns blazing.",
+      "country_year": "USA 1986",
+      "director": "James Cameron",
+      "cast": "Sigourney Weaver, Michael Biehn, Paul Reiser, Lance Henrikson",
+      "runtime": "154 min",
+      "format": "Digital",
+      "rating": "15",
+      "screenings": [
+        {
+          "date": "2025-11-30",
+          "time": "10:45",
+          "location": "BFI IMAX"
+        },
+        {
+          "date": "2025-12-06",
+          "time": "20:00",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-12-27",
+          "time": "14:25",
+          "location": "NFT2"
+        }
+      ],
+      "category": "james_cameron"
+    },
+    {
+      "title": "Terminator 2: Judgment Day",
+      "description": "James Cameron transforms the world of his low-budget original into a technologically groundbreaking sci-fi action thriller that combines stunning set-pieces with breakneck pacing.",
+      "country_year": "USA 1991",
+      "director": "James Cameron",
+      "cast": "Arnold Schwarzenegger, Linda Hamilton, Edward Furlong, Robert Patrick",
+      "runtime": "137 min",
+      "format": "Digital 4K",
+      "rating": "15",
+      "screenings": [
+        {
+          "date": "2025-12-07",
+          "time": "16:15",
+          "location": "BFI IMAX"
+        },
+        {
+          "date": "2025-12-20",
+          "time": "20:20",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-12-23",
+          "time": "20:20",
+          "location": "NFT3"
+        }
+      ],
+      "category": "james_cameron"
+    },
+    {
+      "title": "True Lies",
+      "description": "Arnie flexes his comic chops, while Jamie Lee Curtis almost steals the show as his frustrated wife in James Cameron's grand-scale espionage action-comedy.",
+      "country_year": "USA 1994",
+      "director": "James Cameron",
+      "cast": "Arnold Schwarzenegger, Jamie Lee Curtis, Tom Arnold, Art Malik",
+      "runtime": "141 min",
+      "format": "Digital 4K",
+      "rating": "15",
+      "screenings": [
+        {
+          "date": "2025-12-17",
+          "time": "20:20",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-12-29",
+          "time": "17:30",
+          "location": "NFT3"
+        }
+      ],
+      "category": "james_cameron"
+    },
+    {
+      "title": "Titanic",
+      "description": "James Cameron takes the fateful journey of the grand liner and transforms it into a swooning, sweeping cinematic event.",
+      "country_year": "USA 1997",
+      "director": "James Cameron",
+      "cast": "Leonardo DiCaprio, Kate Winslet, Billy Zane, Cathy Bates",
+      "runtime": "194 min",
+      "format": "Digital 4K",
+      "rating": "12A",
+      "screenings": [
+        {
+          "date": "2025-12-06",
+          "time": "13:30",
+          "location": "BFI IMAX"
+        },
+        {
+          "date": "2025-12-21",
+          "time": "14:15",
+          "location": "NFT1"
+        }
+      ],
+      "category": "james_cameron"
+    },
+    {
+      "title": "Avatar 3D",
+      "description": "James Cameron pushed the boundaries of cinematic technology with this visionary sci-fi, which became a box-office behemoth.",
+      "country_year": "USA 2009",
+      "director": "James Cameron",
+      "cast": "Sam Worthington, Zoe Saldaña, Sigourney Weaver, Stephen Lang",
+      "runtime": "167 min",
+      "format": "IMAX with Laser 3D",
+      "rating": "12A",
+      "screenings": [
+        {
+          "date": "2025-12-13",
+          "time": "13:10",
+          "location": "BFI IMAX"
+        },
+        {
+          "date": "2025-12-18",
+          "time": "16:00",
+          "location": "BFI IMAX"
+        }
+      ],
+      "category": "james_cameron"
+    },
+    {
+      "title": "Avatar: The Way of Water 3D",
+      "description": "James Cameron's world-building sci-fi epic goes aquatic as Jake, Neytiri and their family seek a home on Pandora and to evade an off-world threat.",
+      "country_year": "USA 2022",
+      "director": "James Cameron",
+      "cast": "Sam Worthington, Zoe Saldaña, Sigourney Weaver, Kate Winslet",
+      "runtime": "192 min",
+      "format": "IMAX with Laser 3D",
+      "rating": "12A",
+      "screenings": [
+        {
+          "date": "2025-12-13",
+          "time": "16:45",
+          "location": "BFI IMAX"
+        },
+        {
+          "date": "2025-12-18",
+          "time": "19:45",
+          "location": "BFI IMAX"
+        }
+      ],
+      "category": "james_cameron"
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "generated": "2025-11-08T21:18:34.854556",
+  "source": "BFI Southbank Programme Guide December 2025",
+  "total_films": 12,
+  "total_screenings": 14,
+  "films": [
+    {
+      "title": "UK 1945. Director David Lean. With Celia Johnson, Trevor Howard,",
+      "description": "A chance meeting between two married people sparks an impossible chemistry and tragic emotional entanglement, in a film that is rich in pathos and masterfully crafted. Restoration supported by The David Lean Foundation Event in partnership with the David Lean Foundation and Noël Coward Foundation bfi.org.uk/relaxed",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "87 min",
+      "format": "Digital",
+      "rating": "PG",
+      "screenings": [
+        {
+          "date": "2025-10-27",
+          "time": "18:15",
+          "location": "NFT3"
+        }
+      ],
+      "category": "regular_programme"
+    },
+    {
+      "title": "UK 1992. Director Terence Davies. With Leigh McCormack, Marjorie Yates,",
+      "description": "Terence Davies’ mosaic of childhood, imagination, time and memory is one of the greatest cinematic experiences. + Home! Home! bfi.org.uk/relaxed Woman with a Movie Camera We celebrate women’s contribution to cinema and spotlight female stories 50th Anniversary Screening: Hester Street + intro by",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "85 min",
+      "format": "35mm",
+      "rating": "PG",
+      "screenings": [
+        {
+          "date": "2025-11-24",
+          "time": "18:05",
+          "location": "NFT3"
+        }
+      ],
+      "category": "regular_programme"
+    },
+    {
+      "title": "UK 1933 Director Friedrich Hollaender. With Lilian Harvey, Charles Boyer,",
+      "description": "A quirky musical farce of mistaken identity with Charles Boyer as a dashing Duke. Seniors Free matinees and talks for the over-60s",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "84 min",
+      "format": "35mm",
+      "rating": "U",
+      "screenings": [
+        {
+          "date": "2025-11-25",
+          "time": "18:15",
+          "location": "NFT2"
+        }
+      ],
+      "category": "regular_programme"
+    },
+    {
+      "title": "Hungary 1975. Director Márta Mészáros. With Katalin Berek, Gyöngyvér Vigh,",
+      "description": "Mark 50 years since the release of this trailblazing auteur’s intimate portrayal of female autonomy. Restored Masterpieces and recent discoveries from around the world, newly restored",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "87 min",
+      "format": "Digital 4K",
+      "rating": "15",
+      "screenings": [
+        {
+          "date": "2025-11-05",
+          "time": "14:00",
+          "location": "NFT1"
+        }
+      ],
+      "category": "regular_programme"
+    },
+    {
+      "title": "Hungary-West Germany-Austria 1981. Director István Szabó.",
+      "description": "Digital 4K (restoration). EST. 15 This epic study of an artist compromising with power for art’s sake was the first Hungarian entry to win the Academy Award for Best Foreign Film. Restored in 4K by the National Film Institute Hungary – Film Archive. Silent Cinema Bringing you the best silent film from the BFI and around the world, with live accompaniment",
+      "country_year": null,
+      "director": null,
+      "cast": "Klaus Maria Brandauer, Krystyna Janda, Ildikó Bánsági",
+      "runtime": "144 min",
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-26",
+          "time": "17:50",
+          "location": "NFT3"
+        }
+      ],
+      "category": "regular_programme"
+    },
+    {
+      "title": "Lois Moran, Jean Hersholt. 110min. Digital 4K (restoration).",
+      "description": "An early silent version of Olive Higgins Prouty’s novel, featuring a standout performance by Vaudeville performer Belle Bennett. Families Ideal screenings for ages 4-12 Funday Preview: The Wonderfully Weird World of Gumball +",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-02",
+          "time": "15:00",
+          "location": "NFT1"
+        }
+      ],
+      "category": "regular_programme"
+    },
+    {
+      "title": "A Halloween Special",
+      "description": "Come join the BFI Reuben Library team as they gather names for their records. This is a free event. Book in advance to avoid disappointment New Writings: Don’t Look Now and Then – Justin John Doherty in conversation with Jason Wood An in-depth conversation looking at the enduring appeal and brilliance of Nicolas Roeg’s haunting masterpiece. New Writings: Hester Street (BFI Film Classics) with",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "180 min",
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-27",
+          "time": "17:00",
+          "location": "BFI REUBEN LIBRARY"
+        },
+        {
+          "date": "2025-10-29",
+          "time": "20:00",
+          "location": "BFI REUBEN LIBRARY"
+        }
+      ],
+      "category": "regular_programme"
+    },
+    {
+      "title": "Dr Julia Wagner",
+      "description": "The author of a new study of the landmark film discusses its importance to cinema. NFT2 £17, concs £14 (Members pay £2.50 less) New Writings: Uncanny Landscapes in 21st Century",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "90 min",
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-03",
+          "time": "18:30",
+          "location": "BFI REUBEN LIBRARY"
+        }
+      ],
+      "category": "regular_programme"
+    },
+    {
+      "title": "British Cinema: The Pestilence in the Ditch",
+      "description": "A timely discussion about a particular strain of filmmaking that explores unique avenues into the representation of the British landscape. Library Talk: Disability Equality in the Film Industry –",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "90 min",
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-10",
+          "time": "18:30",
+          "location": "BFI REUBEN LIBRARY"
+        }
+      ],
+      "category": "regular_programme"
+    },
+    {
+      "title": "Evolution Film: A Case Study",
+      "description": "This event is part of an ongoing appraisal of the inroads made for disability within the film industry.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "90 min",
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-17",
+          "time": "18:30",
+          "location": "BFI REUBEN LIBRARY"
+        }
+      ],
+      "category": "regular_programme"
+    },
+    {
+      "title": "New Writings: Call Me by Your Name: Perspectives on the Film",
+      "description": "This talk will focus on the myriad approaches taken towards Luca Guadagnino’s modern-day classic. BFI IMAX Britain’s biggest screen",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "90 min",
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-24",
+          "time": "18:30",
+          "location": "BFI REUBEN LIBRARY"
+        }
+      ],
+      "category": "regular_programme"
+    },
+    {
+      "title": "Depeche Mode: M",
+      "description": "Christian Eigner, Peter Gordeno. RT TBC. IMAX with Laser. Cert TBC A chance to see one of the UK’s biggest bands writ large upon the UK’s largest screen. BFI MEMBER TICKETS AT BFI IMAX BFI Members save £2.50 per ticket, on a maximum of four tickets, booked online or in person on presentation of a valid Membership card. of the day",
+      "country_year": "USA-Mexico 2025",
+      "director": "Fernando Frias",
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-28",
+          "time": "20:45",
+          "location": "BFI IMAX"
+        },
+        {
+          "date": "2025-10-30",
+          "time": "21:00",
+          "location": "BFI IMAX"
+        }
+      ],
+      "category": "regular_programme"
+    }
+  ]
+}

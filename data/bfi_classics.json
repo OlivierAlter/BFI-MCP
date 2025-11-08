@@ -1,0 +1,527 @@
+{
+  "generated": "2025-11-08T21:18:34.850010",
+  "source": "BFI Southbank Programme Guide December 2025",
+  "total_films": 23,
+  "total_screenings": 44,
+  "films": [
+    {
+      "title": "The seminal work from the father of African cinema focuses on a domestic",
+      "description": "worker who emigrates from Senegal to France in hope of a better life.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-20",
+          "time": "20:45",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-10-30",
+          "time": "18:30",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-11-28",
+          "time": "12:30",
+          "location": "NFT4"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "Aminata Fall. 88min. Digital. EST",
+      "description": "A restless young couple dream of escaping Senegal for Paris, in one of the key works of African cinema.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-21",
+          "time": "18:30",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-11-11",
+          "time": "20:50",
+          "location": "NFT2"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "Cuba 1974. Director Sara Gómez. With Othon Blanco, Barbara Hernandez,",
+      "description": "A beautiful realist drama that looks at life for women and men in the aftermath of the Cuban Revolution.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "79 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-20",
+          "time": "18:20",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-11-02",
+          "time": "18:20",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-11-04",
+          "time": "20:30",
+          "location": "NFT2"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "This classic of Black British cinema captures the struggle of young British",
+      "description": "West Indians as they attempt to make their way through life. Restored by the BFI National Archive and The Film Foundation. Funding provided by the Hobson/Lucas Family Foundation",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-25",
+          "time": "20:30",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-11-07",
+          "time": "18:10",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-11-14",
+          "time": "14:40",
+          "location": "NFT4"
+        },
+        {
+          "date": "2025-11-23",
+          "time": "18:15",
+          "location": "NFT4"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "Sharon Clark. 30min. Digital",
+      "description": "Two films explore the pressures foisted upon Black women in 1980s British society.",
+      "country_year": "Two films explore the pressures foisted upon Black women in 1980",
+      "director": null,
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-24",
+          "time": "18:20",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-11-05",
+          "time": "18:10",
+          "location": "NFT2"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "UK 1977. Director Menelik Shabazz. 29min. 16mm",
+      "description": "A dizzying and passionate portrayal of intersectional politics in 1980s Black Britain plays alongside a film in which young Black British people speak out against negative media narratives.",
+      "country_year": "A dizzying and passionate portrayal of intersectional politics in 1980",
+      "director": null,
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-29",
+          "time": "18:00",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-11-25",
+          "time": "20:45",
+          "location": "NFT2"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "UK 1989. Director Isaac Julien. With Ben Ellison, Matthew Baidoo, Akim Mogaji.",
+      "description": "Marlon Riggs’ documentary looks at the history of racist depictions of Black people in America, while the world of the Harlem Renaissance is poetically re-constructed by Isaac Julien.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "45 min",
+      "format": "Digital 4K",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-10",
+          "time": "20:45",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-11-19",
+          "time": "18:10",
+          "location": "NFT2"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "Steve McQueen’s biopic reconstructs the courageous battle by Notting Hill’s",
+      "description": "West Indian community against police intimidation.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-27",
+          "time": "20:30",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-11-22",
+          "time": "17:30",
+          "location": "NFT2"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "France-Senegal-Ivory Coast- Belgium 2019. Director Mati Diop.",
+      "description": "A hauntingly beautiful portrayal of the real consequences of the migrant crisis, told through the prism of a ghost story. Saint Omer + intro by Xavier Alexandre Pillai,",
+      "country_year": null,
+      "director": null,
+      "cast": "Mama Sane, Amadou Mbow, Ibrahima Traore",
+      "runtime": "106 min",
+      "format": "Digital",
+      "rating": "12A",
+      "screenings": [
+        {
+          "date": "2025-10-31",
+          "time": "20:40",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-11-09",
+          "time": "18:30",
+          "location": "NFT4"
+        },
+        {
+          "date": "2025-11-18",
+          "time": "14:40",
+          "location": "NFT4"
+        },
+        {
+          "date": "2025-11-29",
+          "time": "12:00",
+          "location": "NFT3"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "France 2022. Director Alice Diop. With Kayije Kagame, Guslagie Malanda,",
+      "description": "This nuanced portrait of the struggles of integration play out in this utterly original approach to the courtroom drama.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "123 min",
+      "format": "Digital",
+      "rating": "12A",
+      "screenings": [
+        {
+          "date": "2025-11-12",
+          "time": "17:45",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-11-17",
+          "time": "14:30",
+          "location": "NFT4"
+        },
+        {
+          "date": "2025-11-27",
+          "time": "20:35",
+          "location": "NFT2"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "Haiti-USA 1988. Director Raoul Peck. With Patrick Rameau, Aïlo Auguste-Judith,",
+      "description": "Raoul Peck’s powerful drama journeys to a small nook in New York City, where a tale of vengeance that began in Haiti plays out.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "97 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-13",
+          "time": "20:55",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-11-26",
+          "time": "18:10",
+          "location": "NFT2"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "France 1967. Director Med Hondo. With Robert Liensol, Théo Legitimus,",
+      "description": "Med Hondo’s early film challenges the hostility of French society to migrants. SPECIAL FILMS & EVENTS Dates for your cultural diary, from DVD/Blu-ray launches to weekenders, film summits and festivals London Korean Film Festival 2025 5-18 Nov",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "104 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-26",
+          "time": "14:30",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-11-15",
+          "time": "20:35",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-11-24",
+          "time": "20:30",
+          "location": "NFT2"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "South Korea 2024. Director Kim Seok. With Heo Sung-tae, Jo Bok-rae, Seo Min-ju,",
+      "description": "Buddy comedy chaos lies at the heart of this infectious tale of the relationship between a bumbling cop and his informant.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "103 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-09",
+          "time": "15:00",
+          "location": "NFT2"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "South Korea 2024. Director Hwang Seul-gi. With Jang Sun, Byun Chung-hee,",
+      "description": "A daughter exploits her mother’s dementia for financial survival in Hwang Seul-gi’s moving drama. 3670 + intro",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "86 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-11",
+          "time": "18:20",
+          "location": "NFT3"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "South Korea 2025. Director Park Joon-ho. With Park Joon-ho, Cho You-hyun,",
+      "description": "A North Korean defector seeks to define his identity and sexuality in Park Joon-ho’s impressive debut. 20:30 NFT1",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "124 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-12",
+          "time": "20:30",
+          "location": "NFT1"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "South Korea 2024. Director Shin Jae-min. With Kim Hyeon-soo, Kim Yong-ji,",
+      "description": "In this taut and unsettling thriller, a wannabe cartoonist unravels in a dark web of ambition.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "113 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-13",
+          "time": "18:10",
+          "location": "NFT2"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "South Korea 1971. Director Lee Man-hee. With Jang Dong-hwi, Namkoong Won,",
+      "description": "Three adventurers meet frontier chaos in Lee Man-hee’s Korean western classic.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "98 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-16",
+          "time": "15:15",
+          "location": "NFT3"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "South Korea 2024. Director Woo Min-ho. With Hyun Bin, Park Jeong-min,",
+      "description": "Legendary early 20th-century resistance fighter Ahn Jung-geun is the subject of Woo Min-ho’s epic, featuring a charismatic star turn by Hyun Bin. DOC’N ROLL FILM FESTIVAL 23 Oct-9 Nov Celebrating Music, Art and Subcultures at Doc’n Roll Film Festival London Premiere: Move Ya Body: The Birth Of House + Q&A with director Elegance Bratton Discover the history of the Chicago sound that led to a global house music revolution. For tickets visit to bfi.org.uk/imax World Premiere: Rockers Don’t Stop: Th",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "113 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-18",
+          "time": "18:30",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-11-06",
+          "time": "18:15",
+          "location": "BFI IMAX"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "Nigeria 2025. Director Akinola Davies Jr. With Sope Dirisu, Godwin Egbo, Chibuke",
+      "description": "In Akinola Davies Jr’s intimate drama, a father attempts to care for his two boys and they come to understand who he truly is. Closing Night: Katanga: The Dance of the Scorpions + intro and Q&A with director Dani Kouyate and cast members",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "94 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-14",
+          "time": "18:00",
+          "location": "NFT1"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "Burkina Faso 2025. Director Dani Kouyate. With Prosper Compaore, Hafissata",
+      "description": "Macbeth is retold through the prism of a man destined to seize the crown of a nation in Dani Kouyate’s powerful film. It’s that time again.. Celebrate Halloween in schlock and style with two cult classics of horror cinema",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "113 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-23",
+          "time": "18:00",
+          "location": "NFT1"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "UK 1983. Director Tony Scott. With Catherine Deneuve, David Bowie, Susan Sarandon.",
+      "description": "Tony Scott’s sexy, atmospheric directorial debut is a masterclass in mood, vampiric style and sensuality.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "97 min",
+      "format": "Digital",
+      "rating": "18",
+      "screenings": [
+        {
+          "date": "2025-10-31",
+          "time": "20:45",
+          "location": "NFT1"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "Frankenstein",
+      "description": "Mia Goth, Christoph Waltz. RT tbc. IMAX with Laser. Cert tbc Guillermo del Toro’s take on Mary Shelley’s classic novel is a grandiose opera of a film, with Jacob Elordi as a towering monster.",
+      "country_year": "Mexico-USA 2025",
+      "director": "Guillermo del Toro",
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-31",
+          "time": "20:15",
+          "location": "BFI IMAX"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "UK-USA 1975. Director Jim Sharman. With Tim Curry, Susan Sarandon,",
+      "description": "What better way to see this camp horror classic than on Halloween night and upon the UK’s largest screen.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "100 min",
+      "format": "Digital",
+      "rating": "12A",
+      "screenings": [
+        {
+          "date": "2025-10-31",
+          "time": "23:45",
+          "location": "BFI IMAX"
+        }
+      ],
+      "category": "classics"
+    }
+  ]
+}

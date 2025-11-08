@@ -1,0 +1,123 @@
+{
+  "generated": "2025-11-08T21:18:34.851298",
+  "source": "BFI Southbank Programme Guide December 2025",
+  "total_films": 5,
+  "total_screenings": 10,
+  "films": [
+    {
+      "title": "Titicut Follies + intro by Sandra Hebron, programme curator*",
+      "description": "Frederick Wiseman’s unflinching debut shows life inside an institution for the High School + discussion about Frederick Wiseman’s aesthetics and approach with filmmaker Andrea Luka",
+      "country_year": "USA 1967",
+      "director": "Frederick Wiseman",
+      "cast": null,
+      "runtime": "84 min",
+      "format": "Digital 4K",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-29",
+          "time": "18:10",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-11-09",
+          "time": "12:30",
+          "location": "NFT3"
+        }
+      ],
+      "category": "frederick_wiseman"
+    },
+    {
+      "title": "Zimmerman and curator Matthew Barrington*",
+      "description": "A riveting portrait of life inside a large city high school, where social and moral values are handed down.",
+      "country_year": "USA 1968",
+      "director": "Frederick Wiseman",
+      "cast": null,
+      "runtime": "75 min",
+      "format": "Digital 4K",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-01",
+          "time": "12:30",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-11-13",
+          "time": "18:30",
+          "location": "NFT3"
+        }
+      ],
+      "category": "frederick_wiseman"
+    },
+    {
+      "title": "Welfare",
+      "description": "A remarkable glimpse into the Kafkaesque nature of New York’s welfare system.",
+      "country_year": "USA 1975",
+      "director": "Frederick Wiseman",
+      "cast": null,
+      "runtime": "167 min",
+      "format": "Digital 4K",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-08",
+          "time": "17:15",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-11-23",
+          "time": "14:45",
+          "location": "NFT4"
+        }
+      ],
+      "category": "frederick_wiseman"
+    },
+    {
+      "title": "Multi-Handicapped",
+      "description": "A compassionate portrait of students at the Alabama Institute for the Deaf and Blind.",
+      "country_year": "USA 1986",
+      "director": "Frederick Wiseman",
+      "cast": null,
+      "runtime": "126 min",
+      "format": "Digital 4K",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-02",
+          "time": "15:10",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-11-15",
+          "time": "17:45",
+          "location": "NFT2"
+        }
+      ],
+      "category": "frederick_wiseman"
+    },
+    {
+      "title": "Public Housing",
+      "description": "An absorbing study of daily life in one of Chicago’s poorest housing projects.",
+      "country_year": "USA 1997",
+      "director": "Frederick Wiseman",
+      "cast": null,
+      "runtime": "195 min",
+      "format": "Digital 4K",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-26",
+          "time": "17:15",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-11-29",
+          "time": "14:20",
+          "location": "NFT3"
+        }
+      ],
+      "category": "frederick_wiseman"
+    }
+  ]
+}

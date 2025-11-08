@@ -1,0 +1,77 @@
+{
+  "generated": "2025-11-08T21:15:17.566512",
+  "source": "BFI Southbank Programme Guide December 2025",
+  "total_films": 3,
+  "total_screenings": 6,
+  "films": [
+    {
+      "title": "Innocence",
+      "description": "Nature adopts a sinister tone in this eery drama about an unusual private school for girls.",
+      "country_year": "France-UK-Belgium 2004",
+      "director": "Lucile Hadžihalilović",
+      "cast": "Marion Cotillard, Corinne Marchand, Zoé Auclair",
+      "runtime": "122 min",
+      "format": "Digital",
+      "rating": "15",
+      "screenings": [
+        {
+          "date": "2025-12-03",
+          "time": "20:35",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-12-14",
+          "time": "14:50",
+          "location": "NFT3"
+        }
+      ],
+      "category": "new_releases"
+    },
+    {
+      "title": "Evolution Évolution",
+      "description": "Lucile Hadžihalilović once again explores the intricacies of adolescence, this time through a sci-fi lens.",
+      "country_year": "France-Belgium-Spain 2015",
+      "director": "Lucile Hadžihalilović",
+      "cast": "Max Brebant, Roxane Duran, Julie-Marie Parmentier",
+      "runtime": "81 min",
+      "format": "Digital",
+      "rating": "15",
+      "screenings": [
+        {
+          "date": "2025-12-04",
+          "time": "21:10",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-12-27",
+          "time": "12:15",
+          "location": "NFT3"
+        }
+      ],
+      "category": "new_releases"
+    },
+    {
+      "title": "Earwig",
+      "description": "Lucile Hadžihalilović's first English-language feature is a twisty take on adolescence.",
+      "country_year": "UK-France-Belgium 2021",
+      "director": "Lucile Hadžihalilović",
+      "cast": "Paul Hilton, Romola Garai, Romane Hemelaers, Alex Lawther",
+      "runtime": "114 min",
+      "format": "Digital",
+      "rating": "15",
+      "screenings": [
+        {
+          "date": "2025-12-06",
+          "time": "18:00",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-12-18",
+          "time": "20:35",
+          "location": "NFT4"
+        }
+      ],
+      "category": "new_releases"
+    }
+  ]
+}

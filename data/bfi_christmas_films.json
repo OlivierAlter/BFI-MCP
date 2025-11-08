@@ -1,0 +1,166 @@
+{
+  "generated": "2025-11-08T21:15:17.562782",
+  "source": "BFI Southbank Programme Guide December 2025",
+  "total_films": 6,
+  "total_screenings": 16,
+  "films": [
+    {
+      "title": "Meet Me in St. Louis",
+      "description": "Garland mesmerises, and the songs delight in this beautiful Technicolor musical.",
+      "country_year": "USA 1944",
+      "director": "Vincente Minnelli",
+      "cast": "Judy Garland, Margaret O'Brien, Mary Astor",
+      "runtime": "113 min",
+      "format": "Digital",
+      "rating": "U",
+      "screenings": [
+        {
+          "date": "2025-12-20",
+          "time": "14:50",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-12-22",
+          "time": "18:10",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-12-23",
+          "time": "14:30",
+          "location": "NFT1"
+        }
+      ],
+      "category": "christmas_films"
+    },
+    {
+      "title": "It's a Wonderful Life",
+      "description": "Frank Capra's perennial festive favourite, starring James Stewart as a desperate man offered salvation by an impish guardian angel.",
+      "country_year": "USA 1946",
+      "director": "Frank Capra",
+      "cast": "James Stewart, Donna Reed, Lionel Barrymore",
+      "runtime": "130 min",
+      "format": "Digital 4K",
+      "rating": "U",
+      "screenings": [
+        {
+          "date": "2025-12-19",
+          "time": "14:30",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-12-20",
+          "time": "20:30",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-12-21",
+          "time": "18:10",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-12-22",
+          "time": "14:30",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-12-23",
+          "time": "18:00",
+          "location": "NFT1"
+        }
+      ],
+      "category": "christmas_films"
+    },
+    {
+      "title": "Carol",
+      "description": null,
+      "country_year": "USA-UK 2015",
+      "director": "Todd Haynes",
+      "cast": "Cate Blanchett, Rooney Mara, Kyle Chandler, Sarah Paulson",
+      "runtime": "118 min",
+      "format": "Digital",
+      "rating": "15",
+      "screenings": [
+        {
+          "date": "2025-12-19",
+          "time": "20:40",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-12-21",
+          "time": "12:10",
+          "location": "NFT2"
+        }
+      ],
+      "category": "christmas_films"
+    },
+    {
+      "title": "Scrooge",
+      "description": "Alastair Sim excels as Dickens' notorious curmudgeon Ebenezer Scrooge.",
+      "country_year": "UK 1951",
+      "director": "Brian Desmond Hurst",
+      "cast": "Alastair Sim, Mervyn Johns, Hermione Baddeley",
+      "runtime": "87 min",
+      "format": "Digital",
+      "rating": "U",
+      "screenings": [
+        {
+          "date": "2025-12-20",
+          "time": "13:00",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-12-21",
+          "time": "15:10",
+          "location": "NFT2"
+        }
+      ],
+      "category": "christmas_films"
+    },
+    {
+      "title": "The Apartment",
+      "description": "In Wilder's Oscar-winning comedy, Jack Lemmon plays an office worker who lends his apartment to adulterous superiors in order to get ahead.",
+      "country_year": "USA 1960",
+      "director": "Billy Wilder",
+      "cast": "Jack Lemmon, Shirley MacLaine, Fred MacMurray",
+      "runtime": "126 min",
+      "format": "Digital 4K",
+      "rating": "12A",
+      "screenings": [
+        {
+          "date": "2025-12-19",
+          "time": "18:00",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-12-22",
+          "time": "20:35",
+          "location": "NFT1"
+        }
+      ],
+      "category": "christmas_films"
+    },
+    {
+      "title": "Tokyo Godfathers Tokyo goddofazazu",
+      "description": "An extraordinary anime comedy-drama from anime master Satoshi Kon.",
+      "country_year": "Japan 2003",
+      "director": "Satoshi Kon",
+      "cast": "voices of Toru Emori, Yoshiaki Umegaki, Aya Okamoto",
+      "runtime": "88 min",
+      "format": "Digital",
+      "rating": "12A",
+      "screenings": [
+        {
+          "date": "2025-12-20",
+          "time": "18:30",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-12-23",
+          "time": "20:50",
+          "location": "NFT1"
+        }
+      ],
+      "category": "christmas_films"
+    }
+  ]
+}
