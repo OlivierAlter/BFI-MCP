@@ -1,10 +1,10 @@
 /**
  * BFI-MCP Server Configuration
- * Transport: stdio (standard input/output for Claude Code integration)
+ * Transport: Streamable HTTP (web server on port 3000)
  */
 
 export default {
-  stdio: {
+  http: {
     command: "python",
     args: ["mcp_server.py"],
   },

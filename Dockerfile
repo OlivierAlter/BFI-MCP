@@ -26,9 +26,12 @@ COPY data/ ./data/
 ENV PYTHONUNBUFFERED=1
 ENV PYTHONDONTWRITEBYTECODE=1
 
-# Health check
-HEALTHCHECK --interval=30s --timeout=10s --start-period=5s --retries=3 \
-  CMD python -c "import sys; sys.exit(0)" || exit 1
+# Expose HTTP port
+EXPOSE 3000
 
-# Run the MCP server
+# Health check - ping the HTTP server
+HEALTHCHECK --interval=30s --timeout=10s --start-period=10s --retries=3 \
+  CMD curl -f http://localhost:3000/mcp || exit 1
+
+# Run the MCP server on HTTP
 ENTRYPOINT ["python", "mcp_server.py"]

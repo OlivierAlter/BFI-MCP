@@ -1,67 +1,66 @@
 # BFI-MCP Setup Guide
 
-## Quick Start
+**Note**: BFI-MCP is now HTTP-based and optimized for **Alpic cloud deployment**. See [ALPIC_SETUP.md](ALPIC_SETUP.md) for the recommended setup.
 
-### 1. Install MCP Package
+For local testing or Claude Code integration, see below.
+
+## Quick Start (HTTP Server)
+
+### 1. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 2. Find Your Claude Code Config
+This installs the MCP SDK with HTTP/Streamable HTTP support.
 
-Claude Code MCP configuration location varies by system:
+### 2. Run the HTTP Server Locally
 
-**macOS:**
+Start the MCP server on port 3000:
+
 ```bash
-~/.claude/claude_code_config.json
-# or
-~/Library/Application Support/Claude Code/config.json
+python mcp_server.py
 ```
 
-**Linux:**
-```bash
-~/.config/claude-code/config.json
+Output:
+```
+✓ Loaded 139 films, 256 screenings
+Uvicorn running on http://127.0.0.1:3000
 ```
 
-**Windows:**
+### 3. Test with MCP Inspector
+
+In another terminal:
+
 ```bash
-%APPDATA%\Claude Code\config.json
+npx @modelcontextprotocol/inspector
 ```
 
-### 3. Add BFI-MCP to Config
+1. Select **Streamable HTTP** transport
+2. Enter: `http://127.0.0.1:3000/mcp`
+3. Click "Connect"
+4. Test the tools in the inspector
 
-Find the `mcps` section in your config file and add:
+### 4. Use with Claude Code (via HTTP)
+
+Configure Claude Code to connect to the HTTP server:
 
 ```json
 {
-  "mcps": {
+  "mcpServers": {
     "bfi": {
-      "command": "python",
-      "args": ["/path/to/BFIGuide/bfi-mcp/mcp_server.py"]
+      "url": "http://127.0.0.1:3000/mcp",
+      "transport": "http"
     }
   }
 }
 ```
 
-**Important**: Replace `/path/to/BFIGuide/` with the actual path. You can get it with:
-```bash
-pwd  # Run this in the bfi-mcp directory
-```
+**Note**: Keep the HTTP server running while using Claude Code (run `python mcp_server.py` in a terminal).
 
-### 4. Restart Claude Code
+### 5. Deploy to Alpic (Recommended)
 
-Close and reopen Claude Code (or your editor if using the extension).
-
-### 5. Test the MCP
-
-Once restarted, you should be able to use these commands:
-
-```
-@bfi list-films category=james_cameron
-@bfi search-films query=Terminator
-@bfi get-film-details title="The Terminator"
-```
+See [ALPIC_SETUP.md](ALPIC_SETUP.md) for production deployment instructions.
 
 ---
 
