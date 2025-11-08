@@ -32,6 +32,13 @@ class FilmFilter:
         Returns:
             Filtered list of films
         """
+        # Ensure all string parameters are actually strings (handle Pydantic FieldInfo objects)
+        category = str(category) if category and category != 'None' else None
+        location = str(location) if location and location != 'None' else None
+        director = str(director) if director and director != 'None' else None
+        start_date = str(start_date) if start_date and start_date != 'None' else None
+        end_date = str(end_date) if end_date and end_date != 'None' else None
+
         results = films.copy()
 
         # Filter by category
