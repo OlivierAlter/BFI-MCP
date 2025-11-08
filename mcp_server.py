@@ -175,5 +175,7 @@ if __name__ == "__main__":
     import os
     _load_data()
     # Lambda expects server on port 8080, bind to 0.0.0.0 for container access
-    port = int(os.getenv("PORT", "8080"))
-    mcp.run(transport="streamable-http", host="0.0.0.0", port=port)
+    # FastMCP reads HOST and PORT from environment variables
+    os.environ.setdefault("HOST", "0.0.0.0")
+    os.environ.setdefault("PORT", "8080")
+    mcp.run(transport="streamable-http")
