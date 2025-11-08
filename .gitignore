@@ -14,3 +14,6 @@ venv/
 *.swo
 *~
 .DS_Store
+
+# MCP Inspector config (local development only)
+xmcp.config.ts
