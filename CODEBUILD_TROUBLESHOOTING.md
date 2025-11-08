@@ -1,74 +1,76 @@
 # CodeBuild Troubleshooting Guide
 
-## The Issue: Managed vs Custom Dockerfile
+## The Issue: CodeBuild Managed System Overrides buildspec.yml
 
-CodeBuild failed with:
+CodeBuild is failing because it's using **AWS CodeBuild's managed build system** which completely ignores our custom `buildspec.yml` and uses its own handlers from S3.
+
+The error sequence:
 ```
-error: No `pyproject.toml` found in current directory or any parent directory
+YAML location is /codebuild/readonly/buildspec.yml  ← CodeBuild's managed spec
+-f $CODEBUILD_SRC_DIR_DOCKERFILES/$RUNTIME          ← CodeBuild's managed Dockerfile
+error: Unable to find lockfile at `uv.lock`          ← Expecting uv package manager
 ```
 
 ### Root Cause
 
-Your CodeBuild project is configured to use **AWS CodeBuild's managed image system** with special handlers/dockerfiles from S3. The error shows:
+Your CodeBuild project is configured with **CodeBuild's managed handlers system** which:
+1. Ignores your repository's buildspec.yml
+2. Uses pre-made Dockerfiles from S3 (`$CODEBUILD_SRC_DIR_DOCKERFILES`)
+3. Expects specific file formats (uv.lock for Python)
+4. Runs its own pre-build/build/post-build commands
 
-```
-docker buildx build ... -f $CODEBUILD_SRC_DIR_DOCKERFILES/$RUNTIME
-```
+This is a special CodeBuild feature for "managed builds" - it must be disabled for custom projects.
 
-This uses CodeBuild's Lambda-style template (python3.13), NOT our custom `Dockerfile`.
+## THE FIX: Disable CodeBuild's Managed System
 
-## Two Solutions
+### Step-by-Step Instructions
 
-### Solution 1: Use CodeBuild's Managed System (Current)
+#### Step 1: Go to CodeBuild Project Settings
 
-If you want to keep using CodeBuild's managed build system:
+1. Open AWS CodeBuild console
+2. Find your project for BFI-MCP
+3. Click **Edit** button
+4. Select **Edit source**
 
-**What we did:**
-- ✅ Added `pyproject.toml` (modern Python packaging)
-- ✅ Updated `buildspec.yml` with proper build args
+#### Step 2: Configure Source Settings
 
-**What still needed:**
-- Rebuild using this command (CodeBuild will now find pyproject.toml)
-- Monitor logs for any remaining issues
+In the **Source** section:
 
-### Solution 2: Use Our Custom Dockerfile (Recommended)
+- **Repository**: `github.com/OlivierAlter/BFI-MCP` ✓
+- **Branch**: `main` ✓
+- **Buildspec name**: `buildspec.yml` ← **IMPORTANT: Type this explicitly**
+  - Don't leave it blank
+  - Don't use "Insert build commands"
+  - Type: `buildspec.yml`
 
-To skip CodeBuild's managed system and use our Dockerfile directly:
+**Click "Update source"**
 
-#### Step 1: Reconfigure CodeBuild Project
+#### Step 3: Configure Environment
 
-In AWS CodeBuild console:
+Click **Edit** → **Edit environment**
 
-1. Go to your project → Edit
-2. **Environment section**:
-   - Under "Additional configuration":
-   - Find and **UNCHECK** any "Managed image" or "Environment image" option
-   - Or change to use standard AWS image: `aws/codebuild/standard:7.0` (Ubuntu)
+In the **Environment** section:
 
-3. **Source section**:
-   - Ensure "Buildspec" is set to: `buildspec.yml` (our file)
-   - Not overridden by dropdown
+1. **Operating system**: Ubuntu
+2. **Runtime(s)**: Standard
+3. **Image**: `aws/codebuild/standard:7.0` (Ubuntu standard image)
+4. **Image version**: Always use latest
+5. **Privileged**: ✅ **ENABLED** (required for Docker)
 
-4. **Click Update environment**
+**Do NOT select**:
+- ❌ Any "managed" handlers
+- ❌ "Managed image" options
+- ❌ CodeBuild's Lambda build images
 
-#### Step 2: Verify Settings
+#### Step 4: Save & Run Build
 
-The buildspec.yml should have:
-```yaml
-phases:
-  build:
-    commands:
-      - docker build -t $REPOSITORY_URI:$IMAGE_TAG -f Dockerfile .
-      - docker push $REPOSITORY_URI:$IMAGE_TAG
-```
+Click **Update environment** to save
 
-#### Step 3: Run Build Again
-
-CodeBuild will now:
-- ✅ Read OUR `buildspec.yml`
-- ✅ Use OUR `Dockerfile` (not managed template)
-- ✅ Build the BFI-MCP image
-- ✅ Push to ECR
+Then trigger a new build - CodeBuild will now:
+- ✅ Read our `buildspec.yml` from the repo
+- ✅ Use our custom `Dockerfile`
+- ✅ Build and push the image
+- ✅ Run tests inside the container
 
 ## What Changed in This Repo
 
@@ -88,29 +90,16 @@ This satisfies CodeBuild's managed system requirements.
 - Handles ECR login and image tagging
 - Generates `imagedefinitions.json` for deployment
 
-## CodeBuild Project Configuration Checklist
+## Quick Checklist
 
-When you configure (or reconfigure) your CodeBuild project:
+After following the steps above, verify:
 
-### Source
-- [ ] Repository: `github.com/OlivierAlter/BFI-MCP`
-- [ ] Branch: `main`
-- [ ] Buildspec name: `buildspec.yml`
-
-### Environment
-- [ ] Operating system: `Ubuntu`
-- [ ] Runtime(s): `Standard`
-- [ ] Image: `aws/codebuild/standard:7.0` (or latest)
-- [ ] Image version: `Always use latest`
-- [ ] Privileged: ✅ **ENABLED** (required for Docker)
-
-### Service Role
-- [ ] Has ECR push permissions
-- [ ] Has ECR get-login-password permission
-
-### Buildspec
-- [ ] Using: `buildspec.yml`
-- [ ] Not overridden in environment variables
+- [ ] **Source Buildspec**: Set to `buildspec.yml` (typed explicitly)
+- [ ] **Environment Image**: Ubuntu `aws/codebuild/standard:7.0`
+- [ ] **Privileged Mode**: ✅ Enabled
+- [ ] **No managed handlers**: Disabled
+- [ ] **ECR Repository**: Created with name `bfi-mcp`
+- [ ] **IAM Role**: Has ECR push permissions (see below)
 
 ## IAM Permissions Required
 
