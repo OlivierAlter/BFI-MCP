@@ -36,7 +36,9 @@ export const loadFilms = (): Film[] => {
 
   try {
     const data = readFileSync(allFilmsPath, "utf-8");
-    filmsCache = JSON.parse(data) as Film[];
+    const parsed = JSON.parse(data);
+    // Extract films array from the nested JSON structure
+    filmsCache = (parsed.films || parsed) as Film[];
     console.log(`✓ Loaded ${filmsCache.length} films`);
     return filmsCache;
   } catch (error) {
