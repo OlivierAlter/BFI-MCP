@@ -1,44 +1,50 @@
 version: 0.2
 
 # AWS CodeBuild buildspec for BFI-MCP Docker image
-# This builds a Docker image and pushes it to ECR
+# Builds a containerized MCP server and pushes to ECR
+
+env:
+  variables:
+    AWS_ACCOUNT_ID: "REPLACE_WITH_YOUR_ACCOUNT_ID"
+    AWS_DEFAULT_REGION: "us-east-1"
+    IMAGE_NAME: "bfi-mcp"
 
 phases:
   pre_build:
     commands:
+      - echo "Pre-build phase starting..."
       - echo "Logging in to Amazon ECR..."
       - aws ecr get-login-password --region $AWS_DEFAULT_REGION | docker login --username AWS --password-stdin $AWS_ACCOUNT_ID.dkr.ecr.$AWS_DEFAULT_REGION.amazonaws.com
-      - REPOSITORY_URI=$AWS_ACCOUNT_ID.dkr.ecr.$AWS_DEFAULT_REGION.amazonaws.com/bfi-mcp
+      - REPOSITORY_URI=$AWS_ACCOUNT_ID.dkr.ecr.$AWS_DEFAULT_REGION.amazonaws.com/$IMAGE_NAME
       - COMMIT_HASH=$(echo $CODEBUILD_RESOLVED_SOURCE_VERSION | cut -c 1-7)
       - IMAGE_TAG=${COMMIT_HASH:=latest}
+      - echo "Repository URI: $REPOSITORY_URI"
       - echo "Image tag: $IMAGE_TAG"
 
   build:
     commands:
-      - echo "Building Docker image on `date`"
-      - docker build -t $REPOSITORY_URI:$IMAGE_TAG .
-      - docker tag $REPOSITORY_URI:$IMAGE_TAG $REPOSITORY_URI:latest
-      - echo "Running tests..."
-      - docker run --rm $REPOSITORY_URI:$IMAGE_TAG python test.py || docker run --rm -v $(pwd):/app $REPOSITORY_URI:$IMAGE_TAG python test.py
+      - echo "Build phase starting on `date`"
+      - echo "Building Docker image with custom Dockerfile..."
+      - docker build -t $REPOSITORY_URI:$IMAGE_TAG -t $REPOSITORY_URI:latest -f Dockerfile .
+      - echo "Docker image built successfully"
+      - echo "Testing image..."
+      - docker run --rm $REPOSITORY_URI:$IMAGE_TAG python test.py
 
   post_build:
     commands:
-      - echo "Pushing Docker image to ECR on `date`"
+      - echo "Post-build phase starting on `date`"
+      - echo "Pushing Docker image to ECR..."
       - docker push $REPOSITORY_URI:$IMAGE_TAG
       - docker push $REPOSITORY_URI:latest
       - echo "Docker image pushed successfully"
       - printf '[{"name":"bfi-mcp","imageUri":"%s"}]' $REPOSITORY_URI:$IMAGE_TAG > imagedefinitions.json
+      - echo "Build completed successfully"
       - cat imagedefinitions.json
 
 artifacts:
   files:
     - imagedefinitions.json
   name: BuildArtifact
-
-environment:
-  variables:
-    AWS_ACCOUNT_ID: "REPLACE_WITH_YOUR_ACCOUNT_ID"
-    AWS_DEFAULT_REGION: "us-east-1"
 
 cache:
   paths:
