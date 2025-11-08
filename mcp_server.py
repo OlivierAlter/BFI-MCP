@@ -172,5 +172,8 @@ def get_film_details(
 
 
 if __name__ == "__main__":
+    import os
     _load_data()
-    mcp.run(transport="streamable-http")
+    # Lambda expects server on port 8080, bind to 0.0.0.0 for container access
+    port = int(os.getenv("PORT", "8080"))
+    mcp.run(transport="streamable-http", host="0.0.0.0", port=port)
