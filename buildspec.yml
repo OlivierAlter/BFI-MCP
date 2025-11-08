@@ -1,0 +1,45 @@
+version: 0.2
+
+# AWS CodeBuild buildspec for BFI-MCP Docker image
+# This builds a Docker image and pushes it to ECR
+
+phases:
+  pre_build:
+    commands:
+      - echo "Logging in to Amazon ECR..."
+      - aws ecr get-login-password --region $AWS_DEFAULT_REGION | docker login --username AWS --password-stdin $AWS_ACCOUNT_ID.dkr.ecr.$AWS_DEFAULT_REGION.amazonaws.com
+      - REPOSITORY_URI=$AWS_ACCOUNT_ID.dkr.ecr.$AWS_DEFAULT_REGION.amazonaws.com/bfi-mcp
+      - COMMIT_HASH=$(echo $CODEBUILD_RESOLVED_SOURCE_VERSION | cut -c 1-7)
+      - IMAGE_TAG=${COMMIT_HASH:=latest}
+      - echo "Image tag: $IMAGE_TAG"
+
+  build:
+    commands:
+      - echo "Building Docker image on `date`"
+      - docker build -t $REPOSITORY_URI:$IMAGE_TAG .
+      - docker tag $REPOSITORY_URI:$IMAGE_TAG $REPOSITORY_URI:latest
+      - echo "Running tests..."
+      - docker run --rm $REPOSITORY_URI:$IMAGE_TAG python test.py || docker run --rm -v $(pwd):/app $REPOSITORY_URI:$IMAGE_TAG python test.py
+
+  post_build:
+    commands:
+      - echo "Pushing Docker image to ECR on `date`"
+      - docker push $REPOSITORY_URI:$IMAGE_TAG
+      - docker push $REPOSITORY_URI:latest
+      - echo "Docker image pushed successfully"
+      - printf '[{"name":"bfi-mcp","imageUri":"%s"}]' $REPOSITORY_URI:$IMAGE_TAG > imagedefinitions.json
+      - cat imagedefinitions.json
+
+artifacts:
+  files:
+    - imagedefinitions.json
+  name: BuildArtifact
+
+environment:
+  variables:
+    AWS_ACCOUNT_ID: "REPLACE_WITH_YOUR_ACCOUNT_ID"
+    AWS_DEFAULT_REGION: "us-east-1"
+
+cache:
+  paths:
+    - '/root/.cache/pip/**/*'

@@ -1,0 +1,24 @@
+version: '3.8'
+
+services:
+  bfi-mcp:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: bfi-mcp:latest
+    container_name: bfi-mcp
+    stdin_open: true
+    tty: true
+    environment:
+      - PYTHONUNBUFFERED=1
+    # For stdio MCP communication, the container needs to maintain stdin/stdout
+    # This is used when the MCP is called as a subprocess
+    volumes:
+      - ./data:/app/data:ro  # Mount data as read-only
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "python", "-c", "import sys; sys.exit(0)"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 5s
