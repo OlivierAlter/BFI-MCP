@@ -1,8 +1,8 @@
-# BFI-MCP Setup Guide
+# Local Testing & Development
 
-**Note**: BFI-MCP is now HTTP-based and optimized for **Alpic cloud deployment**. See [ALPIC_SETUP.md](ALPIC_SETUP.md) for the recommended setup.
+**For Production Deployment**: See [ALPIC_SETUP.md](ALPIC_SETUP.md) to deploy to Alpic cloud.
 
-For local testing or Claude Code integration, see below.
+This guide covers local testing of the HTTP server for development and debugging.
 
 ## Quick Start (HTTP Server)
 

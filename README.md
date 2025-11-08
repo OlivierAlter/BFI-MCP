@@ -1,31 +1,101 @@
 # BFI-MCP: Claude MCP for BFI Southbank Films
 
-A Model Context Protocol (MCP) server that provides access to BFI Southbank film screenings data with intelligent filtering and search.
+A high-performance Model Context Protocol (MCP) server for accessing BFI Southbank film screenings data with intelligent filtering and search. Built with FastMCP and optimized for **Alpic** cloud deployment.
 
 ## Features
 
-✅ **Access all BFI films** - 139 films with complete metadata
-✅ **Smart filtering** - Filter by category, location, director, date range
-✅ **Full-text search** - Search in titles, directors, descriptions
-✅ **Complete details** - Get screenings, metadata, ratings, descriptions
-✅ **Two deployment options** - Claude Code (local) or Alpic (cloud HTTP)
-✅ **Zero hidden dependencies** - Uses existing JSON data files
+✅ **139 BFI Films** - Complete metadata, descriptions, and screenings
+✅ **Smart Filtering** - Filter by category, location, director, date range
+✅ **Full-Text Search** - Search in titles, directors, descriptions
+✅ **Complete Details** - Screenings, ratings, cast, runtime, format
+✅ **HTTP API** - Fast Streamable HTTP transport via FastMCP
+✅ **Alpic Ready** - Automatic deployment with zero configuration
 
-## Installation
+## Quick Start: Deploy to Alpic
 
-Choose one of two deployment options:
+See **[ALPIC_SETUP.md](ALPIC_SETUP.md)** for complete deployment instructions.
 
-### Option A: Claude Code (Local) - Recommended for Personal Use
+### 1-Minute Setup
 
-See **[SETUP.md](SETUP.md)** for complete instructions on integrating with Claude Code as a local subprocess.
+1. Go to https://alpic.ai
+2. Sign in with GitHub
+3. Click "New Project"
+4. Select `OlivierAlter/BFI-MCP`
+5. Click "Create"
+6. Alpic auto-detects and deploys
+7. Get your public endpoint
 
-### Option B: Alpic (Cloud) - Recommended for Team Use
+That's it! Your MCP is live.
 
-See **[ALPIC_SETUP.md](ALPIC_SETUP.md)** for deploying to Alpic as a public HTTP service.
+## Local Testing
+
+### Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Run HTTP Server Locally
+
+```bash
+python mcp_server.py
+```
+
+Server runs on `http://127.0.0.1:3000`
+
+### Test with MCP Inspector
+
+```bash
+npx @modelcontextprotocol/inspector
+```
+
+Select **Streamable HTTP** → Enter `http://127.0.0.1:3000/mcp`
+
+### Configure for Claude Code
+
+To use with Claude Code locally:
+
+```json
+{
+  "mcpServers": {
+    "bfi": {
+      "url": "http://127.0.0.1:3000/mcp",
+      "transport": "http"
+    }
+  }
+}
+```
+
+**Note:** Keep `python mcp_server.py` running while using Claude Code.
+
+## Using Your Deployed MCP
+
+Once deployed on Alpic, integrate with Claude Code:
+
+```json
+{
+  "mcpServers": {
+    "bfi": {
+      "url": "https://mcp-server-XXXXXXX.alpic.live",
+      "transport": "http"
+    }
+  }
+}
+```
+
+Or use with MCP Inspector:
+
+```bash
+npx @modelcontextprotocol/inspector
+```
+
+Select **Streamable HTTP** → Enter your Alpic endpoint
 
 ---
 
-## Quick Start: Claude Code
+## Advanced: Claude Code (Local) - Manual Setup
+
+For local integration without Alpic:
 
 ### 1. Install Dependencies
 
@@ -35,7 +105,7 @@ pip install -r requirements.txt
 
 ### 2. Update Claude Code Config
 
-Add this to your Claude Code MCP configuration (usually in `~/.claude/claude_code_config.json` or your MCP config):
+Add this to your Claude Code MCP configuration (usually in `~/.claude/claude_code_config.json`):
 
 ```json
 {

@@ -1,89 +1,75 @@
-# Alpic Deployment Guide for BFI-MCP
+# Deploy BFI-MCP to Alpic (Primary Guide)
 
-This guide explains how to deploy BFI-MCP on Alpic, Anthropic's MCP hosting platform.
+**Alpic** is Anthropic's cloud platform for deploying and scaling Model Context Protocol servers. BFI-MCP is optimized for Alpic with zero configuration needed.
 
-## Overview
+## What is Alpic?
 
-**Alpic** is a platform for hosting and distributing MCP servers. Unlike Claude Code (which runs MCPs locally as subprocesses), Alpic runs MCPs as **HTTP web services** that can be accessed remotely.
+Alpic automatically:
+- ✅ Detects Python MCP projects from `pyproject.toml`
+- ✅ Builds and containerizes your code
+- ✅ Deploys as public HTTPS service
+- ✅ Provides scalable HTTP endpoints
+- ✅ Handles updates automatically
 
-**Key Difference:**
-- **Claude Code**: Runs MCP as stdio subprocess locally
-- **Alpic**: Runs MCP as HTTP server in the cloud
+**Result**: Your MCP is accessible via public HTTPS endpoint in minutes.
 
 ## Prerequisites
 
-1. **Alpic Account**: https://alpic.ai
-2. **GitHub Account**: For source code hosting
-3. **GitHub App**: Alpic AI app installed on your organization
+1. **GitHub Account** - For authentication and code hosting
+2. **Alpic Account** - Free at https://alpic.ai
+3. **BFI-MCP Repository** - This repo (already configured)
 
-## Initial Setup (One-time)
+## Deploy in 3 Steps
 
-### Step 1: Connect GitHub to Alpic
-
-1. Go to https://alpic.ai
-2. Click "Sign in with GitHub"
-3. Authorize Alpic to access your repositories
-4. Create a Team in Alpic
-
-### Step 2: Create a Project
-
-1. In Alpic dashboard, click "New Project"
-2. Select the BFI-MCP repository
-3. Set **Primary Branch** to: `main`
-4. Click "Create Project"
-
-## Configuration in Alpic
-
-### Build Configuration
-
-Alpic should **auto-detect** the build configuration from `pyproject.toml` and `uv.lock`.
-
-If manual configuration is needed:
-
-**Install Command:**
+### Step 1: Go to Alpic
 ```
-uv sync
+https://alpic.ai
 ```
 
-**Build Command (Optional):**
-```
-python test.py
-```
+### Step 2: Sign In with GitHub
+Click "Sign in with GitHub" and authorize access to your repositories.
 
-**Build Output Directory:**
-```
-/app
-```
+### Step 3: Create Project
+1. Click "New Project"
+2. Select: `OlivierAlter/BFI-MCP`
+3. Primary Branch: `main`
+4. Click "Create"
 
-**Start Command:**
-```
-python mcp_server.py
-```
+**That's it!** Alpic will:
+- ✅ Detect `pyproject.toml` (package config)
+- ✅ Read `uv.lock` (locked dependencies)
+- ✅ Build Python environment
+- ✅ Start `python mcp_server.py`
+- ✅ Deploy as HTTPS service
+- ✅ Provide public endpoint
 
-### Environment Variables
+## No Configuration Needed
 
-Add any required environment variables in Alpic's project settings:
-- Currently: None required
-- Format: `KEY=value` pairs
+BFI-MCP is pre-configured for Alpic:
+- ✅ `pyproject.toml` - Package metadata
+- ✅ `uv.lock` - Dependency lock file
+- ✅ `mcp_server.py` - Entry point
+- ✅ `data/` - All film data included
+- ✅ `.gitignore` - Excludes unnecessary files
+
+Alpic auto-detects all of this. Zero manual configuration required.
 
 ## After Deployment
 
-Once deployed, Alpic provides:
+Alpic will show your deployment with a public HTTPS endpoint:
 
-### Public Endpoint
 ```
 https://mcp-server-XXXXXXX.alpic.live
 ```
 
-### Integration with Claude Code
+### Use with Claude Code
 
-To use Alpic-hosted BFI-MCP with Claude Code:
+Add to your Claude Code config (`~/.claude/claude_code_config.json`):
 
-Add to your Claude Code config:
 ```json
 {
   "mcpServers": {
-    "bfi-alpic": {
+    "bfi": {
       "url": "https://mcp-server-XXXXXXX.alpic.live",
       "transport": "http"
     }
@@ -91,76 +77,59 @@ Add to your Claude Code config:
 }
 ```
 
-### Testing with MCP Inspector
+Restart Claude Code and use `@bfi` commands.
 
-After deployment, test with:
+### Test with MCP Inspector
+
 ```bash
 npx @modelcontextprotocol/inspector
 ```
 
-1. Select **Streamable HTTP** transport
+1. Select **Streamable HTTP**
 2. Enter: `https://mcp-server-XXXXXXX.alpic.live`
 3. Click "Connect"
-4. Test tools: list-films, search-films, get-film-details
+4. Test: list-films, search-films, get-film-details
 
-## Updating Data
+## Auto-Updates
 
-When you have new BFI film data:
+When you push changes to GitHub:
+1. Alpic detects the update automatically
+2. Rebuilds and redeploys
+3. New version live within minutes
+4. No manual intervention needed
 
-1. Update JSON files in `data/` directory
-2. Commit and push to `main` branch
-3. Alpic automatically rebuilds and deploys
-4. New data is available via the HTTP endpoint
+## Status Dashboard
+
+In Alpic:
+- View deployment logs
+- Monitor uptime
+- See usage analytics
+- Manage environments
 
 ## Troubleshooting
 
-### Build Fails
+### Deployment Failed
 
-**Check:**
-- ✓ `pyproject.toml` exists (defines package)
-- ✓ `uv.lock` exists (locks dependencies)
-- ✓ `mcp_server.py` exists and is executable
-- ✓ Data files in `data/` directory are included
+Check Alpic dashboard logs. Most common issues:
+- Missing `pyproject.toml` ✓ (we have it)
+- Missing `uv.lock` ✓ (we have it)
+- Missing data files ✓ (all included)
 
-**Rebuild:**
-- In Alpic dashboard, click "Rebuild" on your project
-- Check build logs in the UI
+### MCP Inspector Won't Connect
 
-### Connection Issues
+1. Check endpoint URL is correct (copy from Alpic)
+2. Check deployment status is "Active"
+3. Try endpoint in browser to verify accessibility
 
-**MCP Inspector won't connect:**
-1. Verify endpoint URL is correct
-2. Check if deployment is "Active" in Alpic
-3. Try accessing URL in browser (should show connection info)
+### Issues
 
-### HTTP vs Stdio
-
-**Our Implementation:**
-- Primary transport: **stdio** (for Claude Code local use)
-- Alpic transport: **HTTP** (Alpic wraps the stdio server)
-
-This means:
-- ✅ Works with Claude Code locally (stdio)
-- ✅ Works with Alpic remotely (HTTP)
-- ✅ Works with MCP Inspector (HTTP)
-
-## Deployment Status
-
-Once deployed:
-- [ ] Alpic shows "Active" status
-- [ ] Public endpoint accessible
-- [ ] MCP Inspector can connect
-- [ ] Tools respond to queries
-
-## Support
-
-For Alpic-specific issues: https://docs.alpic.ai
-
-For BFI-MCP issues: See README.md
+- **Alpic Docs**: https://docs.alpic.ai
+- **BFI-MCP Issues**: See README.md or GitHub issues
 
 ---
 
-**Status**: Ready for Alpic deployment
-**Configuration**: Auto-detected from pyproject.toml + uv.lock
-**Transport**: HTTP (Alpic manages)
+**Status**: ✅ Ready for Alpic deployment
+**Setup Time**: ~5 minutes
+**Transport**: HTTP via FastMCP
+**Deployment**: Cloud (Alpic) + local testing available
 **Last Updated**: November 8, 2025
