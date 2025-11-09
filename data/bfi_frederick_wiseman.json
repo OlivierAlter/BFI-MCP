@@ -1,74 +1,120 @@
 {
-  "generated": "2025-11-08T21:18:34.851298",
-  "source": "BFI Southbank Programme Guide December 2025",
-  "total_films": 5,
-  "total_screenings": 10,
+  "generated": "2025-11-09T08:47:55.064Z",
+  "source": "BFI Southbank Programme Guide October-December 2025 (Merged)",
+  "total_films": 10,
+  "total_screenings": 20,
   "films": [
     {
-      "title": "Titicut Follies + intro by Sandra Hebron, programme curator*",
-      "description": "Frederick Wiseman’s unflinching debut shows life inside an institution for the High School + discussion about Frederick Wiseman’s aesthetics and approach with filmmaker Andrea Luka",
-      "country_year": "USA 1967",
+      "title": "Aspen + intro by programme curator Sandra Hebron",
+      "description": null,
+      "country_year": "USA 1991",
       "director": "Frederick Wiseman",
       "cast": null,
-      "runtime": "84 min",
-      "format": "Digital 4K",
+      "runtime": "146 min",
+      "format": "Digital",
       "rating": null,
       "screenings": [
         {
-          "date": "2025-10-29",
+          "date": "2025-12-04",
+          "time": "18:00",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-12-30",
+          "time": "17:30",
+          "location": "NFT3"
+        }
+      ],
+      "category": "frederick_wiseman"
+    },
+    {
+      "title": "At Berkeley",
+      "description": "Frederick Wiseman's film delves into the politics of educational life with this scintillating documentary.",
+      "country_year": "USA 2013",
+      "director": "Frederick Wiseman",
+      "cast": null,
+      "runtime": "244 min",
+      "format": "Digital",
+      "rating": "PG",
+      "screenings": [
+        {
+          "date": "2025-12-06",
+          "time": "18:35",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-12-20",
+          "time": "13:45",
+          "location": "NFT2"
+        }
+      ],
+      "category": "frederick_wiseman"
+    },
+    {
+      "title": "Belfast, Maine",
+      "description": "One of Frederick Wiseman's most immersive films captures life in the New England port.",
+      "country_year": "USA 1999",
+      "director": "Frederick Wiseman",
+      "cast": null,
+      "runtime": "248 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-13",
           "time": "18:10",
           "location": "NFT3"
         },
         {
-          "date": "2025-11-09",
-          "time": "12:30",
-          "location": "NFT3"
+          "date": "2025-12-21",
+          "time": "16:20",
+          "location": "NFT4"
         }
       ],
       "category": "frederick_wiseman"
     },
     {
-      "title": "Zimmerman and curator Matthew Barrington*",
-      "description": "A riveting portrait of life inside a large city high school, where social and moral values are handed down.",
-      "country_year": "USA 1968",
+      "title": "Central Park",
+      "description": "A fascinating portrait of those involved in maintaining Manhattan's green space.",
+      "country_year": "USA 1989",
       "director": "Frederick Wiseman",
       "cast": null,
-      "runtime": "75 min",
-      "format": "Digital 4K",
+      "runtime": "176 min",
+      "format": "Digital",
       "rating": null,
       "screenings": [
         {
-          "date": "2025-11-01",
-          "time": "12:30",
-          "location": "NFT3"
-        },
-        {
-          "date": "2025-11-13",
-          "time": "18:30",
-          "location": "NFT3"
-        }
-      ],
-      "category": "frederick_wiseman"
-    },
-    {
-      "title": "Welfare",
-      "description": "A remarkable glimpse into the Kafkaesque nature of New York’s welfare system.",
-      "country_year": "USA 1975",
-      "director": "Frederick Wiseman",
-      "cast": null,
-      "runtime": "167 min",
-      "format": "Digital 4K",
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-11-08",
-          "time": "17:15",
+          "date": "2025-12-14",
+          "time": "17:30",
           "location": "NFT2"
         },
         {
-          "date": "2025-11-23",
-          "time": "14:45",
+          "date": "2025-12-28",
+          "time": "14:00",
+          "location": "NFT2"
+        }
+      ],
+      "category": "frederick_wiseman"
+    },
+    {
+      "title": "In Jackson Heights",
+      "description": "Frederick Wiseman's portrait of the titular community is one of his warmest and most compassionate films.",
+      "country_year": "USA 2015",
+      "director": "Frederick Wiseman",
+      "cast": null,
+      "runtime": "190 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-07",
+          "time": "17:15",
           "location": "NFT4"
+        },
+        {
+          "date": "2025-12-27",
+          "time": "17:00",
+          "location": "NFT3"
         }
       ],
       "category": "frederick_wiseman"
@@ -114,6 +160,75 @@
         {
           "date": "2025-11-29",
           "time": "14:20",
+          "location": "NFT3"
+        }
+      ],
+      "category": "frederick_wiseman"
+    },
+    {
+      "title": "Titicut Follies + intro by Sandra Hebron, programme curator*",
+      "description": "Frederick Wiseman’s unflinching debut shows life inside an institution for the High School + discussion about Frederick Wiseman’s aesthetics and approach with filmmaker Andrea Luka",
+      "country_year": "USA 1967",
+      "director": "Frederick Wiseman",
+      "cast": null,
+      "runtime": "84 min",
+      "format": "Digital 4K",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-29",
+          "time": "18:10",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-11-09",
+          "time": "12:30",
+          "location": "NFT3"
+        }
+      ],
+      "category": "frederick_wiseman"
+    },
+    {
+      "title": "Welfare",
+      "description": "A remarkable glimpse into the Kafkaesque nature of New York’s welfare system.",
+      "country_year": "USA 1975",
+      "director": "Frederick Wiseman",
+      "cast": null,
+      "runtime": "167 min",
+      "format": "Digital 4K",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-08",
+          "time": "17:15",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-11-23",
+          "time": "14:45",
+          "location": "NFT4"
+        }
+      ],
+      "category": "frederick_wiseman"
+    },
+    {
+      "title": "Zimmerman and curator Matthew Barrington*",
+      "description": "A riveting portrait of life inside a large city high school, where social and moral values are handed down.",
+      "country_year": "USA 1968",
+      "director": "Frederick Wiseman",
+      "cast": null,
+      "runtime": "75 min",
+      "format": "Digital 4K",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-01",
+          "time": "12:30",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-11-13",
+          "time": "18:30",
           "location": "NFT3"
         }
       ],

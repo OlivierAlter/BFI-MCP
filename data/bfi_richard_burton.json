@@ -1,27 +1,9 @@
 {
-  "generated": "2025-11-08T21:15:17.567628",
-  "source": "BFI Southbank Programme Guide December 2025",
+  "generated": "2025-11-09T08:47:55.064Z",
+  "source": "BFI Southbank Programme Guide October-December 2025 (Merged)",
   "total_films": 15,
   "total_screenings": 29,
   "films": [
-    {
-      "title": "Look Back at Richard Burton",
-      "description": "An in-depth overview of the acclaimed Welsh actor's incredible screen career.",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "90 min",
-      "format": null,
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-12-02",
-          "time": "18:15",
-          "location": "NFT1"
-        }
-      ],
-      "category": "richard_burton"
-    },
     {
       "title": "A discussion that looks at the themes raised by Michael Radford's adaptation of George Orwell's novel.",
       "description": "Free to ticket holders of 1984 (p40) on Mon 15 Dec 18:20 NFT2, otherwise £6.50 (must be booked in advance due to capacity)",
@@ -36,98 +18,6 @@
           "date": "2025-12-15",
           "time": "20:30",
           "location": "BFI BLUE ROOM"
-        }
-      ],
-      "category": "richard_burton"
-    },
-    {
-      "title": "The Last Days of Dolwyn + intro by actor Kate Burton, Richard Burton's daughter",
-      "description": "Nefarious intentions underlie plans to flood a Welsh valley in this underrated melodrama – Richard Burton's film debut.",
-      "country_year": "UK 1949",
-      "director": "Emlyn Williams",
-      "cast": "Edith Evans, Richard Burton, Anthony James, Emlyn Williams",
-      "runtime": "95 min",
-      "format": "35mm",
-      "rating": "PG",
-      "screenings": [
-        {
-          "date": "2025-12-02",
-          "time": "20:30",
-          "location": "NFT1"
-        },
-        {
-          "date": "2025-12-14",
-          "time": "12:00",
-          "location": "NFT3"
-        }
-      ],
-      "category": "richard_burton"
-    },
-    {
-      "title": "Now Barabbas Was a Robber...",
-      "description": "Richard Burton is a riveting presence in this post-war prison drama about a group of men who find themselves behind bars.",
-      "country_year": "UK 1949",
-      "director": "Gordon Parry",
-      "cast": "Richard Burton, Cedric Hardwicke, Richard Greene, Kathleen Harrison",
-      "runtime": "85 min",
-      "format": "35mm",
-      "rating": "PG",
-      "screenings": [
-        {
-          "date": "2025-12-06",
-          "time": "11:50",
-          "location": "NFT2"
-        },
-        {
-          "date": "2025-12-12",
-          "time": "20:50",
-          "location": "NFT3"
-        }
-      ],
-      "category": "richard_burton"
-    },
-    {
-      "title": "My Cousin Rachel",
-      "description": "Intrigue and desire drive a young heir to the brink of destruction in this Cornish-set Gothic tale.",
-      "country_year": "USA 1952",
-      "director": "Henry Koster",
-      "cast": "Richard Burton, Olivia de Havilland, Audrey Dalton, Ronald Squire",
-      "runtime": "98 min",
-      "format": "Digital 4K",
-      "rating": "PG",
-      "screenings": [
-        {
-          "date": "2025-12-05",
-          "time": "20:50",
-          "location": "NFT1"
-        },
-        {
-          "date": "2025-12-06",
-          "time": "14:00",
-          "location": "NFT2"
-        }
-      ],
-      "category": "richard_burton"
-    },
-    {
-      "title": "Richard Burton is a whirlwind of anger and anguish in this screen adaptation of John Osborne's era-defining play.",
-      "description": null,
-      "country_year": null,
-      "director": null,
-      "cast": "a BBC interview with Richard Burton and Claire Bloom on Look Back In Anger (",
-      "runtime": "8 min",
-      "format": null,
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-12-06",
-          "time": "16:10",
-          "location": "NFT2"
-        },
-        {
-          "date": "2025-12-15",
-          "time": "20:50",
-          "location": "NFT1"
         }
       ],
       "category": "richard_burton"
@@ -151,75 +41,6 @@
       "category": "richard_burton"
     },
     {
-      "title": "The Spy Who Came in From the Cold + intro by Charlotte Frances Burton, Richard Burton's granddaughter",
-      "description": "Richard Burton gives one of his very greatest performances in this masterful adaptation of John le Carré's classic Cold War espionage novel.",
-      "country_year": "UK 1965",
-      "director": "Martin Ritt",
-      "cast": "Richard Burton, Oskar Werner, Claire Bloom, Sam Wanamaker",
-      "runtime": "112 min",
-      "format": "Digital",
-      "rating": "PG",
-      "screenings": [
-        {
-          "date": "2025-12-08",
-          "time": "20:30",
-          "location": "NFT1"
-        },
-        {
-          "date": "2025-12-17",
-          "time": "18:10",
-          "location": "NFT2"
-        }
-      ],
-      "category": "richard_burton"
-    },
-    {
-      "title": "Who's Afraid of Virginia Woolf?",
-      "description": "Richard Burton and Elizabeth Taylor's real-life dramas seep on to the screen in Mike Nichols' award-winning classic about marital strife.",
-      "country_year": "USA 1966",
-      "director": "Mike Nichols",
-      "cast": "Richard Burton, Elizabeth Taylor, George Segal, Sandy Dennis",
-      "runtime": "132 min",
-      "format": "Digital",
-      "rating": "12A",
-      "screenings": [
-        {
-          "date": "2025-12-13",
-          "time": "17:50",
-          "location": "NFT1"
-        },
-        {
-          "date": "2025-12-29",
-          "time": "20:30",
-          "location": "NFT1"
-        }
-      ],
-      "category": "richard_burton"
-    },
-    {
-      "title": "The Comedians + intro by season co-curator James Bell",
-      "description": "Peter Glenville's last film is a gripping exposé of Haiti's descent into terror, with Richard Burton leading an all-star cast.",
-      "country_year": "USA 1967",
-      "director": "Peter Glenville",
-      "cast": "Richard Burton, Elizabeth Taylor, Alec Guiness, Peter Ustinov",
-      "runtime": "147 min",
-      "format": "35mm",
-      "rating": "PG",
-      "screenings": [
-        {
-          "date": "2025-12-07",
-          "time": "15:00",
-          "location": "NFT3"
-        },
-        {
-          "date": "2025-12-21",
-          "time": "14:30",
-          "location": "NFT3"
-        }
-      ],
-      "category": "richard_burton"
-    },
-    {
       "title": "Boom! + intro by Charlotte Frances Burton, Richard Burton's granddaughter",
       "description": "The Burton-Taylor circus transcended camp – and cinematic reason – with this exquisite box office bomb turned cult favourite.",
       "country_year": "UK-USA 1968",
@@ -237,52 +58,6 @@
         {
           "date": "2025-12-27",
           "time": "14:15",
-          "location": "NFT3"
-        }
-      ],
-      "category": "richard_burton"
-    },
-    {
-      "title": "Where Eagles Dare",
-      "description": "Richard Burton and Clint Eastwood are alternately odd couple and dynamic duo in this hugely enjoyable WWII action-adventure. Print courtesy of the Academy Film Archive",
-      "country_year": "USA-UK 1968",
-      "director": "Brian G",
-      "cast": "Richard Burton, Clint Eastwood, Mary Ure, Patrick Wymark",
-      "runtime": "155 min",
-      "format": "35mm",
-      "rating": "PG",
-      "screenings": [
-        {
-          "date": "2025-12-20",
-          "time": "17:20",
-          "location": "NFT3"
-        },
-        {
-          "date": "2025-12-28",
-          "time": "14:45",
-          "location": "NFT1"
-        }
-      ],
-      "category": "richard_burton"
-    },
-    {
-      "title": "Villain",
-      "description": "Richard Burton oozes malevolence as a gangland boss in this taut and uncompromising thriller.",
-      "country_year": "UK 1971",
-      "director": "Michael Tuchner",
-      "cast": "Richard Burton, Ian McShane, Nigel Davenport, Donald Sinden, Fiona Lewis",
-      "runtime": "98 min",
-      "format": "35mm",
-      "rating": "18",
-      "screenings": [
-        {
-          "date": "2025-12-23",
-          "time": "18:10",
-          "location": "NFT3"
-        },
-        {
-          "date": "2025-12-28",
-          "time": "12:00",
           "location": "NFT3"
         }
       ],
@@ -322,7 +97,17 @@
       "rating": "18",
       "screenings": [
         {
+          "date": "2025-12-15",
+          "time": "18:20",
+          "location": "NFT2"
+        },
+        {
           "date": "2025-12-19",
+          "time": "20:45",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-12-27",
           "time": "20:45",
           "location": "NFT2"
         },
@@ -330,16 +115,231 @@
           "date": "2025-12-28",
           "time": "18:30",
           "location": "NFT2"
+        }
+      ],
+      "category": "richard_burton"
+    },
+    {
+      "title": "Look Back at Richard Burton",
+      "description": "An in-depth overview of the acclaimed Welsh actor's incredible screen career.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "90 min",
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-02",
+          "time": "18:15",
+          "location": "NFT1"
+        }
+      ],
+      "category": "richard_burton"
+    },
+    {
+      "title": "My Cousin Rachel",
+      "description": "Intrigue and desire drive a young heir to the brink of destruction in this Cornish-set Gothic tale.",
+      "country_year": "USA 1952",
+      "director": "Henry Koster",
+      "cast": "Richard Burton, Olivia de Havilland, Audrey Dalton, Ronald Squire",
+      "runtime": "98 min",
+      "format": "Digital 4K",
+      "rating": "PG",
+      "screenings": [
+        {
+          "date": "2025-12-05",
+          "time": "20:50",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-12-06",
+          "time": "14:00",
+          "location": "NFT2"
+        }
+      ],
+      "category": "richard_burton"
+    },
+    {
+      "title": "Now Barabbas Was a Robber...",
+      "description": "Richard Burton is a riveting presence in this post-war prison drama about a group of men who find themselves behind bars.",
+      "country_year": "UK 1949",
+      "director": "Gordon Parry",
+      "cast": "Richard Burton, Cedric Hardwicke, Richard Greene, Kathleen Harrison",
+      "runtime": "85 min",
+      "format": "35mm",
+      "rating": "PG",
+      "screenings": [
+        {
+          "date": "2025-12-06",
+          "time": "11:50",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-12-12",
+          "time": "20:50",
+          "location": "NFT3"
+        }
+      ],
+      "category": "richard_burton"
+    },
+    {
+      "title": "Richard Burton is a whirlwind of anger and anguish in this screen adaptation of John Osborne's era-defining play.",
+      "description": null,
+      "country_year": null,
+      "director": null,
+      "cast": "a BBC interview with Richard Burton and Claire Bloom on Look Back In Anger (",
+      "runtime": "8 min",
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-06",
+          "time": "16:10",
+          "location": "NFT2"
         },
         {
           "date": "2025-12-15",
-          "time": "18:20",
-          "location": "NFT2"
+          "time": "20:50",
+          "location": "NFT1"
+        }
+      ],
+      "category": "richard_burton"
+    },
+    {
+      "title": "The Comedians + intro by season co-curator James Bell",
+      "description": "Peter Glenville's last film is a gripping exposé of Haiti's descent into terror, with Richard Burton leading an all-star cast.",
+      "country_year": "USA 1967",
+      "director": "Peter Glenville",
+      "cast": "Richard Burton, Elizabeth Taylor, Alec Guiness, Peter Ustinov",
+      "runtime": "147 min",
+      "format": "35mm",
+      "rating": "PG",
+      "screenings": [
+        {
+          "date": "2025-12-07",
+          "time": "15:00",
+          "location": "NFT3"
         },
         {
-          "date": "2025-12-27",
-          "time": "20:45",
+          "date": "2025-12-21",
+          "time": "14:30",
+          "location": "NFT3"
+        }
+      ],
+      "category": "richard_burton"
+    },
+    {
+      "title": "The Last Days of Dolwyn + intro by actor Kate Burton, Richard Burton's daughter",
+      "description": "Nefarious intentions underlie plans to flood a Welsh valley in this underrated melodrama – Richard Burton's film debut.",
+      "country_year": "UK 1949",
+      "director": "Emlyn Williams",
+      "cast": "Edith Evans, Richard Burton, Anthony James, Emlyn Williams",
+      "runtime": "95 min",
+      "format": "35mm",
+      "rating": "PG",
+      "screenings": [
+        {
+          "date": "2025-12-02",
+          "time": "20:30",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-12-14",
+          "time": "12:00",
+          "location": "NFT3"
+        }
+      ],
+      "category": "richard_burton"
+    },
+    {
+      "title": "The Spy Who Came in From the Cold + intro by Charlotte Frances Burton, Richard Burton's granddaughter",
+      "description": "Richard Burton gives one of his very greatest performances in this masterful adaptation of John le Carré's classic Cold War espionage novel.",
+      "country_year": "UK 1965",
+      "director": "Martin Ritt",
+      "cast": "Richard Burton, Oskar Werner, Claire Bloom, Sam Wanamaker",
+      "runtime": "112 min",
+      "format": "Digital",
+      "rating": "PG",
+      "screenings": [
+        {
+          "date": "2025-12-08",
+          "time": "20:30",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-12-17",
+          "time": "18:10",
           "location": "NFT2"
+        }
+      ],
+      "category": "richard_burton"
+    },
+    {
+      "title": "Villain",
+      "description": "Richard Burton oozes malevolence as a gangland boss in this taut and uncompromising thriller.",
+      "country_year": "UK 1971",
+      "director": "Michael Tuchner",
+      "cast": "Richard Burton, Ian McShane, Nigel Davenport, Donald Sinden, Fiona Lewis",
+      "runtime": "98 min",
+      "format": "35mm",
+      "rating": "18",
+      "screenings": [
+        {
+          "date": "2025-12-23",
+          "time": "18:10",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-12-28",
+          "time": "12:00",
+          "location": "NFT3"
+        }
+      ],
+      "category": "richard_burton"
+    },
+    {
+      "title": "Where Eagles Dare",
+      "description": "Richard Burton and Clint Eastwood are alternately odd couple and dynamic duo in this hugely enjoyable WWII action-adventure. Print courtesy of the Academy Film Archive",
+      "country_year": "USA-UK 1968",
+      "director": "Brian G",
+      "cast": "Richard Burton, Clint Eastwood, Mary Ure, Patrick Wymark",
+      "runtime": "155 min",
+      "format": "35mm",
+      "rating": "PG",
+      "screenings": [
+        {
+          "date": "2025-12-20",
+          "time": "17:20",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-12-28",
+          "time": "14:45",
+          "location": "NFT1"
+        }
+      ],
+      "category": "richard_burton"
+    },
+    {
+      "title": "Who's Afraid of Virginia Woolf?",
+      "description": "Richard Burton and Elizabeth Taylor's real-life dramas seep on to the screen in Mike Nichols' award-winning classic about marital strife.",
+      "country_year": "USA 1966",
+      "director": "Mike Nichols",
+      "cast": "Richard Burton, Elizabeth Taylor, George Segal, Sandy Dennis",
+      "runtime": "132 min",
+      "format": "Digital",
+      "rating": "12A",
+      "screenings": [
+        {
+          "date": "2025-12-13",
+          "time": "17:50",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-12-29",
+          "time": "20:30",
+          "location": "NFT1"
         }
       ],
       "category": "richard_burton"

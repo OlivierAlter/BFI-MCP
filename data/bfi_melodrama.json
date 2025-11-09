@@ -1,9 +1,32 @@
 {
-  "generated": "2025-11-08T21:15:17.565741",
-  "source": "BFI Southbank Programme Guide December 2025",
+  "generated": "2025-11-09T08:47:55.062Z",
+  "source": "BFI Southbank Programme Guide October-December 2025 (Merged)",
   "total_films": 16,
   "total_screenings": 31,
   "films": [
+    {
+      "title": "Argentina 1956. Director Hugo del Carril. With Laura Hidalgo, Hugo del Carril, Gloria Ferrandiz. 94min. Digital (restoration). EST",
+      "description": "A landmark in 1950s Latin American cinema, Hugo del Carril's tautly compelling psychodrama is a rarely screened gem.",
+      "country_year": "A landmark in 1950",
+      "director": null,
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-19",
+          "time": "18:15",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-12-29",
+          "time": "20:50",
+          "location": "NFT2"
+        }
+      ],
+      "category": "melodrama"
+    },
     {
       "title": "Beyond Camp: The Queer Life and Afterlife of the Hollywood Melodrama",
       "description": "The perfect introduction to the second part of our melodrama season. Brief Encounters: Cinematic Speed Dating Enjoy romance on and off the screen with this event. Free entry with a ticket to the screening of Lola Montès Sat 6 Dec 14:30 NFT1",
@@ -18,236 +41,6 @@
           "date": "2025-12-03",
           "time": "18:15",
           "location": "NFT1"
-        }
-      ],
-      "category": "melodrama"
-    },
-    {
-      "title": "Way Down East + intro by Pamela Hutchinson, film critic and historian",
-      "description": "A transcendent Lillian Gish brings a wide-eyed pathos to a country girl who endures an avalanche of misfortune, in this standout collaboration with D.W. Griffith.",
-      "country_year": "USA 1920",
-      "director": "D",
-      "cast": "Lillian Gish, Richard Barthelmess",
-      "runtime": "149 min",
-      "format": "35mm",
-      "rating": "U",
-      "screenings": [
-        {
-          "date": "2025-12-07",
-          "time": "12:15",
-          "location": "NFT2"
-        },
-        {
-          "date": "2025-12-16",
-          "time": "17:50",
-          "location": "NFT2"
-        }
-      ],
-      "category": "melodrama"
-    },
-    {
-      "title": "Lola Montès",
-      "description": "The life of courtesan and scandal-magnet Lola Montès, filtered through the bejewelled Technicolor lens of Max Ophüls.",
-      "country_year": "France-West Germany 1955",
-      "director": "Max Ophüls",
-      "cast": "Martine Carol, Peter Ustinov, Anton Walbrook",
-      "runtime": "115 min",
-      "format": "Digital",
-      "rating": "PG",
-      "screenings": [
-        {
-          "date": "2025-12-06",
-          "time": "14:30",
-          "location": "NFT1"
-        },
-        {
-          "date": "2025-12-17",
-          "time": "20:40",
-          "location": "NFT2"
-        }
-      ],
-      "category": "melodrama"
-    },
-    {
-      "title": "Tea and Sympathy",
-      "description": "Deborah Kerr's empathetic housewife risks her marriage and reputation for a sensitive teenager tormented by rumours and the cruelty of his peers.",
-      "country_year": "USA 1956",
-      "director": "Vincente Minnelli",
-      "cast": "Deborah Kerr, John Kerr, Leif Erickson",
-      "runtime": "122 min",
-      "format": "35mm",
-      "rating": "18",
-      "screenings": [
-        {
-          "date": "2025-12-03",
-          "time": "20:25",
-          "location": "NFT1"
-        },
-        {
-          "date": "2025-12-07",
-          "time": "18:15",
-          "location": "NFT1"
-        }
-      ],
-      "category": "melodrama"
-    },
-    {
-      "title": "Iconic silent star Ruan Lingyu gives a heart-wrenching performance as a single mother driven to the brink by inequality and objectification.",
-      "description": "Digital restoration by China Film Archive",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": null,
-      "format": "Digital",
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-12-09",
-          "time": "18:10",
-          "location": "NFT3"
-        },
-        {
-          "date": "2025-12-20",
-          "time": "20:45",
-          "location": "NFT2"
-        }
-      ],
-      "category": "melodrama"
-    },
-    {
-      "title": "La otra The Other One + intro by Camilla Baier, co-founder and curator of Invisible Women",
-      "description": null,
-      "country_year": "Mexico 1946",
-      "director": "Roberto Gavaldón",
-      "cast": "Dolores Del Río, Jose Baviera, Victor Junco, Agustín Irusta",
-      "runtime": "98 min",
-      "format": "Digital",
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-12-12",
-          "time": "18:15",
-          "location": "NFT3"
-        },
-        {
-          "date": "2025-12-18",
-          "time": "20:40",
-          "location": "NFT3"
-        }
-      ],
-      "category": "melodrama"
-    },
-    {
-      "title": "The Heiress",
-      "description": "The downtrodden daughter of a manipulative widower has her head turned by the flattery of a handsome stranger, whose intentions quickly fall under suspicion.",
-      "country_year": "USA 1949",
-      "director": "William Wyler",
-      "cast": "Olivia de Havilland, Montgomery Clift, Ralph Richardson, Miriam Hopkins",
-      "runtime": "115 min",
-      "format": "Digital",
-      "rating": "U",
-      "screenings": [
-        {
-          "date": "2025-12-10",
-          "time": "20:35",
-          "location": "NFT3"
-        },
-        {
-          "date": "2025-12-27",
-          "time": "15:00",
-          "location": "NFT1"
-        }
-      ],
-      "category": "melodrama"
-    },
-    {
-      "title": "Imitation of Life + intro",
-      "description": "Two parallel mothers and daughters find their lives turned upside down by financial success, in Stahl's stunningly frank exploration of racial identity and family bonds.",
-      "country_year": "USA 1934",
-      "director": "John M",
-      "cast": "Fredi Washington, Louise Beavers, Claudette Colbert, Rochelle Hudson",
-      "runtime": "111 min",
-      "format": "Digital 4K",
-      "rating": "PG",
-      "screenings": [
-        {
-          "date": "2025-12-02",
-          "time": "18:00",
-          "location": "NFT2"
-        },
-        {
-          "date": "2025-12-20",
-          "time": "15:10",
-          "location": "NFT1"
-        }
-      ],
-      "category": "melodrama"
-    },
-    {
-      "title": "The Cloud-Capped Star Meghe Dhaka Tara",
-      "description": "Under the shadow of Partition, a loyal young woman places her devotion to an ungrateful family above her own happiness, in an emotional howl from one of India's finest directors. Restored by the Criterion Collection in cooperation with The Film Foundation's World Cinema Project and the Cineteca di Bologna",
-      "country_year": "India 1960",
-      "director": "Ritwik Ghatak",
-      "cast": "Supriya Choudhury, Anil Chatterjee, Gita Ghatak, Niranjan Ray",
-      "runtime": "127 min",
-      "format": "Digital",
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-12-14",
-          "time": "18:15",
-          "location": "NFT3"
-        },
-        {
-          "date": "2025-12-28",
-          "time": "11:50",
-          "location": "NFT1"
-        }
-      ],
-      "category": "melodrama"
-    },
-    {
-      "title": "The Silences of the Palace Samt El Koussour + intro by Ifriqiya Cinema",
-      "description": "Generations of women haunt a once grandiose palace, whose secrets are dislodged by the return of a young woman who once called it home.",
-      "country_year": "Tunisia-France 1994",
-      "director": "Moufida Tlatli",
-      "cast": "Hend Sabry, Ghalya Lacroix, Nejia Ouerghi",
-      "runtime": "130 min",
-      "format": "Digital",
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-12-13",
-          "time": "20:30",
-          "location": "NFT2"
-        },
-        {
-          "date": "2025-12-18",
-          "time": "18:00",
-          "location": "NFT2"
-        }
-      ],
-      "category": "melodrama"
-    },
-    {
-      "title": "The Seventh Veil",
-      "description": "A psychiatrist delves into the twisted labyrinth of memories suppressed by a talented pianist, who has been driven to breaking point by the expectations and pressure of her success.",
-      "country_year": "UK 1945",
-      "director": "Compton Bennett",
-      "cast": "Ann Todd, James Mason, Herbert Lom",
-      "runtime": "94 min",
-      "format": "35mm",
-      "rating": "PG",
-      "screenings": [
-        {
-          "date": "2025-12-19",
-          "time": "20:35",
-          "location": "NFT3"
-        },
-        {
-          "date": "2025-12-28",
-          "time": "15:00",
-          "location": "NFT3"
         }
       ],
       "category": "melodrama"
@@ -276,23 +69,115 @@
       "category": "melodrama"
     },
     {
-      "title": "Argentina 1956. Director Hugo del Carril. With Laura Hidalgo, Hugo del Carril, Gloria Ferrandiz. 94min. Digital (restoration). EST",
-      "description": "A landmark in 1950s Latin American cinema, Hugo del Carril's tautly compelling psychodrama is a rarely screened gem.",
-      "country_year": "A landmark in 1950",
+      "title": "Iconic silent star Ruan Lingyu gives a heart-wrenching performance as a single mother driven to the brink by inequality and objectification.",
+      "description": "Digital restoration by China Film Archive",
+      "country_year": null,
       "director": null,
       "cast": null,
       "runtime": null,
-      "format": null,
+      "format": "Digital",
       "rating": null,
       "screenings": [
         {
-          "date": "2025-12-19",
-          "time": "18:15",
+          "date": "2025-12-09",
+          "time": "18:10",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-12-20",
+          "time": "20:45",
+          "location": "NFT2"
+        }
+      ],
+      "category": "melodrama"
+    },
+    {
+      "title": "Imitation of Life + intro",
+      "description": "Two parallel mothers and daughters find their lives turned upside down by financial success, in Stahl's stunningly frank exploration of racial identity and family bonds.",
+      "country_year": "USA 1934",
+      "director": "John M",
+      "cast": "Fredi Washington, Louise Beavers, Claudette Colbert, Rochelle Hudson",
+      "runtime": "111 min",
+      "format": "Digital 4K",
+      "rating": "PG",
+      "screenings": [
+        {
+          "date": "2025-12-02",
+          "time": "18:00",
           "location": "NFT2"
         },
         {
+          "date": "2025-12-20",
+          "time": "15:10",
+          "location": "NFT1"
+        }
+      ],
+      "category": "melodrama"
+    },
+    {
+      "title": "La otra The Other One + intro by Camilla Baier, co-founder and curator of Invisible Women",
+      "description": null,
+      "country_year": "Mexico 1946",
+      "director": "Roberto Gavaldón",
+      "cast": "Dolores Del Río, Jose Baviera, Victor Junco, Agustín Irusta",
+      "runtime": "98 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-12",
+          "time": "18:15",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-12-18",
+          "time": "20:40",
+          "location": "NFT3"
+        }
+      ],
+      "category": "melodrama"
+    },
+    {
+      "title": "Lola Montès",
+      "description": "The life of courtesan and scandal-magnet Lola Montès, filtered through the bejewelled Technicolor lens of Max Ophüls.",
+      "country_year": "France-West Germany 1955",
+      "director": "Max Ophüls",
+      "cast": "Martine Carol, Peter Ustinov, Anton Walbrook",
+      "runtime": "115 min",
+      "format": "Digital",
+      "rating": "PG",
+      "screenings": [
+        {
+          "date": "2025-12-06",
+          "time": "14:30",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-12-17",
+          "time": "20:40",
+          "location": "NFT2"
+        }
+      ],
+      "category": "melodrama"
+    },
+    {
+      "title": "Pandora and the Flying Dutchman",
+      "description": "Jack Cardiff's lustrous colour cinematography is just one reason to watch this phantasmagoric romance.",
+      "country_year": "UK 1951",
+      "director": "Albert Lewin",
+      "cast": "Ava Gardner, James Mason, Nigel Patrick",
+      "runtime": "124 min",
+      "format": "Digital",
+      "rating": "PG",
+      "screenings": [
+        {
+          "date": "2025-12-22",
+          "time": "20:30",
+          "location": "NFT3"
+        },
+        {
           "date": "2025-12-29",
-          "time": "20:50",
+          "time": "18:10",
           "location": "NFT2"
         }
       ],
@@ -322,29 +207,6 @@
       "category": "melodrama"
     },
     {
-      "title": "Pandora and the Flying Dutchman",
-      "description": "Jack Cardiff's lustrous colour cinematography is just one reason to watch this phantasmagoric romance.",
-      "country_year": "UK 1951",
-      "director": "Albert Lewin",
-      "cast": "Ava Gardner, James Mason, Nigel Patrick",
-      "runtime": "124 min",
-      "format": "Digital",
-      "rating": "PG",
-      "screenings": [
-        {
-          "date": "2025-12-22",
-          "time": "20:30",
-          "location": "NFT3"
-        },
-        {
-          "date": "2025-12-29",
-          "time": "18:10",
-          "location": "NFT2"
-        }
-      ],
-      "category": "melodrama"
-    },
-    {
       "title": "Rouge Yin Ji Kwan",
       "description": "Stanley Kwan's decades-spanning romance, featuring career-best performances by Anita Mui and Leslie Cheung, ranks as a singular work in Hong Kong cinema.",
       "country_year": "Hong Kong 1987",
@@ -362,6 +224,144 @@
         {
           "date": "2025-12-30",
           "time": "18:10",
+          "location": "NFT2"
+        }
+      ],
+      "category": "melodrama"
+    },
+    {
+      "title": "Tea and Sympathy",
+      "description": "Deborah Kerr's empathetic housewife risks her marriage and reputation for a sensitive teenager tormented by rumours and the cruelty of his peers.",
+      "country_year": "USA 1956",
+      "director": "Vincente Minnelli",
+      "cast": "Deborah Kerr, John Kerr, Leif Erickson",
+      "runtime": "122 min",
+      "format": "35mm",
+      "rating": "18",
+      "screenings": [
+        {
+          "date": "2025-12-03",
+          "time": "20:25",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-12-07",
+          "time": "18:15",
+          "location": "NFT1"
+        }
+      ],
+      "category": "melodrama"
+    },
+    {
+      "title": "The Cloud-Capped Star Meghe Dhaka Tara",
+      "description": "Under the shadow of Partition, a loyal young woman places her devotion to an ungrateful family above her own happiness, in an emotional howl from one of India's finest directors. Restored by the Criterion Collection in cooperation with The Film Foundation's World Cinema Project and the Cineteca di Bologna",
+      "country_year": "India 1960",
+      "director": "Ritwik Ghatak",
+      "cast": "Supriya Choudhury, Anil Chatterjee, Gita Ghatak, Niranjan Ray",
+      "runtime": "127 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-14",
+          "time": "18:15",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-12-28",
+          "time": "11:50",
+          "location": "NFT1"
+        }
+      ],
+      "category": "melodrama"
+    },
+    {
+      "title": "The Heiress",
+      "description": "The downtrodden daughter of a manipulative widower has her head turned by the flattery of a handsome stranger, whose intentions quickly fall under suspicion.",
+      "country_year": "USA 1949",
+      "director": "William Wyler",
+      "cast": "Olivia de Havilland, Montgomery Clift, Ralph Richardson, Miriam Hopkins",
+      "runtime": "115 min",
+      "format": "Digital",
+      "rating": "U",
+      "screenings": [
+        {
+          "date": "2025-12-10",
+          "time": "20:35",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-12-27",
+          "time": "15:00",
+          "location": "NFT1"
+        }
+      ],
+      "category": "melodrama"
+    },
+    {
+      "title": "The Seventh Veil",
+      "description": "A psychiatrist delves into the twisted labyrinth of memories suppressed by a talented pianist, who has been driven to breaking point by the expectations and pressure of her success.",
+      "country_year": "UK 1945",
+      "director": "Compton Bennett",
+      "cast": "Ann Todd, James Mason, Herbert Lom",
+      "runtime": "94 min",
+      "format": "35mm",
+      "rating": "PG",
+      "screenings": [
+        {
+          "date": "2025-12-19",
+          "time": "20:35",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-12-28",
+          "time": "15:00",
+          "location": "NFT3"
+        }
+      ],
+      "category": "melodrama"
+    },
+    {
+      "title": "The Silences of the Palace Samt El Koussour + intro by Ifriqiya Cinema",
+      "description": "Generations of women haunt a once grandiose palace, whose secrets are dislodged by the return of a young woman who once called it home.",
+      "country_year": "Tunisia-France 1994",
+      "director": "Moufida Tlatli",
+      "cast": "Hend Sabry, Ghalya Lacroix, Nejia Ouerghi",
+      "runtime": "130 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-13",
+          "time": "20:30",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-12-18",
+          "time": "18:00",
+          "location": "NFT2"
+        }
+      ],
+      "category": "melodrama"
+    },
+    {
+      "title": "Way Down East + intro by Pamela Hutchinson, film critic and historian",
+      "description": "A transcendent Lillian Gish brings a wide-eyed pathos to a country girl who endures an avalanche of misfortune, in this standout collaboration with D.W. Griffith.",
+      "country_year": "USA 1920",
+      "director": "D",
+      "cast": "Lillian Gish, Richard Barthelmess",
+      "runtime": "149 min",
+      "format": "35mm",
+      "rating": "U",
+      "screenings": [
+        {
+          "date": "2025-12-07",
+          "time": "12:15",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-12-16",
+          "time": "17:50",
           "location": "NFT2"
         }
       ],

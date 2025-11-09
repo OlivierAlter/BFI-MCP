@@ -1,9 +1,81 @@
 {
-  "generated": "2025-11-08T21:18:34.851936",
-  "source": "BFI Southbank Programme Guide December 2025",
-  "total_films": 7,
-  "total_screenings": 8,
+  "generated": "2025-11-09T08:47:55.065Z",
+  "source": "BFI Southbank Programme Guide October-December 2025 (Merged)",
+  "total_films": 18,
+  "total_screenings": 20,
   "films": [
+    {
+      "title": "Brendan Fraser in Conversation",
+      "description": "Academy Award winner Brendan Fraser discusses his career so far and his role in HIKARI's Rental Family.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "80 min",
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-09",
+          "time": "18:20",
+          "location": "NFT1"
+        }
+      ],
+      "category": "in_person"
+    },
+    {
+      "title": "Channel 4’s powerful documentary.",
+      "description": "MEMBER EXCLUSIVES These events are exclusive to BFI Members and their guests. Make the most of your Membership benefits at bfi.org.uk/members All Member exclusive tickets are just £8 unless otherwise stated. Patrons and Members can book as soon as their priority booking opens and tickets will be allocated on a first- come, first-served basis. Remaining tickets will be released to the public, as a taster of the benefits of Membership, once public booking opens. Member Picks For a chance to see on",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "110 min",
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-28",
+          "time": "18:15",
+          "location": "NFT3"
+        }
+      ],
+      "category": "in_person"
+    },
+    {
+      "title": "Gilbert & George: 21st Century Pictures is showing at the Hayward Gallery untill",
+      "description": "11 Jan 2026 Blake’s 7: Redemption & Star One + Q&A with actor",
+      "country_year": "Jan 2026",
+      "director": null,
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-22",
+          "time": "18:00",
+          "location": "NFT1"
+        }
+      ],
+      "category": "in_person"
+    },
+    {
+      "title": "HTM Television/ITV 2025. Director Jamie Donoghue. With Vicky McClure,",
+      "description": "Vicky McClure’s Lana Washington returns with her team of bomb disposal experts for the preview of the incendiary opening episode of the third series.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "60 min",
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-23",
+          "time": "18:10",
+          "location": "NFT1"
+        }
+      ],
+      "category": "in_person"
+    },
     {
       "title": "Laura Mulvey in Conversation",
       "description": "sharing thoughts about her relationship with cinema and why film can be a dynamic, multi-layered form to think through. BSL This event will have live captions and a BSL interpreter",
@@ -17,6 +89,119 @@
         {
           "date": "2025-11-04",
           "time": "18:10",
+          "location": "NFT1"
+        }
+      ],
+      "category": "in_person"
+    },
+    {
+      "title": "Lust for Life + intro by Christopher Frayling",
+      "description": "Kirk Douglas portrays Vincent Van Gogh in Vincente Minnelli's gloriously colourful and critically acclaimed biopic. Christopher Frayling will be signing copies of his new book 'The Hollywood History of Art' (Reel Art Press) at 17:30 outside the BFI Reuben Library Mark Kermode Live in 3D at the BFI The critic presents the latest episode of his live discussion, on stage in NFT1.",
+      "country_year": "USA 1956",
+      "director": "Vincente Minnelli",
+      "cast": "Kirk Douglas, Anthony Quinn, Pamela Brown",
+      "runtime": "122 min",
+      "format": "Digital",
+      "rating": "PG",
+      "screenings": [
+        {
+          "date": "2025-12-01",
+          "time": "20:25",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-12-15",
+          "time": "18:30",
+          "location": "NFT1"
+        }
+      ],
+      "category": "in_person"
+    },
+    {
+      "title": "Preview: Is This Thing On?",
+      "description": null,
+      "country_year": "USA 2025",
+      "director": "Bradley Cooper",
+      "cast": "Will Arnett, Laura Dern, Andra Day",
+      "runtime": "120 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-04",
+          "time": "20:30",
+          "location": "NFT1"
+        }
+      ],
+      "category": "in_person"
+    },
+    {
+      "title": "Preview: Rental Family",
+      "description": null,
+      "country_year": "USA 2025",
+      "director": "HIKARI",
+      "cast": "Brendan Fraser, Takehiro Hira, Mari Yamamoto",
+      "runtime": "110 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-09",
+          "time": "20:40",
+          "location": "NFT1"
+        }
+      ],
+      "category": "in_person"
+    },
+    {
+      "title": "Reece Shearsmith Presents Gremlins + intro by Reece Shearsmith",
+      "description": "Joe Dante's darkly comic Christmas tale, an instant cult favourite, sees otherworldly creatures run amok in smalltown America.",
+      "country_year": "USA 1984",
+      "director": "Joe Dante",
+      "cast": "Zach Galligan, Phoebe Cates, Hoyt Axton",
+      "runtime": "106 min",
+      "format": "Digital 4K",
+      "rating": "12A",
+      "screenings": [
+        {
+          "date": "2025-12-11",
+          "time": "18:10",
+          "location": "NFT1"
+        }
+      ],
+      "category": "in_person"
+    },
+    {
+      "title": "Screen Two Symposium",
+      "description": "A series of lectures and discussions highlighting the importance and legacy of this landmark BBC strand. An event co-hosted by the BFI and the Centre for the History of Television Culture and Production, Royal Holloway (in association with the AHRC-funded Screen Two research project)",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "360 min",
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-12",
+          "time": "11:00",
+          "location": "NFT3"
+        }
+      ],
+      "category": "in_person"
+    },
+    {
+      "title": "Supermarionation Memories – In Conversation with Dee Anderson",
+      "description": "The daughter of Thunderbirds creators Gerry and Sylvia Anderson presents an immersive dive into her parent's extraordinary creative world.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "90 min",
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-07",
+          "time": "15:30",
           "location": "NFT1"
         }
       ],
@@ -46,6 +231,78 @@
       "category": "in_person"
     },
     {
+      "title": "The Inertia Variations + Q&A with Matt Johnson and director Johanna St Michaels",
+      "description": "We screen this rarely seen documentary about The The's Matt Johnson, followed by an interview with the singer-songwriter.",
+      "country_year": "UK 2017",
+      "director": "Johanna St Michaels",
+      "cast": null,
+      "runtime": "85 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-16",
+          "time": "20:30",
+          "location": "NFT1"
+        }
+      ],
+      "category": "in_person"
+    },
+    {
+      "title": "TV Preview: An Evening With Radio Times – Run Away + Q&A with cast and creator TBC",
+      "description": "This riveting adaptation of Harlan Coben's thriller finds a family torn apart by absence, addiction and crime.",
+      "country_year": "Netflix 2025",
+      "director": "Nimer Rashad",
+      "cast": "James Nesbitt, Ruth Jones, Minnie Driver",
+      "runtime": "60 min",
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-01",
+          "time": "18:20",
+          "location": "NFT1"
+        }
+      ],
+      "category": "in_person"
+    },
+    {
+      "title": "TV Preview: Black Ops + Q&A with cast and creator TBC",
+      "description": "We preview episodes from the second series of this hugely popular show.",
+      "country_year": null,
+      "director": "Akaash Meeda",
+      "cast": "Gbemisola Ikumelo, Hammed Animashaun, Akemnji Ndifornyen",
+      "runtime": "30 min",
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-08",
+          "time": "18:15",
+          "location": "NFT1"
+        }
+      ],
+      "category": "in_person"
+    },
+    {
+      "title": "TV Preview: The Room in the Tower + Q&A with director Mark Gatiss and members of the cast",
+      "description": "Mark Gatiss returns with another chilling ghost story at Christmas.",
+      "country_year": "BBC 2025",
+      "director": "Mark Gatiss",
+      "cast": "Joanna Lumley, Tobias Menzies, Polly Walker, Ben Mansfield, Nancy Carroll",
+      "runtime": "70 min",
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-14",
+          "time": "16:50",
+          "location": "NFT1"
+        }
+      ],
+      "category": "in_person"
+    },
+    {
       "title": "UK 2015. Director Jon Drever. With Brett Goldstein, Catherine Tate, Natalia Tena.",
       "description": "and quirky superhero rom-com. TV Preview: Series 3 – Episode One Trigger Point + Q&A with Vicky McClure, Nabil Elouahabi, Jason Flemyng, executive producer Chris Brandon and director Jamie Donoghue",
       "country_year": null,
@@ -64,73 +321,19 @@
       "category": "in_person"
     },
     {
-      "title": "HTM Television/ITV 2025. Director Jamie Donoghue. With Vicky McClure,",
-      "description": "Vicky McClure’s Lana Washington returns with her team of bomb disposal experts for the preview of the incendiary opening episode of the third series.",
+      "title": "Will Arnett in Conversation",
+      "description": "Will Arnett discusses his career to date and talks about his collaboration with director Bradley Cooper on his latest film, Is This Thing On?",
       "country_year": null,
       "director": null,
       "cast": null,
-      "runtime": "60 min",
+      "runtime": "80 min",
       "format": null,
       "rating": null,
       "screenings": [
         {
-          "date": "2025-10-23",
-          "time": "18:10",
+          "date": "2025-12-04",
+          "time": "18:30",
           "location": "NFT1"
-        }
-      ],
-      "category": "in_person"
-    },
-    {
-      "title": "Screen Two Symposium",
-      "description": "A series of lectures and discussions highlighting the importance and legacy of this landmark BBC strand. An event co-hosted by the BFI and the Centre for the History of Television Culture and Production, Royal Holloway (in association with the AHRC-funded Screen Two research project)",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "360 min",
-      "format": null,
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-11-12",
-          "time": "11:00",
-          "location": "NFT3"
-        }
-      ],
-      "category": "in_person"
-    },
-    {
-      "title": "Gilbert & George: 21st Century Pictures is showing at the Hayward Gallery untill",
-      "description": "11 Jan 2026 Blake’s 7: Redemption & Star One + Q&A with actor",
-      "country_year": "Jan 2026",
-      "director": null,
-      "cast": null,
-      "runtime": null,
-      "format": null,
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-10-22",
-          "time": "18:00",
-          "location": "NFT1"
-        }
-      ],
-      "category": "in_person"
-    },
-    {
-      "title": "Channel 4’s powerful documentary.",
-      "description": "MEMBER EXCLUSIVES These events are exclusive to BFI Members and their guests. Make the most of your Membership benefits at bfi.org.uk/members All Member exclusive tickets are just £8 unless otherwise stated. Patrons and Members can book as soon as their priority booking opens and tickets will be allocated on a first- come, first-served basis. Remaining tickets will be released to the public, as a taster of the benefits of Membership, once public booking opens. Member Picks For a chance to see on",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "110 min",
-      "format": null,
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-10-28",
-          "time": "18:15",
-          "location": "NFT3"
         }
       ],
       "category": "in_person"

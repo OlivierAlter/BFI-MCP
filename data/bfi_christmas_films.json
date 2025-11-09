@@ -1,33 +1,28 @@
 {
-  "generated": "2025-11-08T21:15:17.562782",
-  "source": "BFI Southbank Programme Guide December 2025",
+  "generated": "2025-11-09T08:47:55.061Z",
+  "source": "BFI Southbank Programme Guide October-December 2025 (Merged)",
   "total_films": 6,
   "total_screenings": 16,
   "films": [
     {
-      "title": "Meet Me in St. Louis",
-      "description": "Garland mesmerises, and the songs delight in this beautiful Technicolor musical.",
-      "country_year": "USA 1944",
-      "director": "Vincente Minnelli",
-      "cast": "Judy Garland, Margaret O'Brien, Mary Astor",
-      "runtime": "113 min",
+      "title": "Carol",
+      "description": null,
+      "country_year": "USA-UK 2015",
+      "director": "Todd Haynes",
+      "cast": "Cate Blanchett, Rooney Mara, Kyle Chandler, Sarah Paulson",
+      "runtime": "118 min",
       "format": "Digital",
-      "rating": "U",
+      "rating": "15",
       "screenings": [
         {
-          "date": "2025-12-20",
-          "time": "14:50",
-          "location": "NFT3"
-        },
-        {
-          "date": "2025-12-22",
-          "time": "18:10",
+          "date": "2025-12-19",
+          "time": "20:40",
           "location": "NFT1"
         },
         {
-          "date": "2025-12-23",
-          "time": "14:30",
-          "location": "NFT1"
+          "date": "2025-12-21",
+          "time": "12:10",
+          "location": "NFT2"
         }
       ],
       "category": "christmas_films"
@@ -71,24 +66,29 @@
       "category": "christmas_films"
     },
     {
-      "title": "Carol",
-      "description": null,
-      "country_year": "USA-UK 2015",
-      "director": "Todd Haynes",
-      "cast": "Cate Blanchett, Rooney Mara, Kyle Chandler, Sarah Paulson",
-      "runtime": "118 min",
+      "title": "Meet Me in St. Louis",
+      "description": "Garland mesmerises, and the songs delight in this beautiful Technicolor musical.",
+      "country_year": "USA 1944",
+      "director": "Vincente Minnelli",
+      "cast": "Judy Garland, Margaret O'Brien, Mary Astor",
+      "runtime": "113 min",
       "format": "Digital",
-      "rating": "15",
+      "rating": "U",
       "screenings": [
         {
-          "date": "2025-12-19",
-          "time": "20:40",
+          "date": "2025-12-20",
+          "time": "14:50",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-12-22",
+          "time": "18:10",
           "location": "NFT1"
         },
         {
-          "date": "2025-12-21",
-          "time": "12:10",
-          "location": "NFT2"
+          "date": "2025-12-23",
+          "time": "14:30",
+          "location": "NFT1"
         }
       ],
       "category": "christmas_films"

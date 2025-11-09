@@ -1,108 +1,13 @@
 {
-  "generated": "2025-11-08T21:18:34.856504",
-  "source": "BFI Southbank Programme Guide December 2025",
-  "total_films": 93,
-  "total_screenings": 158,
+  "generated": "2025-11-09T08:47:55.056Z",
+  "source": "BFI Southbank Programme Guide October-December 2025 (Merged)",
+  "total_films": 180,
+  "total_screenings": 320,
   "films": [
     {
-      "title": "Laura Mulvey in Conversation",
-      "description": "sharing thoughts about her relationship with cinema and why film can be a dynamic, multi-layered form to think through. BSL This event will have live captions and a BSL interpreter",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "90 min",
-      "format": null,
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-11-04",
-          "time": "18:10",
-          "location": "NFT1"
-        }
-      ],
-      "category": "in_person"
-    },
-    {
-      "title": "Terry Jones: The Renaissance Man",
-      "description": "This event comprises rare and memorable clips highlighting the talents of Terry Jones, with on-stage contributions from his friends, family and colleagues. BSL This event will have live captions and a BSL interpreter Mark Kermode Live in 3D at the BFI The critic presents the latest episode of his live discussion, on stage in NFT1. SuperBob 10th Anniversary + Q&A with writer and actor",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "100 min",
-      "format": null,
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-11-01",
-          "time": "15:00",
-          "location": "NFT1"
-        },
-        {
-          "date": "2025-11-17",
-          "time": "18:30",
-          "location": "NFT1"
-        }
-      ],
-      "category": "in_person"
-    },
-    {
-      "title": "UK 2015. Director Jon Drever. With Brett Goldstein, Catherine Tate, Natalia Tena.",
-      "description": "and quirky superhero rom-com. TV Preview: Series 3 – Episode One Trigger Point + Q&A with Vicky McClure, Nabil Elouahabi, Jason Flemyng, executive producer Chris Brandon and director Jamie Donoghue",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "82 min",
-      "format": "Digital",
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-10-25",
-          "time": "18:00",
-          "location": "NFT1"
-        }
-      ],
-      "category": "in_person"
-    },
-    {
-      "title": "HTM Television/ITV 2025. Director Jamie Donoghue. With Vicky McClure,",
-      "description": "Vicky McClure’s Lana Washington returns with her team of bomb disposal experts for the preview of the incendiary opening episode of the third series.",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "60 min",
-      "format": null,
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-10-23",
-          "time": "18:10",
-          "location": "NFT1"
-        }
-      ],
-      "category": "in_person"
-    },
-    {
-      "title": "Screen Two Symposium",
-      "description": "A series of lectures and discussions highlighting the importance and legacy of this landmark BBC strand. An event co-hosted by the BFI and the Centre for the History of Television Culture and Production, Royal Holloway (in association with the AHRC-funded Screen Two research project)",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "360 min",
-      "format": null,
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-11-12",
-          "time": "11:00",
-          "location": "NFT3"
-        }
-      ],
-      "category": "in_person"
-    },
-    {
-      "title": "Gilbert & George: 21st Century Pictures is showing at the Hayward Gallery untill",
-      "description": "11 Jan 2026 Blake’s 7: Redemption & Star One + Q&A with actor",
-      "country_year": "Jan 2026",
+      "title": "A discussion that looks at the themes raised by Michael Radford's adaptation of George Orwell's novel.",
+      "description": "Free to ticket holders of 1984 (p40) on Mon 15 Dec 18:20 NFT2, otherwise £6.50 (must be booked in advance due to capacity)",
+      "country_year": "Free to ticket holders of 1984",
       "director": null,
       "cast": null,
       "runtime": null,
@@ -110,71 +15,53 @@
       "rating": null,
       "screenings": [
         {
-          "date": "2025-10-22",
-          "time": "18:00",
-          "location": "NFT1"
+          "date": "2025-12-15",
+          "time": "20:30",
+          "location": "BFI BLUE ROOM"
         }
       ],
-      "category": "in_person"
+      "category": "richard_burton"
     },
     {
-      "title": "Channel 4’s powerful documentary.",
-      "description": "MEMBER EXCLUSIVES These events are exclusive to BFI Members and their guests. Make the most of your Membership benefits at bfi.org.uk/members All Member exclusive tickets are just £8 unless otherwise stated. Patrons and Members can book as soon as their priority booking opens and tickets will be allocated on a first- come, first-served basis. Remaining tickets will be released to the public, as a taster of the benefits of Membership, once public booking opens. Member Picks For a chance to see on",
+      "title": "A Halloween Special",
+      "description": "Come join the BFI Reuben Library team as they gather names for their records. This is a free event. Book in advance to avoid disappointment New Writings: Don’t Look Now and Then – Justin John Doherty in conversation with Jason Wood An in-depth conversation looking at the enduring appeal and brilliance of Nicolas Roeg’s haunting masterpiece. New Writings: Hester Street (BFI Film Classics) with",
       "country_year": null,
       "director": null,
       "cast": null,
-      "runtime": "110 min",
+      "runtime": "180 min",
       "format": null,
       "rating": null,
       "screenings": [
         {
-          "date": "2025-10-28",
-          "time": "18:15",
-          "location": "NFT3"
+          "date": "2025-10-27",
+          "time": "17:00",
+          "location": "BFI REUBEN LIBRARY"
+        },
+        {
+          "date": "2025-10-29",
+          "time": "20:00",
+          "location": "BFI REUBEN LIBRARY"
         }
       ],
-      "category": "in_person"
+      "category": "regular_programme"
     },
     {
-      "title": "All That Heaven Allows",
-      "description": "A Park Circus re-release Jane Wyman and Rock Hudson navigate social mores and their deepest desires in Douglas Sirk’s magnificent melodrama. TOO MUCH: MELODRAMA ON FILM 25 and Under: An Introduction to Melodrama Season curator Ruby McGuigan offers an introduction to this two-month season. Free for those aged 16-25 (please book in advance) Don’t forget to book your £4 ticket for Camila + intro which screens following this talk Melo-dramarama This day-long event delves into the history, styles and",
-      "country_year": "USA 1955",
-      "director": "Douglas Sirk",
-      "cast": "Jane Wyman, Rock Hudson",
-      "runtime": "89 min",
-      "format": "Digital",
+      "title": "A Subject of Scandal and Concern + extended intro by John Wyver, writer and television producer",
+      "description": "Richard Burton gives a sensitive performance in this little-seen, rarely-screened BBC play by John Osborne.",
+      "country_year": "BBC 1960",
+      "director": "Tony Richardson",
+      "cast": "Richard Burton, Rachel Roberts, George Devine, John Freeman",
+      "runtime": "60 min",
+      "format": "35mm",
       "rating": null,
       "screenings": [
         {
-          "date": "2025-10-22",
-          "time": "19:15",
-          "location": "BFI BLUE ROOM"
+          "date": "2025-12-07",
+          "time": "12:45",
+          "location": "NFT3"
         }
       ],
-      "category": "re_releases"
-    },
-    {
-      "title": "UK 1945. Director David Lean. With Celia Johnson, Trevor Howard,",
-      "description": "A chance meeting between two married people sparks an impossible chemistry and tragic emotional entanglement, in a film that is rich in pathos and masterfully crafted. 7th Heaven",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "87 min",
-      "format": "Digital",
-      "rating": "PG",
-      "screenings": [
-        {
-          "date": "2025-10-20",
-          "time": "20:50",
-          "location": "NFT1"
-        },
-        {
-          "date": "2025-11-16",
-          "time": "14:45",
-          "location": "NFT1"
-        }
-      ],
-      "category": "re_releases"
+      "category": "richard_burton"
     },
     {
       "title": "Albert Gran. 117min. Digital 4K (restoration). Silent with English intertitles.",
@@ -200,8 +87,54 @@
       "category": "re_releases"
     },
     {
-      "title": "New 35mm print made with funding from the National Lottery and the additional support",
-      "description": "Archive and The Film Foundation",
+      "title": "Aliens (Extended Cut)",
+      "description": "James Cameron took Ridley Scott's sci-fi horror and transformed it into a large-scale, gonzo war movie, with all guns blazing.",
+      "country_year": "USA 1986",
+      "director": "James Cameron",
+      "cast": "Sigourney Weaver, Michael Biehn, Paul Reiser, Lance Henrikson",
+      "runtime": "154 min",
+      "format": "Digital",
+      "rating": "15",
+      "screenings": [
+        {
+          "date": "2025-11-30",
+          "time": "10:45",
+          "location": "BFI IMAX"
+        },
+        {
+          "date": "2025-12-06",
+          "time": "20:00",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-12-27",
+          "time": "14:25",
+          "location": "NFT2"
+        }
+      ],
+      "category": "james_cameron"
+    },
+    {
+      "title": "All That Heaven Allows",
+      "description": "A Park Circus re-release Jane Wyman and Rock Hudson navigate social mores and their deepest desires in Douglas Sirk’s magnificent melodrama. TOO MUCH: MELODRAMA ON FILM 25 and Under: An Introduction to Melodrama Season curator Ruby McGuigan offers an introduction to this two-month season. Free for those aged 16-25 (please book in advance) Don’t forget to book your £4 ticket for Camila + intro which screens following this talk Melo-dramarama This day-long event delves into the history, styles and",
+      "country_year": "USA 1955",
+      "director": "Douglas Sirk",
+      "cast": "Jane Wyman, Rock Hudson",
+      "runtime": "89 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-22",
+          "time": "19:15",
+          "location": "BFI BLUE ROOM"
+        }
+      ],
+      "category": "re_releases"
+    },
+    {
+      "title": "Aminata Fall. 88min. Digital. EST",
+      "description": "A restless young couple dream of escaping Senegal for Paris, in one of the key works of African cinema.",
       "country_year": null,
       "director": null,
       "cast": null,
@@ -211,39 +144,57 @@
       "screenings": [
         {
           "date": "2025-10-21",
-          "time": "20:45",
+          "time": "18:30",
           "location": "NFT1"
         },
         {
-          "date": "2025-11-01",
-          "time": "12:20",
-          "location": "NFT1"
+          "date": "2025-11-11",
+          "time": "20:50",
+          "location": "NFT2"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "AMY! + discussion with Laura Mulvey",
+      "description": "+ Frida Kahlo & Tina Modotti A shorts programme of Mulvey and Wollen’s works, repositioning the narratives of three women: Amy Johnson, Frida Kahlo and Tina Modotti.",
+      "country_year": "UK 1979",
+      "director": "Laura Mulvey, Peter Wollen",
+      "cast": null,
+      "runtime": "34 min",
+      "format": "16mm",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-11",
+          "time": "18:10",
+          "location": "NFT2"
         }
       ],
       "category": "re_releases"
     },
     {
-      "title": "USSR 1957. Director Mikhail Kalatozov. With Tatyana Samojlova, Aleksey Batalov,",
-      "description": "An adoring young couple are torn apart by the advent of war, seen through",
-      "country_year": null,
+      "title": "Argentina 1956. Director Hugo del Carril. With Laura Hidalgo, Hugo del Carril, Gloria Ferrandiz. 94min. Digital (restoration). EST",
+      "description": "A landmark in 1950s Latin American cinema, Hugo del Carril's tautly compelling psychodrama is a rarely screened gem.",
+      "country_year": "A landmark in 1950",
       "director": null,
       "cast": null,
-      "runtime": "96 min",
-      "format": "Digital",
-      "rating": "PG",
+      "runtime": null,
+      "format": null,
+      "rating": null,
       "screenings": [
         {
-          "date": "2025-10-22",
+          "date": "2025-12-19",
           "time": "18:15",
-          "location": "NFT3"
+          "location": "NFT2"
         },
         {
-          "date": "2025-11-15",
-          "time": "20:45",
-          "location": "NFT1"
+          "date": "2025-12-29",
+          "time": "20:50",
+          "location": "NFT2"
         }
       ],
-      "category": "re_releases"
+      "category": "melodrama"
     },
     {
       "title": "Argentina 1984. Director María Luisa Bemberg. With Susú Pecoraro, Imanol Arias,",
@@ -269,46 +220,872 @@
       "category": "re_releases"
     },
     {
-      "title": "Mexico 1953. Director Luis Buñuel. With Delia Garcés, Arturo de Córdova,",
-      "description": "Obsessive and irrational jealousy fuels the controlling behaviour of an abusive husband, whose veneer of respectability steadily erodes throughout this darkly-lined tragedy. Restored in 4K by the Film Foundation’s World Cinema Project, Les Films du Camélia and Cineteca di Bologna with the support of OCAS and in association with Películas y Videos Internacionales. Special thanks to Guillermo del Toro.",
-      "country_year": null,
-      "director": null,
+      "title": "Aspen + intro by programme curator Sandra Hebron",
+      "description": null,
+      "country_year": "USA 1991",
+      "director": "Frederick Wiseman",
       "cast": null,
-      "runtime": "93 min",
-      "format": "Digital 4K",
+      "runtime": "146 min",
+      "format": "Digital",
       "rating": null,
       "screenings": [
         {
-          "date": "2025-10-24",
-          "time": "20:45",
+          "date": "2025-12-04",
+          "time": "18:00",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-12-30",
+          "time": "17:30",
+          "location": "NFT3"
+        }
+      ],
+      "category": "frederick_wiseman"
+    },
+    {
+      "title": "At Berkeley",
+      "description": "Frederick Wiseman's film delves into the politics of educational life with this scintillating documentary.",
+      "country_year": "USA 2013",
+      "director": "Frederick Wiseman",
+      "cast": null,
+      "runtime": "244 min",
+      "format": "Digital",
+      "rating": "PG",
+      "screenings": [
+        {
+          "date": "2025-12-06",
+          "time": "18:35",
           "location": "NFT2"
         },
         {
-          "date": "2025-11-03",
+          "date": "2025-12-20",
+          "time": "13:45",
+          "location": "NFT2"
+        }
+      ],
+      "category": "frederick_wiseman"
+    },
+    {
+      "title": "Avatar 3D",
+      "description": "James Cameron pushed the boundaries of cinematic technology with this visionary sci-fi, which became a box-office behemoth.",
+      "country_year": "USA 2009",
+      "director": "James Cameron",
+      "cast": "Sam Worthington, Zoe Saldaña, Sigourney Weaver, Stephen Lang",
+      "runtime": "167 min",
+      "format": "IMAX with Laser 3D",
+      "rating": "12A",
+      "screenings": [
+        {
+          "date": "2025-12-13",
+          "time": "13:10",
+          "location": "BFI IMAX"
+        },
+        {
+          "date": "2025-12-18",
+          "time": "16:00",
+          "location": "BFI IMAX"
+        }
+      ],
+      "category": "james_cameron"
+    },
+    {
+      "title": "Avatar: The Way of Water 3D",
+      "description": "James Cameron's world-building sci-fi epic goes aquatic as Jake, Neytiri and their family seek a home on Pandora and to evade an off-world threat.",
+      "country_year": "USA 2022",
+      "director": "James Cameron",
+      "cast": "Sam Worthington, Zoe Saldaña, Sigourney Weaver, Kate Winslet",
+      "runtime": "192 min",
+      "format": "IMAX with Laser 3D",
+      "rating": "12A",
+      "screenings": [
+        {
+          "date": "2025-12-13",
+          "time": "16:45",
+          "location": "BFI IMAX"
+        },
+        {
+          "date": "2025-12-18",
+          "time": "19:45",
+          "location": "BFI IMAX"
+        }
+      ],
+      "category": "james_cameron"
+    },
+    {
+      "title": "Belfast, Maine",
+      "description": "One of Frederick Wiseman's most immersive films captures life in the New England port.",
+      "country_year": "USA 1999",
+      "director": "Frederick Wiseman",
+      "cast": null,
+      "runtime": "248 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-13",
           "time": "18:10",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-12-21",
+          "time": "16:20",
+          "location": "NFT4"
+        }
+      ],
+      "category": "frederick_wiseman"
+    },
+    {
+      "title": "Beyond Camp: The Queer Life and Afterlife of the Hollywood Melodrama",
+      "description": "The perfect introduction to the second part of our melodrama season. Brief Encounters: Cinematic Speed Dating Enjoy romance on and off the screen with this event. Free entry with a ticket to the screening of Lola Montès Sat 6 Dec 14:30 NFT1",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "90 min",
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-03",
+          "time": "18:15",
+          "location": "NFT1"
+        }
+      ],
+      "category": "melodrama"
+    },
+    {
+      "title": "Book Launch: Terence Davies Screenplays, Volumes I and II",
+      "description": "We explore Terence Davies’ written work with contributors from a new collection of his screenplays.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "90 min",
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-11",
+          "time": "20:00",
+          "location": "BFI REUBEN LIBRARY"
+        }
+      ],
+      "category": "re_releases"
+    },
+    {
+      "title": "Boom! + intro by Charlotte Frances Burton, Richard Burton's granddaughter",
+      "description": "The Burton-Taylor circus transcended camp – and cinematic reason – with this exquisite box office bomb turned cult favourite.",
+      "country_year": "UK-USA 1968",
+      "director": "Joseph Losey",
+      "cast": "Elizabeth Taylor, Richard Burton, Noël Coward, Joanna Shimkus",
+      "runtime": "112 min",
+      "format": "35mm",
+      "rating": "12A",
+      "screenings": [
+        {
+          "date": "2025-12-08",
+          "time": "18:10",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-12-27",
+          "time": "14:15",
+          "location": "NFT3"
+        }
+      ],
+      "category": "richard_burton"
+    },
+    {
+      "title": "Brazil 1969. Director Glauber Rocha. With Maurício do Valle, Odete Lara,",
+      "description": "A hired gun changes his politics when he meets the beleaguered Cangaceiro bandits, in a Cannes-award-winning western that proved influential on Laura Mulvey and Peter Wollen.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "100 min",
+      "format": "Digital",
+      "rating": "15",
+      "screenings": [
+        {
+          "date": "2025-11-29",
+          "time": "15:10",
           "location": "NFT1"
         }
       ],
       "category": "re_releases"
     },
     {
-      "title": "Hans Adalbert Schlettow. 86min. 35mm. A BFI National Archive print.",
-      "description": "A jealous man’s growing fury is captured by Anthony Asquith’s moody and expressionistic cinematography, in this atmospheric psychological thriller. Leave Her to Heaven + intro by Aga Baranowska,",
+      "title": "Brendan Fraser in Conversation",
+      "description": "Academy Award winner Brendan Fraser discusses his career so far and his role in HIKARI's Rental Family.",
       "country_year": null,
       "director": null,
-      "cast": "live piano accompaniment",
-      "runtime": null,
+      "cast": null,
+      "runtime": "80 min",
       "format": null,
-      "rating": "PG",
+      "rating": null,
       "screenings": [
         {
-          "date": "2025-11-14",
+          "date": "2025-12-09",
+          "time": "18:20",
+          "location": "NFT1"
+        }
+      ],
+      "category": "in_person"
+    },
+    {
+      "title": "British Cinema: The Pestilence in the Ditch",
+      "description": "A timely discussion about a particular strain of filmmaking that explores unique avenues into the representation of the British landscape. Library Talk: Disability Equality in the Film Industry –",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "90 min",
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-10",
+          "time": "18:30",
+          "location": "BFI REUBEN LIBRARY"
+        }
+      ],
+      "category": "regular_programme"
+    },
+    {
+      "title": "Burkina Faso 2025. Director Dani Kouyate. With Prosper Compaore, Hafissata",
+      "description": "Macbeth is retold through the prism of a man destined to seize the crown of a nation in Dani Kouyate’s powerful film. It’s that time again.. Celebrate Halloween in schlock and style with two cult classics of horror cinema",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "113 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-23",
+          "time": "18:00",
+          "location": "NFT1"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "Carol",
+      "description": null,
+      "country_year": "USA-UK 2015",
+      "director": "Todd Haynes",
+      "cast": "Cate Blanchett, Rooney Mara, Kyle Chandler, Sarah Paulson",
+      "runtime": "118 min",
+      "format": "Digital",
+      "rating": "15",
+      "screenings": [
+        {
+          "date": "2025-12-19",
+          "time": "20:40",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-12-21",
+          "time": "12:10",
+          "location": "NFT2"
+        }
+      ],
+      "category": "christmas_films"
+    },
+    {
+      "title": "Central Park",
+      "description": "A fascinating portrait of those involved in maintaining Manhattan's green space.",
+      "country_year": "USA 1989",
+      "director": "Frederick Wiseman",
+      "cast": null,
+      "runtime": "176 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-14",
+          "time": "17:30",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-12-28",
+          "time": "14:00",
+          "location": "NFT2"
+        }
+      ],
+      "category": "frederick_wiseman"
+    },
+    {
+      "title": "Channel 4 1983. Directors Laura Mulvey, Peter Wollen. With Dawn Archibald, Kevin",
+      "description": "a male-organised world.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "93 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-22",
+          "time": "18:10",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-11-26",
+          "time": "21:00",
+          "location": "NFT3"
+        }
+      ],
+      "category": "re_releases"
+    },
+    {
+      "title": "Channel 4’s powerful documentary.",
+      "description": "MEMBER EXCLUSIVES These events are exclusive to BFI Members and their guests. Make the most of your Membership benefits at bfi.org.uk/members All Member exclusive tickets are just £8 unless otherwise stated. Patrons and Members can book as soon as their priority booking opens and tickets will be allocated on a first- come, first-served basis. Remaining tickets will be released to the public, as a taster of the benefits of Membership, once public booking opens. Member Picks For a chance to see on",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "110 min",
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-28",
+          "time": "18:15",
+          "location": "NFT3"
+        }
+      ],
+      "category": "in_person"
+    },
+    {
+      "title": "Chantal Akerman's homage to the musical, in all its various iterations, successfully combines her rigorous formalism with the genre's playfulness.",
+      "description": "Restored in 4K by Royal Film Archive of Belgium (CINEMATEK), Fondation Chantal Akerman and L'Immagine Ritrovata, Bologna",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-08",
+          "time": "20:50",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-12-17",
+          "time": "18:20",
+          "location": "NFT1"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "Cuba 1974. Director Sara Gómez. With Othon Blanco, Barbara Hernandez,",
+      "description": "A beautiful realist drama that looks at life for women and men in the aftermath of the Cuban Revolution.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "79 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-20",
+          "time": "18:20",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-11-02",
           "time": "18:20",
           "location": "NFT2"
         },
         {
-          "date": "2025-11-22",
-          "time": "12:30",
+          "date": "2025-11-04",
+          "time": "20:30",
+          "location": "NFT2"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "Daughters of the Dust",
+      "description": "Julie Dash's film is a visually striking and lyrical portrait of life for generations of Gullah women at the time of the Great Migration.",
+      "country_year": "USA 1991",
+      "director": "Julie Dash",
+      "cast": "Adisa Anderson, Barbara O",
+      "runtime": "112 min",
+      "format": "Digital",
+      "rating": "12A",
+      "screenings": [
+        {
+          "date": "2025-12-09",
+          "time": "20:45",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-12-20",
+          "time": "14:30",
+          "location": "NFT4"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "Deewaar – 50th Anniversary",
+      "description": "Yosh Chapra's classic tale of two brothers on different sides of the law still shines, 50 years on.",
+      "country_year": "India 1975",
+      "director": "Yash Chopra",
+      "cast": "Amitabh Bachchan, Shashi Kapoor, Neetu Singh",
+      "runtime": "165 min",
+      "format": "Digital",
+      "rating": "12A",
+      "screenings": [
+        {
+          "date": "2025-12-13",
+          "time": "14:25",
+          "location": "NFT2"
+        }
+      ],
+      "category": "regular_programme"
+    },
+    {
+      "title": "Denmark 1996. Director Lars Von Trier. With Emily Watson, Stellan Skarsgård,",
+      "description": "A man is permanently injured in an oil rig accident, leaving his adoring wife wracked with guilt, willing to do anything to restore her marriage and relationship with God. Spectacle The biggest emotions on the UK’s biggest screen. Melodrama’s most expressionistic, sumptuous films at BFI IMAX. For tickets go to bfi.org.uk/imax",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "159 min",
+      "format": "Digital",
+      "rating": "18",
+      "screenings": [
+        {
+          "date": "2025-11-01",
+          "time": "20:00",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-11-08",
+          "time": "11:50",
+          "location": "NFT3"
+        }
+      ],
+      "category": "re_releases"
+    },
+    {
+      "title": "Depeche Mode: M",
+      "description": "Christian Eigner, Peter Gordeno. RT TBC. IMAX with Laser. Cert TBC A chance to see one of the UK’s biggest bands writ large upon the UK’s largest screen. BFI MEMBER TICKETS AT BFI IMAX BFI Members save £2.50 per ticket, on a maximum of four tickets, booked online or in person on presentation of a valid Membership card. of the day",
+      "country_year": "USA-Mexico 2025",
+      "director": "Fernando Frias",
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-28",
+          "time": "20:45",
+          "location": "BFI IMAX"
+        },
+        {
+          "date": "2025-10-30",
+          "time": "21:00",
+          "location": "BFI IMAX"
+        }
+      ],
+      "category": "regular_programme"
+    },
+    {
+      "title": "Disgraced Monuments + discussion with Laura Mulvey",
+      "description": "+ 23rd August 2008 In Mulvey and Lewis’s film, the repercussions of regime change in Russia through the 20th century finds complex articulation and negotiation through the creation and alteration of statues in the former Soviet Empire. Experimenta: Riddles of the Sphinx in Context Laura Mulvey selects films which gave context to and informed the development of her and Peter Wollen’s iconic work Riddles of the Sphinx: ‘All these films seemed symptomatic of the depth of change as well as its varie",
+      "country_year": "UK 1994",
+      "director": "Laura Mulvey, Mark Lewis",
+      "cast": null,
+      "runtime": "50 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-27",
+          "time": "18:10",
+          "location": "NFT3"
+        }
+      ],
+      "category": "re_releases"
+    },
+    {
+      "title": "Dr Julia Wagner",
+      "description": "The author of a new study of the landmark film discusses its importance to cinema. NFT2 £17, concs £14 (Members pay £2.50 less) New Writings: Uncanny Landscapes in 21st Century",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "90 min",
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-03",
+          "time": "18:30",
+          "location": "BFI REUBEN LIBRARY"
+        }
+      ],
+      "category": "regular_programme"
+    },
+    {
+      "title": "Earwig",
+      "description": "Lucile Hadžihalilović's first English-language feature is a twisty take on adolescence.",
+      "country_year": "UK-France-Belgium 2021",
+      "director": "Lucile Hadžihalilović",
+      "cast": "Paul Hilton, Romola Garai, Romane Hemelaers, Alex Lawther",
+      "runtime": "114 min",
+      "format": "Digital",
+      "rating": "15",
+      "screenings": [
+        {
+          "date": "2025-12-06",
+          "time": "18:00",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-12-18",
+          "time": "20:35",
+          "location": "NFT4"
+        }
+      ],
+      "category": "new_releases"
+    },
+    {
+      "title": "Egypt 1959. Director Henry Barakat. With Faten Hamama, Ahmed Mazhar,",
+      "description": "A young woman seeks revenge for the death of her sister, only to be drawn into the same complex web of intrigue, desire and manipulation that led to her downfall. Scandal The opinion of others can make or break us. Here are melodrama’s tragic heroines, who fall victim to its judgmental gaze.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "109 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-31",
+          "time": "18:00",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-11-10",
+          "time": "20:40",
+          "location": "NFT2"
+        }
+      ],
+      "category": "re_releases"
+    },
+    {
+      "title": "Equus",
+      "description": "A host of British theatrical talent brings to life this potent exploration of religious and sexual fascination.",
+      "country_year": "UK-USA 1977",
+      "director": "Sidney Lumet",
+      "cast": "Richard Burton, Peter Firth, Jenny Agutter, Joan Plowright",
+      "runtime": "137 min",
+      "format": "Digital",
+      "rating": "15",
+      "screenings": [
+        {
+          "date": "2025-12-20",
+          "time": "12:00",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-12-30",
+          "time": "17:45",
+          "location": "NFT1"
+        }
+      ],
+      "category": "richard_burton"
+    },
+    {
+      "title": "Evolution Évolution",
+      "description": "Lucile Hadžihalilović once again explores the intricacies of adolescence, this time through a sci-fi lens.",
+      "country_year": "France-Belgium-Spain 2015",
+      "director": "Lucile Hadžihalilović",
+      "cast": "Max Brebant, Roxane Duran, Julie-Marie Parmentier",
+      "runtime": "81 min",
+      "format": "Digital",
+      "rating": "15",
+      "screenings": [
+        {
+          "date": "2025-12-04",
+          "time": "21:10",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-12-27",
+          "time": "12:15",
+          "location": "NFT3"
+        }
+      ],
+      "category": "new_releases"
+    },
+    {
+      "title": "Evolution Film: A Case Study",
+      "description": "This event is part of an ongoing appraisal of the inroads made for disability within the film industry.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "90 min",
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-17",
+          "time": "18:30",
+          "location": "BFI REUBEN LIBRARY"
+        }
+      ],
+      "category": "regular_programme"
+    },
+    {
+      "title": "Exorcist II: The Heretic",
+      "description": "Richard Burton wasn't afraid of a bit of Hollywood hokum, bringing panache to this (unfairly?) reviled sequel. 1984 + intro by Lucy Bolton, Queen Mary University of London Richard Burton's final film performance is a finely-judged study in Orwellian detachment.",
+      "country_year": "USA 1977",
+      "director": "John Boorman",
+      "cast": "Linda Blair, Richard Burton, Louise Fletcher, Max von Sydow",
+      "runtime": "102 min",
+      "format": "35mm",
+      "rating": "18",
+      "screenings": [
+        {
+          "date": "2025-12-19",
+          "time": "20:45",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-12-28",
+          "time": "18:30",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-12-15",
+          "time": "18:20",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-12-27",
+          "time": "20:45",
+          "location": "NFT2"
+        }
+      ],
+      "category": "richard_burton"
+    },
+    {
+      "title": "Floating Clouds Ukigumo",
+      "description": null,
+      "country_year": "Japan 1955",
+      "director": "Mikio Naruse",
+      "cast": "Hideko Takamine, Masayuki Mori, Mariko Okada",
+      "runtime": "123 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-21",
+          "time": "18:15",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-12-30",
+          "time": "20:30",
+          "location": "NFT2"
+        }
+      ],
+      "category": "melodrama"
+    },
+    {
+      "title": "France 1951. Director Jacqueline Audry. With Marie-Claire Olivia, Edwige Feuillère,",
+      "description": "A new student at an all-female boarding school finds herself besotted with her",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "92 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-04",
+          "time": "18:15",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-11-28",
+          "time": "20:45",
+          "location": "NFT2"
+        }
+      ],
+      "category": "re_releases"
+    },
+    {
+      "title": "France 1967. Director Med Hondo. With Robert Liensol, Théo Legitimus,",
+      "description": "Med Hondo’s early film challenges the hostility of French society to migrants. SPECIAL FILMS & EVENTS Dates for your cultural diary, from DVD/Blu-ray launches to weekenders, film summits and festivals London Korean Film Festival 2025 5-18 Nov",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "104 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-26",
+          "time": "14:30",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-11-15",
+          "time": "20:35",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-11-24",
+          "time": "20:30",
+          "location": "NFT2"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "France 2022. Director Alice Diop. With Kayije Kagame, Guslagie Malanda,",
+      "description": "This nuanced portrait of the struggles of integration play out in this utterly original approach to the courtroom drama.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "123 min",
+      "format": "Digital",
+      "rating": "12A",
+      "screenings": [
+        {
+          "date": "2025-11-12",
+          "time": "17:45",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-11-17",
+          "time": "14:30",
+          "location": "NFT4"
+        },
+        {
+          "date": "2025-11-27",
+          "time": "20:35",
+          "location": "NFT2"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "France-Italy 1965. Director Jean-Luc Godard. With Jean-Paul Belmondo, Anna Karina, Roger Dutoit, Samuel Fuller. 110min. Digital. EST. 15",
+      "description": "The spirit of rebellion is in the air in Jean-Luc Godard's prescient portrait of the turbulence of life in the mid-1960s.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-18",
+          "time": "20:50",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-12-29",
+          "time": "18:00",
+          "location": "NFT1"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "France-Senegal-Ivory Coast- Belgium 2019. Director Mati Diop.",
+      "description": "A hauntingly beautiful portrayal of the real consequences of the migrant crisis, told through the prism of a ghost story. Saint Omer + intro by Xavier Alexandre Pillai,",
+      "country_year": null,
+      "director": null,
+      "cast": "Mama Sane, Amadou Mbow, Ibrahima Traore",
+      "runtime": "106 min",
+      "format": "Digital",
+      "rating": "12A",
+      "screenings": [
+        {
+          "date": "2025-10-31",
+          "time": "20:40",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-11-09",
+          "time": "18:30",
+          "location": "NFT4"
+        },
+        {
+          "date": "2025-11-18",
+          "time": "14:40",
+          "location": "NFT4"
+        },
+        {
+          "date": "2025-11-29",
+          "time": "12:00",
+          "location": "NFT3"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "Frankenstein",
+      "description": "Mia Goth, Christoph Waltz. RT tbc. IMAX with Laser. Cert tbc Guillermo del Toro’s take on Mary Shelley’s classic novel is a grandiose opera of a film, with Jacob Elordi as a towering monster.",
+      "country_year": "Mexico-USA 2025",
+      "director": "Guillermo del Toro",
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-31",
+          "time": "20:15",
+          "location": "BFI IMAX"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "Funday: Tim Burton's The Nightmare Before Christmas",
+      "description": "Halloween or Christmas? You can celebrate both seasons at once in this stop motion classic. Funday Workshop: Tim Burton's The Nightmare Before Christmas Come and make your own creepy decorations and have a go at creating a stop-motion film at our Nightmare Before Christmas workshop, as we combine the best of Halloween and Christmas all at once! Free to Funday ticket holders",
+      "country_year": "USA 1993",
+      "director": "Henry Selick",
+      "cast": "voices of Chris Sarandon, Catherine O'Hara, Danny Elfman",
+      "runtime": "77 min",
+      "format": "Digital 4K",
+      "rating": "PG",
+      "screenings": [
+        {
+          "date": "2025-12-14",
+          "time": "11:50",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-12-20",
+          "time": "11:50",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-12-14",
+          "time": "10:30",
+          "location": "BFI SOUTHBANK FOYER"
+        }
+      ],
+      "category": "regular_programme"
+    },
+    {
+      "title": "Gérard Martin). With Gian Maria Volontè, Anne Wiazemsky, Cristiana Tullio-Altan.",
+      "description": "Signalling a new era for Godard and an important influence on the development of feature-length radical films internationally, Le Vent d’est takes the form of a radical drama/essay hybrid. Antonio das Mortes",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "100 min",
+      "format": "Digital",
+      "rating": "12A",
+      "screenings": [
+        {
+          "date": "2025-11-24",
+          "time": "18:15",
           "location": "NFT2"
         }
       ],
@@ -338,8 +1115,26 @@
       "category": "re_releases"
     },
     {
-      "title": "Hilda Chow Hsuan. 95min. Digital 4K (restoration). EST",
-      "description": "In this overlooked classic of Hong Kong cinema, T’ang Shushuen electrifies both the period romance and maternal melodrama with a fresh lens and Restored in 4K in 2025 by M+ at Silver Salt Restoration laboratory, from a 35mm print preserved by University of California, Berkeley Art Museum and Pacific Film Archive and from a 35mm print preserved by BFI National Archive Stella Dallas + intro by Lucy Bolton,",
+      "title": "Gilbert & George: 21st Century Pictures is showing at the Hayward Gallery untill",
+      "description": "11 Jan 2026 Blake’s 7: Redemption & Star One + Q&A with actor",
+      "country_year": "Jan 2026",
+      "director": null,
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-22",
+          "time": "18:00",
+          "location": "NFT1"
+        }
+      ],
+      "category": "in_person"
+    },
+    {
+      "title": "Gong Li. 171min. Digital 4K (restoration). EST. 15",
+      "description": "Chen Kaige’s portrait of life and opera across 50 years of China’s tumultuous recent past is a grandiose and richly-drawn masterpiece.",
       "country_year": null,
       "director": null,
       "cast": null,
@@ -348,119 +1143,9 @@
       "rating": null,
       "screenings": [
         {
-          "date": "2025-11-09",
-          "time": "12:20",
-          "location": "NFT1"
-        },
-        {
-          "date": "2025-11-14",
-          "time": "20:50",
-          "location": "NFT2"
-        }
-      ],
-      "category": "re_releases"
-    },
-    {
-      "title": "Spring in a Small Town Xiǎochéng zhī chūn",
-      "description": "Amid post-war recovery and a struggling family’s loss of wealth and status, the return of a long-lost friend sows seeds of desire and discontent.",
-      "country_year": "China 1948",
-      "director": "Fei Mu",
-      "cast": "Wei Wei, Shi Yu, Li Wei",
-      "runtime": "98 min",
-      "format": "Digital",
-      "rating": "U",
-      "screenings": [
-        {
-          "date": "2025-10-29",
-          "time": "20:50",
-          "location": "NFT2"
-        },
-        {
-          "date": "2025-11-29",
-          "time": "12:40",
-          "location": "NFT1"
-        }
-      ],
-      "category": "re_releases"
-    },
-    {
-      "title": "Spain 2006. Director Pedro Almodóvar. With Penélope Cruz, Carmen Maura,",
-      "description": "A mother returns from the dead to confront unfinished business with her daughters, who are embroiled in their own emotional turmoil and entwined dramatics. Defiance Rebellion in all its forms, both righteous and frivolous. Women who refuse to be contained by circumstance, regardless of the consequences. Now, Voyager + intro by film programmer Caroline Cassin, curator and founder of Women & Cocaine*",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "121 min",
-      "format": "Digital",
-      "rating": "15",
-      "screenings": [
-        {
-          "date": "2025-10-30",
-          "time": "20:40",
-          "location": "NFT1"
-        },
-        {
-          "date": "2025-11-29",
-          "time": "18:10",
-          "location": "NFT1"
-        }
-      ],
-      "category": "re_releases"
-    },
-    {
-      "title": "UK 1945. Director Leslie Arliss. With Margaret Lockwood, James Mason,",
-      "description": "society through her double life as a highwayman.",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "104 min",
-      "format": "35mm",
-      "rating": "PG",
-      "screenings": [
-        {
-          "date": "2025-11-23",
-          "time": "14:50",
-          "location": "NFT1"
-        }
-      ],
-      "category": "re_releases"
-    },
-    {
-      "title": "UK 1945. Director Arthur Crabtree. With Phyllis Calvert, Patricia Roc,",
-      "description": "Traumatised by a sexual assault in her youth, the wife of an Italian wine merchant balances two existences, enabled by sporadic amnesia.",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "110 min",
-      "format": "35mm",
-      "rating": "U",
-      "screenings": [
-        {
-          "date": "2025-11-23",
-          "time": "18:20",
-          "location": "NFT2"
-        }
-      ],
-      "category": "re_releases"
-    },
-    {
-      "title": "Japan 1955. Director Kinuyo Tanaka. With Yumeji Tsukioka, Ryōji Hayama,",
-      "description": "Inspired by the life of tanka poet Fumiko Nakajō, this is an unflinching and humane portrait of a woman transformed by her cancer diagnosis.",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "110 min",
-      "format": "Digital 4K",
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-11-09",
-          "time": "14:50",
-          "location": "NFT3"
-        },
-        {
-          "date": "2025-11-21",
-          "time": "20:45",
-          "location": "NFT2"
+          "date": "2025-11-02",
+          "time": "14:00",
+          "location": "BFI IMAX"
         }
       ],
       "category": "re_releases"
@@ -489,47 +1174,369 @@
       "category": "re_releases"
     },
     {
-      "title": "Egypt 1959. Director Henry Barakat. With Faten Hamama, Ahmed Mazhar,",
-      "description": "A young woman seeks revenge for the death of her sister, only to be drawn into the same complex web of intrigue, desire and manipulation that led to her downfall. Scandal The opinion of others can make or break us. Here are melodrama’s tragic heroines, who fall victim to its judgmental gaze.",
+      "title": "Haiti-USA 1988. Director Raoul Peck. With Patrick Rameau, Aïlo Auguste-Judith,",
+      "description": "Raoul Peck’s powerful drama journeys to a small nook in New York City, where a tale of vengeance that began in Haiti plays out.",
       "country_year": null,
       "director": null,
       "cast": null,
-      "runtime": "109 min",
+      "runtime": "97 min",
       "format": "Digital",
       "rating": null,
       "screenings": [
         {
-          "date": "2025-10-31",
-          "time": "18:00",
+          "date": "2025-11-13",
+          "time": "20:55",
           "location": "NFT2"
         },
         {
-          "date": "2025-11-10",
-          "time": "20:40",
+          "date": "2025-11-26",
+          "time": "18:10",
+          "location": "NFT2"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "Hans Adalbert Schlettow. 86min. 35mm. A BFI National Archive print.",
+      "description": "A jealous man’s growing fury is captured by Anthony Asquith’s moody and expressionistic cinematography, in this atmospheric psychological thriller. Leave Her to Heaven + intro by Aga Baranowska,",
+      "country_year": null,
+      "director": null,
+      "cast": "live piano accompaniment",
+      "runtime": null,
+      "format": null,
+      "rating": "PG",
+      "screenings": [
+        {
+          "date": "2025-11-14",
+          "time": "18:20",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-11-22",
+          "time": "12:30",
           "location": "NFT2"
         }
       ],
       "category": "re_releases"
     },
     {
-      "title": "France 1951. Director Jacqueline Audry. With Marie-Claire Olivia, Edwige Feuillère,",
-      "description": "A new student at an all-female boarding school finds herself besotted with her",
+      "title": "Haunted Landscapes and Rural Psychedelia: Experimenta Mixtape Special",
+      "description": "Dissonant, strange countryside locales and unusual atmospheres provide an eerie, thematic path through a broad, undisclosed selection of films, television programmes and artist works.",
       "country_year": null,
       "director": null,
       "cast": null,
-      "runtime": "92 min",
+      "runtime": "105 min",
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-18",
+          "time": "18:10",
+          "location": "NFT3"
+        }
+      ],
+      "category": "regular_programme"
+    },
+    {
+      "title": "Hilda Chow Hsuan. 95min. Digital 4K (restoration). EST",
+      "description": "In this overlooked classic of Hong Kong cinema, T’ang Shushuen electrifies both the period romance and maternal melodrama with a fresh lens and Restored in 4K in 2025 by M+ at Silver Salt Restoration laboratory, from a 35mm print preserved by University of California, Berkeley Art Museum and Pacific Film Archive and from a 35mm print preserved by BFI National Archive Stella Dallas + intro by Lucy Bolton,",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-09",
+          "time": "12:20",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-11-14",
+          "time": "20:50",
+          "location": "NFT2"
+        }
+      ],
+      "category": "re_releases"
+    },
+    {
+      "title": "HTM Television/ITV 2025. Director Jamie Donoghue. With Vicky McClure,",
+      "description": "Vicky McClure’s Lana Washington returns with her team of bomb disposal experts for the preview of the incendiary opening episode of the third series.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "60 min",
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-23",
+          "time": "18:10",
+          "location": "NFT1"
+        }
+      ],
+      "category": "in_person"
+    },
+    {
+      "title": "Hungary 1975. Director Márta Mészáros. With Katalin Berek, Gyöngyvér Vigh,",
+      "description": "Mark 50 years since the release of this trailblazing auteur’s intimate portrayal of female autonomy. Restored Masterpieces and recent discoveries from around the world, newly restored",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "87 min",
+      "format": "Digital 4K",
+      "rating": "15",
+      "screenings": [
+        {
+          "date": "2025-11-05",
+          "time": "14:00",
+          "location": "NFT1"
+        }
+      ],
+      "category": "regular_programme"
+    },
+    {
+      "title": "Hungary-West Germany-Austria 1981. Director István Szabó.",
+      "description": "Digital 4K (restoration). EST. 15 This epic study of an artist compromising with power for art’s sake was the first Hungarian entry to win the Academy Award for Best Foreign Film. Restored in 4K by the National Film Institute Hungary – Film Archive. Silent Cinema Bringing you the best silent film from the BFI and around the world, with live accompaniment",
+      "country_year": null,
+      "director": null,
+      "cast": "Klaus Maria Brandauer, Krystyna Janda, Ildikó Bánsági",
+      "runtime": "144 min",
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-26",
+          "time": "17:50",
+          "location": "NFT3"
+        }
+      ],
+      "category": "regular_programme"
+    },
+    {
+      "title": "Iconic silent star Ruan Lingyu gives a heart-wrenching performance as a single mother driven to the brink by inequality and objectification.",
+      "description": "Digital restoration by China Film Archive",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": null,
       "format": "Digital",
       "rating": null,
       "screenings": [
         {
-          "date": "2025-11-04",
+          "date": "2025-12-09",
+          "time": "18:10",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-12-20",
+          "time": "20:45",
+          "location": "NFT2"
+        }
+      ],
+      "category": "melodrama"
+    },
+    {
+      "title": "Imitation of Life",
+      "description": "Race, class and gender are explored through the prism of melodrama in one of Douglas Sirk's finest films.",
+      "country_year": "USA 1959",
+      "director": "Douglas Sirk",
+      "cast": "Lana Turner, Juanita Moore, Susan Kohner, John Gavin, Sandra Dee",
+      "runtime": "119 min",
+      "format": "Digital 4K",
+      "rating": "12A",
+      "screenings": [
+        {
+          "date": "2025-12-01",
+          "time": "20:30",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-12-13",
+          "time": "15:00",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-12-30",
+          "time": "20:40",
+          "location": "NFT1"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "Imitation of Life + intro",
+      "description": "Two parallel mothers and daughters find their lives turned upside down by financial success, in Stahl's stunningly frank exploration of racial identity and family bonds.",
+      "country_year": "USA 1934",
+      "director": "John M",
+      "cast": "Fredi Washington, Louise Beavers, Claudette Colbert, Rochelle Hudson",
+      "runtime": "111 min",
+      "format": "Digital 4K",
+      "rating": "PG",
+      "screenings": [
+        {
+          "date": "2025-12-02",
+          "time": "18:00",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-12-20",
+          "time": "15:10",
+          "location": "NFT1"
+        }
+      ],
+      "category": "melodrama"
+    },
+    {
+      "title": "In Jackson Heights",
+      "description": "Frederick Wiseman's portrait of the titular community is one of his warmest and most compassionate films.",
+      "country_year": "USA 2015",
+      "director": "Frederick Wiseman",
+      "cast": null,
+      "runtime": "190 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-07",
+          "time": "17:15",
+          "location": "NFT4"
+        },
+        {
+          "date": "2025-12-27",
+          "time": "17:00",
+          "location": "NFT3"
+        }
+      ],
+      "category": "frederick_wiseman"
+    },
+    {
+      "title": "Innocence",
+      "description": "Nature adopts a sinister tone in this eery drama about an unusual private school for girls.",
+      "country_year": "France-UK-Belgium 2004",
+      "director": "Lucile Hadžihalilović",
+      "cast": "Marion Cotillard, Corinne Marchand, Zoé Auclair",
+      "runtime": "122 min",
+      "format": "Digital",
+      "rating": "15",
+      "screenings": [
+        {
+          "date": "2025-12-03",
+          "time": "20:35",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-12-14",
+          "time": "14:50",
+          "location": "NFT3"
+        }
+      ],
+      "category": "new_releases"
+    },
+    {
+      "title": "Iran 2001. Director Rakhshan Banietemad. With Golab Adineh, Mohammad-Reza Forutan, Baran Kosari. 95min. Digital. EST",
+      "description": "A powerful evocation of family life in modern-day Iran.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-10",
+          "time": "20:30",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-12-23",
           "time": "18:15",
+          "location": "NFT2"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "It",
+      "description": "Clara Bow shines in this jubilant city-girl comedy drama.",
+      "country_year": "USA 1927",
+      "director": "Clarence Badger",
+      "cast": "Clara Bow, Antonio Moreno, William Austin",
+      "runtime": "72 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-16",
+          "time": "21:00",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-12-28",
+          "time": "12:10",
+          "location": "NFT2"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "It's a Wonderful Life",
+      "description": "Frank Capra's perennial festive favourite, starring James Stewart as a desperate man offered salvation by an impish guardian angel.",
+      "country_year": "USA 1946",
+      "director": "Frank Capra",
+      "cast": "James Stewart, Donna Reed, Lionel Barrymore",
+      "runtime": "130 min",
+      "format": "Digital 4K",
+      "rating": "U",
+      "screenings": [
+        {
+          "date": "2025-12-19",
+          "time": "14:30",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-12-20",
+          "time": "20:30",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-12-21",
+          "time": "18:10",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-12-22",
+          "time": "14:30",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-12-23",
+          "time": "18:00",
+          "location": "NFT1"
+        }
+      ],
+      "category": "christmas_films"
+    },
+    {
+      "title": "Italy 1962. Director Pier Paolo Pasolini. With Anna Magnani, Ettore Garofolo,",
+      "description": "A former sex-worker seeks a new life for herself and her son, only to find the past is not easily left behind, in this operatic tragedy anchored by Anna Magnani.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "106 min",
+      "format": "Digital",
+      "rating": "15",
+      "screenings": [
+        {
+          "date": "2025-11-08",
+          "time": "20:40",
           "location": "NFT2"
         },
         {
           "date": "2025-11-28",
-          "time": "20:45",
-          "location": "NFT2"
+          "time": "18:15",
+          "location": "NFT1"
         }
       ],
       "category": "re_releases"
@@ -558,54 +1565,95 @@
       "category": "re_releases"
     },
     {
-      "title": "Italy 1962. Director Pier Paolo Pasolini. With Anna Magnani, Ettore Garofolo,",
-      "description": "A former sex-worker seeks a new life for herself and her son, only to find the past is not easily left behind, in this operatic tragedy anchored by Anna Magnani.",
+      "title": "Japan 1955. Director Kinuyo Tanaka. With Yumeji Tsukioka, Ryōji Hayama,",
+      "description": "Inspired by the life of tanka poet Fumiko Nakajō, this is an unflinching and humane portrait of a woman transformed by her cancer diagnosis.",
       "country_year": null,
       "director": null,
       "cast": null,
-      "runtime": "106 min",
-      "format": "Digital",
-      "rating": "15",
+      "runtime": "110 min",
+      "format": "Digital 4K",
+      "rating": null,
       "screenings": [
         {
-          "date": "2025-11-08",
-          "time": "20:40",
-          "location": "NFT2"
+          "date": "2025-11-09",
+          "time": "14:50",
+          "location": "NFT3"
         },
         {
-          "date": "2025-11-28",
-          "time": "18:15",
-          "location": "NFT1"
+          "date": "2025-11-21",
+          "time": "20:45",
+          "location": "NFT2"
         }
       ],
       "category": "re_releases"
     },
     {
-      "title": "Denmark 1996. Director Lars Von Trier. With Emily Watson, Stellan Skarsgård,",
-      "description": "A man is permanently injured in an oil rig accident, leaving his adoring wife wracked with guilt, willing to do anything to restore her marriage and relationship with God. Spectacle The biggest emotions on the UK’s biggest screen. Melodrama’s most expressionistic, sumptuous films at BFI IMAX. For tickets go to bfi.org.uk/imax",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "159 min",
+      "title": "La otra The Other One + intro by Camilla Baier, co-founder and curator of Invisible Women",
+      "description": null,
+      "country_year": "Mexico 1946",
+      "director": "Roberto Gavaldón",
+      "cast": "Dolores Del Río, Jose Baviera, Victor Junco, Agustín Irusta",
+      "runtime": "98 min",
       "format": "Digital",
-      "rating": "18",
+      "rating": null,
       "screenings": [
         {
-          "date": "2025-11-01",
-          "time": "20:00",
-          "location": "NFT1"
+          "date": "2025-12-12",
+          "time": "18:15",
+          "location": "NFT3"
         },
         {
-          "date": "2025-11-08",
-          "time": "11:50",
+          "date": "2025-12-18",
+          "time": "20:40",
           "location": "NFT3"
         }
       ],
-      "category": "re_releases"
+      "category": "melodrama"
     },
     {
-      "title": "Gong Li. 171min. Digital 4K (restoration). EST. 15",
-      "description": "Chen Kaige’s portrait of life and opera across 50 years of China’s tumultuous recent past is a grandiose and richly-drawn masterpiece.",
+      "title": "Laura Mulvey in Conversation",
+      "description": "sharing thoughts about her relationship with cinema and why film can be a dynamic, multi-layered form to think through. BSL This event will have live captions and a BSL interpreter",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "90 min",
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-04",
+          "time": "18:10",
+          "location": "NFT1"
+        }
+      ],
+      "category": "in_person"
+    },
+    {
+      "title": "Lives of the Performers",
+      "description": "A fascinating deconstruction of performance, in life and on stage, by Yvonne Rainer. Newly restored in 4K by The Museum of Modern Art and the Celeste Bartos Fund for Film Preservation, courtesy of Zeitgeist Films in association with Kino Lorber",
+      "country_year": "USA 1972",
+      "director": "Yvonne Rainer",
+      "cast": "James Barth, John Erdman, Epp Kotkas",
+      "runtime": "90 min",
+      "format": "Digital 4K",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-07",
+          "time": "18:30",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-12-19",
+          "time": "18:20",
+          "location": "NFT3"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "Lois Moran, Jean Hersholt. 110min. Digital 4K (restoration).",
+      "description": "An early silent version of Olive Higgins Prouty’s novel, featuring a standout performance by Vaudeville performer Belle Bennett. Families Ideal screenings for ages 4-12 Funday Preview: The Wonderfully Weird World of Gumball +",
       "country_year": null,
       "director": null,
       "cast": null,
@@ -615,11 +1663,75 @@
       "screenings": [
         {
           "date": "2025-11-02",
-          "time": "14:00",
-          "location": "BFI IMAX"
+          "time": "15:00",
+          "location": "NFT1"
         }
       ],
-      "category": "re_releases"
+      "category": "regular_programme"
+    },
+    {
+      "title": "Lola Montès",
+      "description": "The life of courtesan and scandal-magnet Lola Montès, filtered through the bejewelled Technicolor lens of Max Ophüls.",
+      "country_year": "France-West Germany 1955",
+      "director": "Max Ophüls",
+      "cast": "Martine Carol, Peter Ustinov, Anton Walbrook",
+      "runtime": "115 min",
+      "format": "Digital",
+      "rating": "PG",
+      "screenings": [
+        {
+          "date": "2025-12-06",
+          "time": "14:30",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-12-17",
+          "time": "20:40",
+          "location": "NFT2"
+        }
+      ],
+      "category": "melodrama"
+    },
+    {
+      "title": "Look Back at Richard Burton",
+      "description": "An in-depth overview of the acclaimed Welsh actor's incredible screen career.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "90 min",
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-02",
+          "time": "18:15",
+          "location": "NFT1"
+        }
+      ],
+      "category": "richard_burton"
+    },
+    {
+      "title": "Lust for Life + intro by Christopher Frayling",
+      "description": "Kirk Douglas portrays Vincent Van Gogh in Vincente Minnelli's gloriously colourful and critically acclaimed biopic. Christopher Frayling will be signing copies of his new book 'The Hollywood History of Art' (Reel Art Press) at 17:30 outside the BFI Reuben Library Mark Kermode Live in 3D at the BFI The critic presents the latest episode of his live discussion, on stage in NFT1.",
+      "country_year": "USA 1956",
+      "director": "Vincente Minnelli",
+      "cast": "Kirk Douglas, Anthony Quinn, Pamela Brown",
+      "runtime": "122 min",
+      "format": "Digital",
+      "rating": "PG",
+      "screenings": [
+        {
+          "date": "2025-12-01",
+          "time": "20:25",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-12-15",
+          "time": "18:30",
+          "location": "NFT1"
+        }
+      ],
+      "category": "in_person"
     },
     {
       "title": "Madhuri Dixit. 183min. Digital. PG",
@@ -635,6 +1747,1580 @@
           "date": "2025-11-09",
           "time": "10:45",
           "location": "BFI IMAX"
+        }
+      ],
+      "category": "re_releases"
+    },
+    {
+      "title": "Man With a Movie Camera Chelovek s kino-apparatom",
+      "description": "Dziga Vertov pushes the possibilities of cinema with his portrait of a day in the life of a city.",
+      "country_year": "USSR 1929",
+      "director": "Dziga Vertov",
+      "cast": "score",
+      "runtime": "68 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-06",
+          "time": "15:30",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-12-15",
+          "time": "20:45",
+          "location": "NFT2"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "Mansfield Park + Q&A with director Patricia Rozema and actor Frances O'Connor",
+      "description": "Patricia Rozema brings Jane Austen thrillingly to life with this adaptation of the author's third published novel. Woman with a Movie Camera is generously supported by Jane Stanton",
+      "country_year": "UK-USA 1999",
+      "director": "Patricia Rozema",
+      "cast": "Frances O'Connor, Jonny Lee Miller, Alessandro Nivola, Lindsay Duncan",
+      "runtime": "112 min",
+      "format": "35mm",
+      "rating": "15",
+      "screenings": [
+        {
+          "date": "2025-12-12",
+          "time": "17:50",
+          "location": "NFT1"
+        }
+      ],
+      "category": "regular_programme"
+    },
+    {
+      "title": "Mark Bonnar, Emily-Jane Boyle, Stuart Bowman. 136min. Digital. 15",
+      "description": "A farmer’s daughter comes of age through hardships of 1900s rural Scotland in Terence Davies’ lyrical adaptation of Lewis Grassic Gibbon’s novel.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-02",
+          "time": "18:00",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-11-03",
+          "time": "20:20",
+          "location": "NFT1"
+        }
+      ],
+      "category": "re_releases"
+    },
+    {
+      "title": "Meet Me in St. Louis",
+      "description": "Garland mesmerises, and the songs delight in this beautiful Technicolor musical.",
+      "country_year": "USA 1944",
+      "director": "Vincente Minnelli",
+      "cast": "Judy Garland, Margaret O'Brien, Mary Astor",
+      "runtime": "113 min",
+      "format": "Digital",
+      "rating": "U",
+      "screenings": [
+        {
+          "date": "2025-12-20",
+          "time": "14:50",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-12-22",
+          "time": "18:10",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-12-23",
+          "time": "14:30",
+          "location": "NFT1"
+        }
+      ],
+      "category": "christmas_films"
+    },
+    {
+      "title": "Mexico 1953. Director Luis Buñuel. With Delia Garcés, Arturo de Córdova,",
+      "description": "Obsessive and irrational jealousy fuels the controlling behaviour of an abusive husband, whose veneer of respectability steadily erodes throughout this darkly-lined tragedy. Restored in 4K by the Film Foundation’s World Cinema Project, Les Films du Camélia and Cineteca di Bologna with the support of OCAS and in association with Películas y Videos Internacionales. Special thanks to Guillermo del Toro.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "93 min",
+      "format": "Digital 4K",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-24",
+          "time": "20:45",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-11-03",
+          "time": "18:10",
+          "location": "NFT1"
+        }
+      ],
+      "category": "re_releases"
+    },
+    {
+      "title": "Morocco + intro by Laura Mulvey",
+      "description": "Joseph von Sternberg's camera and Marlene Dietrich's performance make for an incendiary mix in their first collaboration after The Blue Angel.",
+      "country_year": "USA 1930",
+      "director": "Josef von Sternberg",
+      "cast": "Marlene Dietrich, Gary Cooper, Adolphe Menjou",
+      "runtime": "92 min",
+      "format": "Digital",
+      "rating": "U",
+      "screenings": [
+        {
+          "date": "2025-12-03",
+          "time": "18:10",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-12-12",
+          "time": "20:30",
+          "location": "NFT2"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "Multi-Handicapped",
+      "description": "A compassionate portrait of students at the Alabama Institute for the Deaf and Blind.",
+      "country_year": "USA 1986",
+      "director": "Frederick Wiseman",
+      "cast": null,
+      "runtime": "126 min",
+      "format": "Digital 4K",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-02",
+          "time": "15:10",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-11-15",
+          "time": "17:45",
+          "location": "NFT2"
+        }
+      ],
+      "category": "frederick_wiseman"
+    },
+    {
+      "title": "My Cousin Rachel",
+      "description": "Intrigue and desire drive a young heir to the brink of destruction in this Cornish-set Gothic tale.",
+      "country_year": "USA 1952",
+      "director": "Henry Koster",
+      "cast": "Richard Burton, Olivia de Havilland, Audrey Dalton, Ronald Squire",
+      "runtime": "98 min",
+      "format": "Digital 4K",
+      "rating": "PG",
+      "screenings": [
+        {
+          "date": "2025-12-05",
+          "time": "20:50",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-12-06",
+          "time": "14:00",
+          "location": "NFT2"
+        }
+      ],
+      "category": "richard_burton"
+    },
+    {
+      "title": "New 35mm print made with funding from the National Lottery and the additional support",
+      "description": "Archive and The Film Foundation",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-21",
+          "time": "20:45",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-11-01",
+          "time": "12:20",
+          "location": "NFT1"
+        }
+      ],
+      "category": "re_releases"
+    },
+    {
+      "title": "New Writings: Call Me by Your Name: Perspectives on the Film",
+      "description": "This talk will focus on the myriad approaches taken towards Luca Guadagnino’s modern-day classic. BFI IMAX Britain’s biggest screen",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "90 min",
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-24",
+          "time": "18:30",
+          "location": "BFI REUBEN LIBRARY"
+        }
+      ],
+      "category": "regular_programme"
+    },
+    {
+      "title": "Nigeria 2025. Director Akinola Davies Jr. With Sope Dirisu, Godwin Egbo, Chibuke",
+      "description": "In Akinola Davies Jr’s intimate drama, a father attempts to care for his two boys and they come to understand who he truly is. Closing Night: Katanga: The Dance of the Scorpions + intro and Q&A with director Dani Kouyate and cast members",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "94 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-14",
+          "time": "18:00",
+          "location": "NFT1"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "Notorious",
+      "description": "Cary Grant and Ingrid Bergman are at the top of their game in Alfred Hitchcock's cat-and-mouse thriller.",
+      "country_year": "USA 1946",
+      "director": "Alfred Hitchcock",
+      "cast": "Cary Grant, Ingrid Bergman, Claude Rains, Leo G Carroll",
+      "runtime": "101 min",
+      "format": "Digital 4K",
+      "rating": "U",
+      "screenings": [
+        {
+          "date": "2025-12-04",
+          "time": "14:30",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-12-18",
+          "time": "20:45",
+          "location": "NFT1"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "Now Barabbas Was a Robber...",
+      "description": "Richard Burton is a riveting presence in this post-war prison drama about a group of men who find themselves behind bars.",
+      "country_year": "UK 1949",
+      "director": "Gordon Parry",
+      "cast": "Richard Burton, Cedric Hardwicke, Richard Greene, Kathleen Harrison",
+      "runtime": "85 min",
+      "format": "35mm",
+      "rating": "PG",
+      "screenings": [
+        {
+          "date": "2025-12-06",
+          "time": "11:50",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-12-12",
+          "time": "20:50",
+          "location": "NFT3"
+        }
+      ],
+      "category": "richard_burton"
+    },
+    {
+      "title": "Pandora and the Flying Dutchman",
+      "description": "Jack Cardiff's lustrous colour cinematography is just one reason to watch this phantasmagoric romance.",
+      "country_year": "UK 1951",
+      "director": "Albert Lewin",
+      "cast": "Ava Gardner, James Mason, Nigel Patrick",
+      "runtime": "124 min",
+      "format": "Digital",
+      "rating": "PG",
+      "screenings": [
+        {
+          "date": "2025-12-22",
+          "time": "20:30",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-12-29",
+          "time": "18:10",
+          "location": "NFT2"
+        }
+      ],
+      "category": "melodrama"
+    },
+    {
+      "title": "People on Sunday Menschen am Sonntag",
+      "description": "Daily life for Berliners is evocatively captured, before the city changed under Nazi rule.",
+      "country_year": "Germany 1930",
+      "director": "Robert Siodmak, Edgar G",
+      "cast": null,
+      "runtime": "73 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-02",
+          "time": "20:50",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-12-21",
+          "time": "12:20",
+          "location": "NFT3"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "Portrait of Jennie",
+      "description": null,
+      "country_year": "USA 1948",
+      "director": "William Dieterle",
+      "cast": "Jennifer Jones, Joseph Cotten, Ethel Barrymore",
+      "runtime": "86 min",
+      "format": "35mm",
+      "rating": "U",
+      "screenings": [
+        {
+          "date": "2025-12-22",
+          "time": "18:20",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-12-27",
+          "time": "18:15",
+          "location": "NFT1"
+        }
+      ],
+      "category": "melodrama"
+    },
+    {
+      "title": "Preview: Is This Thing On?",
+      "description": null,
+      "country_year": "USA 2025",
+      "director": "Bradley Cooper",
+      "cast": "Will Arnett, Laura Dern, Andra Day",
+      "runtime": "120 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-04",
+          "time": "20:30",
+          "location": "NFT1"
+        }
+      ],
+      "category": "in_person"
+    },
+    {
+      "title": "Preview: Rental Family",
+      "description": null,
+      "country_year": "USA 2025",
+      "director": "HIKARI",
+      "cast": "Brendan Fraser, Takehiro Hira, Mari Yamamoto",
+      "runtime": "110 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-09",
+          "time": "20:40",
+          "location": "NFT1"
+        }
+      ],
+      "category": "in_person"
+    },
+    {
+      "title": "Pride and Prejudice + intro",
+      "description": "A stylish Hollywood take on a British classic, in honour of Jane Austen's 250th birthday. Free for the over-60s (booking by phone or in person only), otherwise normal matinee price",
+      "country_year": "USA 1940",
+      "director": "Robert Z",
+      "cast": "Greer Garson, Laurence Olivier, Mary Boland",
+      "runtime": "118 min",
+      "format": "Digital",
+      "rating": "U",
+      "screenings": [
+        {
+          "date": "2025-12-15",
+          "time": "14:00",
+          "location": "NFT1"
+        }
+      ],
+      "category": "regular_programme"
+    },
+    {
+      "title": "Public Housing",
+      "description": "An absorbing study of daily life in one of Chicago’s poorest housing projects.",
+      "country_year": "USA 1997",
+      "director": "Frederick Wiseman",
+      "cast": null,
+      "runtime": "195 min",
+      "format": "Digital 4K",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-26",
+          "time": "17:15",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-11-29",
+          "time": "14:20",
+          "location": "NFT3"
+        }
+      ],
+      "category": "frederick_wiseman"
+    },
+    {
+      "title": "Reece Shearsmith Presents Gremlins + intro by Reece Shearsmith",
+      "description": "Joe Dante's darkly comic Christmas tale, an instant cult favourite, sees otherworldly creatures run amok in smalltown America.",
+      "country_year": "USA 1984",
+      "director": "Joe Dante",
+      "cast": "Zach Galligan, Phoebe Cates, Hoyt Axton",
+      "runtime": "106 min",
+      "format": "Digital 4K",
+      "rating": "12A",
+      "screenings": [
+        {
+          "date": "2025-12-11",
+          "time": "18:10",
+          "location": "NFT1"
+        }
+      ],
+      "category": "in_person"
+    },
+    {
+      "title": "Remembering Terence Davies",
+      "description": "Join us for this celebration and commemoration of the life and work of Terence Davies. BSL This event will have live captions and a BSL interpreter The Terence Davies Trilogy + intro by season curator",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "90 min",
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-28",
+          "time": "18:30",
+          "location": "NFT1"
+        }
+      ],
+      "category": "re_releases"
+    },
+    {
+      "title": "Richard Burton is a whirlwind of anger and anguish in this screen adaptation of John Osborne's era-defining play.",
+      "description": null,
+      "country_year": null,
+      "director": null,
+      "cast": "a BBC interview with Richard Burton and Claire Bloom on Look Back In Anger (",
+      "runtime": "8 min",
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-06",
+          "time": "16:10",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-12-15",
+          "time": "20:50",
+          "location": "NFT1"
+        }
+      ],
+      "category": "richard_burton"
+    },
+    {
+      "title": "Rouge Yin Ji Kwan",
+      "description": "Stanley Kwan's decades-spanning romance, featuring career-best performances by Anita Mui and Leslie Cheung, ranks as a singular work in Hong Kong cinema.",
+      "country_year": "Hong Kong 1987",
+      "director": "Stanley Kwan",
+      "cast": "Anita Mui, Leslie Cheung, Emily Chu, Alex Man",
+      "runtime": "97 min",
+      "format": "Digital 4K",
+      "rating": "15",
+      "screenings": [
+        {
+          "date": "2025-12-27",
+          "time": "20:50",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-12-30",
+          "time": "18:10",
+          "location": "NFT2"
+        }
+      ],
+      "category": "melodrama"
+    },
+    {
+      "title": "Screen Two Symposium",
+      "description": "A series of lectures and discussions highlighting the importance and legacy of this landmark BBC strand. An event co-hosted by the BFI and the Centre for the History of Television Culture and Production, Royal Holloway (in association with the AHRC-funded Screen Two research project)",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "360 min",
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-12",
+          "time": "11:00",
+          "location": "NFT3"
+        }
+      ],
+      "category": "in_person"
+    },
+    {
+      "title": "Scrooge",
+      "description": "Alastair Sim excels as Dickens' notorious curmudgeon Ebenezer Scrooge.",
+      "country_year": "UK 1951",
+      "director": "Brian Desmond Hurst",
+      "cast": "Alastair Sim, Mervyn Johns, Hermione Baddeley",
+      "runtime": "87 min",
+      "format": "Digital",
+      "rating": "U",
+      "screenings": [
+        {
+          "date": "2025-12-20",
+          "time": "13:00",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-12-21",
+          "time": "15:10",
+          "location": "NFT2"
+        }
+      ],
+      "category": "christmas_films"
+    },
+    {
+      "title": "Sharon Clark. 30min. Digital",
+      "description": "Two films explore the pressures foisted upon Black women in 1980s British society.",
+      "country_year": "Two films explore the pressures foisted upon Black women in 1980",
+      "director": null,
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-24",
+          "time": "18:20",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-11-05",
+          "time": "18:10",
+          "location": "NFT2"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "Shot on location yet featuring the voice of a narrator, Mulvey and Wollen’s",
+      "description": "1982 film presents an at-once grounded yet heavily staged portrait of London, which was then in recession.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-10",
+          "time": "18:15",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-11-23",
+          "time": "15:10",
+          "location": "NFT2"
+        }
+      ],
+      "category": "re_releases"
+    },
+    {
+      "title": "Silent Sherlock: Three Classic Cases + reading by Neil Brand",
+      "description": "A compendium of the finest silent adaptations of Arthur Conan Doyle's crime tales. Restoration funded by Iron Mountain. Additional support for the score from The Charles Skey Charitable Trust and Cockayne – Grants for the Arts: a donor advised fund held at The London Community Foundation",
+      "country_year": "UK 1921",
+      "director": "Maurice Elvey, George Ridgwell",
+      "cast": "Eille Norwood, Hubert Willis, Madam D'Esterre",
+      "runtime": "102 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-14",
+          "time": "14:00",
+          "location": "NFT1"
+        }
+      ],
+      "category": "regular_programme"
+    },
+    {
+      "title": "South Korea 1971. Director Lee Man-hee. With Jang Dong-hwi, Namkoong Won,",
+      "description": "Three adventurers meet frontier chaos in Lee Man-hee’s Korean western classic.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "98 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-16",
+          "time": "15:15",
+          "location": "NFT3"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "South Korea 2024. Director Hwang Seul-gi. With Jang Sun, Byun Chung-hee,",
+      "description": "A daughter exploits her mother’s dementia for financial survival in Hwang Seul-gi’s moving drama. 3670 + intro",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "86 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-11",
+          "time": "18:20",
+          "location": "NFT3"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "South Korea 2024. Director Kim Seok. With Heo Sung-tae, Jo Bok-rae, Seo Min-ju,",
+      "description": "Buddy comedy chaos lies at the heart of this infectious tale of the relationship between a bumbling cop and his informant.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "103 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-09",
+          "time": "15:00",
+          "location": "NFT2"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "South Korea 2024. Director Shin Jae-min. With Kim Hyeon-soo, Kim Yong-ji,",
+      "description": "In this taut and unsettling thriller, a wannabe cartoonist unravels in a dark web of ambition.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "113 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-13",
+          "time": "18:10",
+          "location": "NFT2"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "South Korea 2024. Director Woo Min-ho. With Hyun Bin, Park Jeong-min,",
+      "description": "Legendary early 20th-century resistance fighter Ahn Jung-geun is the subject of Woo Min-ho’s epic, featuring a charismatic star turn by Hyun Bin. DOC’N ROLL FILM FESTIVAL 23 Oct-9 Nov Celebrating Music, Art and Subcultures at Doc’n Roll Film Festival London Premiere: Move Ya Body: The Birth Of House + Q&A with director Elegance Bratton Discover the history of the Chicago sound that led to a global house music revolution. For tickets visit to bfi.org.uk/imax World Premiere: Rockers Don’t Stop: Th",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "113 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-18",
+          "time": "18:30",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-11-06",
+          "time": "18:15",
+          "location": "BFI IMAX"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "South Korea 2025. Director Park Joon-ho. With Park Joon-ho, Cho You-hyun,",
+      "description": "A North Korean defector seeks to define his identity and sexuality in Park Joon-ho’s impressive debut. 20:30 NFT1",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "124 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-12",
+          "time": "20:30",
+          "location": "NFT1"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "Spain 2006. Director Pedro Almodóvar. With Penélope Cruz, Carmen Maura,",
+      "description": "A mother returns from the dead to confront unfinished business with her daughters, who are embroiled in their own emotional turmoil and entwined dramatics. Defiance Rebellion in all its forms, both righteous and frivolous. Women who refuse to be contained by circumstance, regardless of the consequences. Now, Voyager + intro by film programmer Caroline Cassin, curator and founder of Women & Cocaine*",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "121 min",
+      "format": "Digital",
+      "rating": "15",
+      "screenings": [
+        {
+          "date": "2025-10-30",
+          "time": "20:40",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-11-29",
+          "time": "18:10",
+          "location": "NFT1"
+        }
+      ],
+      "category": "re_releases"
+    },
+    {
+      "title": "Spring in a Small Town Xiǎochéng zhī chūn",
+      "description": "Amid post-war recovery and a struggling family’s loss of wealth and status, the return of a long-lost friend sows seeds of desire and discontent.",
+      "country_year": "China 1948",
+      "director": "Fei Mu",
+      "cast": "Wei Wei, Shi Yu, Li Wei",
+      "runtime": "98 min",
+      "format": "Digital",
+      "rating": "U",
+      "screenings": [
+        {
+          "date": "2025-10-29",
+          "time": "20:50",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-11-29",
+          "time": "12:40",
+          "location": "NFT1"
+        }
+      ],
+      "category": "re_releases"
+    },
+    {
+      "title": "Steve McQueen’s biopic reconstructs the courageous battle by Notting Hill’s",
+      "description": "West Indian community against police intimidation.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-27",
+          "time": "20:30",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-11-22",
+          "time": "17:30",
+          "location": "NFT2"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "Supermarionation Memories – In Conversation with Dee Anderson",
+      "description": "The daughter of Thunderbirds creators Gerry and Sylvia Anderson presents an immersive dive into her parent's extraordinary creative world.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "90 min",
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-07",
+          "time": "15:30",
+          "location": "NFT1"
+        }
+      ],
+      "category": "in_person"
+    },
+    {
+      "title": "Tea and Sympathy",
+      "description": "Deborah Kerr's empathetic housewife risks her marriage and reputation for a sensitive teenager tormented by rumours and the cruelty of his peers.",
+      "country_year": "USA 1956",
+      "director": "Vincente Minnelli",
+      "cast": "Deborah Kerr, John Kerr, Leif Erickson",
+      "runtime": "122 min",
+      "format": "35mm",
+      "rating": "18",
+      "screenings": [
+        {
+          "date": "2025-12-03",
+          "time": "20:25",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-12-07",
+          "time": "18:15",
+          "location": "NFT1"
+        }
+      ],
+      "category": "melodrama"
+    },
+    {
+      "title": "Terence on Television",
+      "description": "Terence Davies was full of passion and light when he talked about cinema, as this programme reveals.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "100 min",
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-25",
+          "time": "15:00",
+          "location": "NFT2"
+        }
+      ],
+      "category": "re_releases"
+    },
+    {
+      "title": "Terminator 2: Judgment Day",
+      "description": "James Cameron transforms the world of his low-budget original into a technologically groundbreaking sci-fi action thriller that combines stunning set-pieces with breakneck pacing.",
+      "country_year": "USA 1991",
+      "director": "James Cameron",
+      "cast": "Arnold Schwarzenegger, Linda Hamilton, Edward Furlong, Robert Patrick",
+      "runtime": "137 min",
+      "format": "Digital 4K",
+      "rating": "15",
+      "screenings": [
+        {
+          "date": "2025-12-07",
+          "time": "16:15",
+          "location": "BFI IMAX"
+        },
+        {
+          "date": "2025-12-20",
+          "time": "20:20",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-12-23",
+          "time": "20:20",
+          "location": "NFT3"
+        }
+      ],
+      "category": "james_cameron"
+    },
+    {
+      "title": "Terry Jones: The Renaissance Man",
+      "description": "This event comprises rare and memorable clips highlighting the talents of Terry Jones, with on-stage contributions from his friends, family and colleagues. BSL This event will have live captions and a BSL interpreter Mark Kermode Live in 3D at the BFI The critic presents the latest episode of his live discussion, on stage in NFT1. SuperBob 10th Anniversary + Q&A with writer and actor",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "100 min",
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-01",
+          "time": "15:00",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-11-17",
+          "time": "18:30",
+          "location": "NFT1"
+        }
+      ],
+      "category": "in_person"
+    },
+    {
+      "title": "The Apartment",
+      "description": "In Wilder's Oscar-winning comedy, Jack Lemmon plays an office worker who lends his apartment to adulterous superiors in order to get ahead.",
+      "country_year": "USA 1960",
+      "director": "Billy Wilder",
+      "cast": "Jack Lemmon, Shirley MacLaine, Fred MacMurray",
+      "runtime": "126 min",
+      "format": "Digital 4K",
+      "rating": "12A",
+      "screenings": [
+        {
+          "date": "2025-12-19",
+          "time": "18:00",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-12-22",
+          "time": "20:35",
+          "location": "NFT1"
+        }
+      ],
+      "category": "christmas_films"
+    },
+    {
+      "title": "The Arbor",
+      "description": "An innovative hybrid documentary exploring the troubled yet inspired life of Andrea Dunbar.",
+      "country_year": "UK 2010",
+      "director": "Clio Barnard",
+      "cast": "Manjinder Virk, Christine Bottomley, Natalie Gavin",
+      "runtime": "94 min",
+      "format": "Digital",
+      "rating": "15",
+      "screenings": [
+        {
+          "date": "2025-12-05",
+          "time": "20:45",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-12-21",
+          "time": "18:20",
+          "location": "NFT3"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "The Black Swan + intro by Sheldon Hall, Emeritus Fellow, Sheffield Hallam University",
+      "description": "Hollywood hunk Tyrone Power sails the Spanish main in this rip-roaring pirate tale.",
+      "country_year": "US 1942",
+      "director": "Henry King",
+      "cast": "Tyrone Power, Maureen O'Hara, Laird Cregar, George Sanders",
+      "runtime": "82 min",
+      "format": "35mm",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-09",
+          "time": "18:15",
+          "location": "NFT2"
+        }
+      ],
+      "category": "regular_programme"
+    },
+    {
+      "title": "The Cloud-Capped Star Meghe Dhaka Tara",
+      "description": "Under the shadow of Partition, a loyal young woman places her devotion to an ungrateful family above her own happiness, in an emotional howl from one of India's finest directors. Restored by the Criterion Collection in cooperation with The Film Foundation's World Cinema Project and the Cineteca di Bologna",
+      "country_year": "India 1960",
+      "director": "Ritwik Ghatak",
+      "cast": "Supriya Choudhury, Anil Chatterjee, Gita Ghatak, Niranjan Ray",
+      "runtime": "127 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-14",
+          "time": "18:15",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-12-28",
+          "time": "11:50",
+          "location": "NFT1"
+        }
+      ],
+      "category": "melodrama"
+    },
+    {
+      "title": "The Comedians + intro by season co-curator James Bell",
+      "description": "Peter Glenville's last film is a gripping exposé of Haiti's descent into terror, with Richard Burton leading an all-star cast.",
+      "country_year": "USA 1967",
+      "director": "Peter Glenville",
+      "cast": "Richard Burton, Elizabeth Taylor, Alec Guiness, Peter Ustinov",
+      "runtime": "147 min",
+      "format": "35mm",
+      "rating": "PG",
+      "screenings": [
+        {
+          "date": "2025-12-07",
+          "time": "15:00",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-12-21",
+          "time": "14:30",
+          "location": "NFT3"
+        }
+      ],
+      "category": "richard_burton"
+    },
+    {
+      "title": "The Heiress",
+      "description": "The downtrodden daughter of a manipulative widower has her head turned by the flattery of a handsome stranger, whose intentions quickly fall under suspicion.",
+      "country_year": "USA 1949",
+      "director": "William Wyler",
+      "cast": "Olivia de Havilland, Montgomery Clift, Ralph Richardson, Miriam Hopkins",
+      "runtime": "115 min",
+      "format": "Digital",
+      "rating": "U",
+      "screenings": [
+        {
+          "date": "2025-12-10",
+          "time": "20:35",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-12-27",
+          "time": "15:00",
+          "location": "NFT1"
+        }
+      ],
+      "category": "melodrama"
+    },
+    {
+      "title": "The Inertia Variations + Q&A with Matt Johnson and director Johanna St Michaels",
+      "description": "We screen this rarely seen documentary about The The's Matt Johnson, followed by an interview with the singer-songwriter.",
+      "country_year": "UK 2017",
+      "director": "Johanna St Michaels",
+      "cast": null,
+      "runtime": "85 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-16",
+          "time": "20:30",
+          "location": "NFT1"
+        }
+      ],
+      "category": "in_person"
+    },
+    {
+      "title": "The Last Days of Dolwyn + intro by actor Kate Burton, Richard Burton's daughter",
+      "description": "Nefarious intentions underlie plans to flood a Welsh valley in this underrated melodrama – Richard Burton's film debut.",
+      "country_year": "UK 1949",
+      "director": "Emlyn Williams",
+      "cast": "Edith Evans, Richard Burton, Anthony James, Emlyn Williams",
+      "runtime": "95 min",
+      "format": "35mm",
+      "rating": "PG",
+      "screenings": [
+        {
+          "date": "2025-12-02",
+          "time": "20:30",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-12-14",
+          "time": "12:00",
+          "location": "NFT3"
+        }
+      ],
+      "category": "richard_burton"
+    },
+    {
+      "title": "The Muppet Christmas Carol",
+      "description": "This joyous comedy-musical features all of the Muppets in this surprisingly faithful Dickens adaptation.",
+      "country_year": "USA 1992",
+      "director": "Brian Henson",
+      "cast": "Michael Caine, Frank Oz, Jerry Nelson",
+      "runtime": "89 min",
+      "format": "Digital",
+      "rating": "U",
+      "screenings": [
+        {
+          "date": "2025-12-06",
+          "time": "12:20",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-12-21",
+          "time": "12:00",
+          "location": "NFT1"
+        }
+      ],
+      "category": "regular_programme"
+    },
+    {
+      "title": "The screenings on Sun 26 and Wed 29 Oct will be preceded by a 2008 filmed interview",
+      "description": null,
+      "country_year": null,
+      "director": null,
+      "cast": "Terence Davies from The Culture Show (BBC 2008",
+      "runtime": "15 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-26",
+          "time": "12:10",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-10-29",
+          "time": "20:45",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-11-28",
+          "time": "20:40",
+          "location": "NFT3"
+        }
+      ],
+      "category": "re_releases"
+    },
+    {
+      "title": "The seminal work from the father of African cinema focuses on a domestic",
+      "description": "worker who emigrates from Senegal to France in hope of a better life.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-20",
+          "time": "20:45",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-10-30",
+          "time": "18:30",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-11-28",
+          "time": "12:30",
+          "location": "NFT4"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "The Seventh Veil",
+      "description": "A psychiatrist delves into the twisted labyrinth of memories suppressed by a talented pianist, who has been driven to breaking point by the expectations and pressure of her success.",
+      "country_year": "UK 1945",
+      "director": "Compton Bennett",
+      "cast": "Ann Todd, James Mason, Herbert Lom",
+      "runtime": "94 min",
+      "format": "35mm",
+      "rating": "PG",
+      "screenings": [
+        {
+          "date": "2025-12-19",
+          "time": "20:35",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-12-28",
+          "time": "15:00",
+          "location": "NFT3"
+        }
+      ],
+      "category": "melodrama"
+    },
+    {
+      "title": "The Silences of the Palace Samt El Koussour + intro by Ifriqiya Cinema",
+      "description": "Generations of women haunt a once grandiose palace, whose secrets are dislodged by the return of a young woman who once called it home.",
+      "country_year": "Tunisia-France 1994",
+      "director": "Moufida Tlatli",
+      "cast": "Hend Sabry, Ghalya Lacroix, Nejia Ouerghi",
+      "runtime": "130 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-13",
+          "time": "20:30",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-12-18",
+          "time": "18:00",
+          "location": "NFT2"
+        }
+      ],
+      "category": "melodrama"
+    },
+    {
+      "title": "The Spy Who Came in From the Cold + intro by Charlotte Frances Burton, Richard Burton's granddaughter",
+      "description": "Richard Burton gives one of his very greatest performances in this masterful adaptation of John le Carré's classic Cold War espionage novel.",
+      "country_year": "UK 1965",
+      "director": "Martin Ritt",
+      "cast": "Richard Burton, Oskar Werner, Claire Bloom, Sam Wanamaker",
+      "runtime": "112 min",
+      "format": "Digital",
+      "rating": "PG",
+      "screenings": [
+        {
+          "date": "2025-12-08",
+          "time": "20:30",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-12-17",
+          "time": "18:10",
+          "location": "NFT2"
+        }
+      ],
+      "category": "richard_burton"
+    },
+    {
+      "title": "The Terminator",
+      "description": "James Cameron's breakthrough debut is a classic sci-fi and the perfect vehicle for Arnold Schwarzenegger. A new 35mm print made with funding from the National Lottery",
+      "country_year": "USA 1984",
+      "director": "James Cameron",
+      "cast": "Arnold Schwarzenegger, Linda Hamilton, Michael Biehn",
+      "runtime": "107 min",
+      "format": "35mm",
+      "rating": "15",
+      "screenings": [
+        {
+          "date": "2025-12-07",
+          "time": "13:30",
+          "location": "BFI IMAX"
+        },
+        {
+          "date": "2025-12-20",
+          "time": "17:50",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-12-28",
+          "time": "18:20",
+          "location": "NFT1"
+        }
+      ],
+      "category": "james_cameron"
+    },
+    {
+      "title": "The Unrealised Projects of Terence Davies",
+      "description": "Join us as we explore the range of films that Terence Davies didn’t get to make. Dear Bud: The Creative Mind of Terence Davies Edge Hill University, the repository of the Terence Davies Archive, curates a free exhibition of previously unseen materials from Davies’ personal archive and the archive of production company Hurricane Films. The exhibition will include materials from both Terence’s personal life and film career such as family letters and belongings, behind-the-scenes photos, props and ",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "90 min",
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-18",
+          "time": "18:20",
+          "location": "NFT3"
+        }
+      ],
+      "category": "re_releases"
+    },
+    {
+      "title": "The Worlds of James Cameron",
+      "description": "The perfect primer to a season of films by one of Hollywood's most successful, innovative and visionary filmmakers.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "90 min",
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-01",
+          "time": "20:40",
+          "location": "NFT1"
+        }
+      ],
+      "category": "james_cameron"
+    },
+    {
+      "title": "This classic of Black British cinema captures the struggle of young British",
+      "description": "West Indians as they attempt to make their way through life. Restored by the BFI National Archive and The Film Foundation. Funding provided by the Hobson/Lucas Family Foundation",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-25",
+          "time": "20:30",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-11-07",
+          "time": "18:10",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-11-14",
+          "time": "14:40",
+          "location": "NFT4"
+        },
+        {
+          "date": "2025-11-23",
+          "time": "18:15",
+          "location": "NFT4"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "Through the Olive Trees Zir-e darakhtan-e zeyton",
+      "description": "The final part of Abbas Kiarostami's Koker trilogy is one of his most beautifully realised films.",
+      "country_year": "Iran 1994",
+      "director": "Abbas Kiarostami",
+      "cast": "Hossein Rezai, Tahereh Ladania, Mohamad Ali Keshavarz, Zarifeh Shiva",
+      "runtime": "104 min",
+      "format": "Digital",
+      "rating": "U",
+      "screenings": [
+        {
+          "date": "2025-12-14",
+          "time": "12:30",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-12-22",
+          "time": "18:15",
+          "location": "NFT3"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "Titanic",
+      "description": "James Cameron takes the fateful journey of the grand liner and transforms it into a swooning, sweeping cinematic event.",
+      "country_year": "USA 1997",
+      "director": "James Cameron",
+      "cast": "Leonardo DiCaprio, Kate Winslet, Billy Zane, Cathy Bates",
+      "runtime": "194 min",
+      "format": "Digital 4K",
+      "rating": "12A",
+      "screenings": [
+        {
+          "date": "2025-12-06",
+          "time": "13:30",
+          "location": "BFI IMAX"
+        },
+        {
+          "date": "2025-12-21",
+          "time": "14:15",
+          "location": "NFT1"
+        }
+      ],
+      "category": "james_cameron"
+    },
+    {
+      "title": "Titicut Follies + intro by Sandra Hebron, programme curator*",
+      "description": "Frederick Wiseman’s unflinching debut shows life inside an institution for the High School + discussion about Frederick Wiseman’s aesthetics and approach with filmmaker Andrea Luka",
+      "country_year": "USA 1967",
+      "director": "Frederick Wiseman",
+      "cast": null,
+      "runtime": "84 min",
+      "format": "Digital 4K",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-29",
+          "time": "18:10",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-11-09",
+          "time": "12:30",
+          "location": "NFT3"
+        }
+      ],
+      "category": "frederick_wiseman"
+    },
+    {
+      "title": "Tokyo Godfathers Tokyo goddofazazu",
+      "description": "An extraordinary anime comedy-drama from anime master Satoshi Kon.",
+      "country_year": "Japan 2003",
+      "director": "Satoshi Kon",
+      "cast": "voices of Toru Emori, Yoshiaki Umegaki, Aya Okamoto",
+      "runtime": "88 min",
+      "format": "Digital",
+      "rating": "12A",
+      "screenings": [
+        {
+          "date": "2025-12-20",
+          "time": "18:30",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-12-23",
+          "time": "20:50",
+          "location": "NFT1"
+        }
+      ],
+      "category": "christmas_films"
+    },
+    {
+      "title": "True Lies",
+      "description": "Arnie flexes his comic chops, while Jamie Lee Curtis almost steals the show as his frustrated wife in James Cameron's grand-scale espionage action-comedy.",
+      "country_year": "USA 1994",
+      "director": "James Cameron",
+      "cast": "Arnold Schwarzenegger, Jamie Lee Curtis, Tom Arnold, Art Malik",
+      "runtime": "141 min",
+      "format": "Digital 4K",
+      "rating": "15",
+      "screenings": [
+        {
+          "date": "2025-12-17",
+          "time": "20:20",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-12-29",
+          "time": "17:30",
+          "location": "NFT3"
+        }
+      ],
+      "category": "james_cameron"
+    },
+    {
+      "title": "TV Preview: An Evening With Radio Times – Run Away + Q&A with cast and creator TBC",
+      "description": "This riveting adaptation of Harlan Coben's thriller finds a family torn apart by absence, addiction and crime.",
+      "country_year": "Netflix 2025",
+      "director": "Nimer Rashad",
+      "cast": "James Nesbitt, Ruth Jones, Minnie Driver",
+      "runtime": "60 min",
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-01",
+          "time": "18:20",
+          "location": "NFT1"
+        }
+      ],
+      "category": "in_person"
+    },
+    {
+      "title": "TV Preview: Black Ops + Q&A with cast and creator TBC",
+      "description": "We preview episodes from the second series of this hugely popular show.",
+      "country_year": null,
+      "director": "Akaash Meeda",
+      "cast": "Gbemisola Ikumelo, Hammed Animashaun, Akemnji Ndifornyen",
+      "runtime": "30 min",
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-08",
+          "time": "18:15",
+          "location": "NFT1"
+        }
+      ],
+      "category": "in_person"
+    },
+    {
+      "title": "TV Preview: The Room in the Tower + Q&A with director Mark Gatiss and members of the cast",
+      "description": "Mark Gatiss returns with another chilling ghost story at Christmas.",
+      "country_year": "BBC 2025",
+      "director": "Mark Gatiss",
+      "cast": "Joanna Lumley, Tobias Menzies, Polly Walker, Ben Mansfield, Nancy Carroll",
+      "runtime": "70 min",
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-14",
+          "time": "16:50",
+          "location": "NFT1"
+        }
+      ],
+      "category": "in_person"
+    },
+    {
+      "title": "UK 1933 Director Friedrich Hollaender. With Lilian Harvey, Charles Boyer,",
+      "description": "A quirky musical farce of mistaken identity with Charles Boyer as a dashing Duke. Seniors Free matinees and talks for the over-60s",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "84 min",
+      "format": "35mm",
+      "rating": "U",
+      "screenings": [
+        {
+          "date": "2025-11-25",
+          "time": "18:15",
+          "location": "NFT2"
+        }
+      ],
+      "category": "regular_programme"
+    },
+    {
+      "title": "UK 1945. Director Arthur Crabtree. With Phyllis Calvert, Patricia Roc,",
+      "description": "Traumatised by a sexual assault in her youth, the wife of an Italian wine merchant balances two existences, enabled by sporadic amnesia.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "110 min",
+      "format": "35mm",
+      "rating": "U",
+      "screenings": [
+        {
+          "date": "2025-11-23",
+          "time": "18:20",
+          "location": "NFT2"
+        }
+      ],
+      "category": "re_releases"
+    },
+    {
+      "title": "UK 1945. Director David Lean. With Celia Johnson, Trevor Howard,",
+      "description": "A chance meeting between two married people sparks an impossible chemistry and tragic emotional entanglement, in a film that is rich in pathos and masterfully crafted. Restoration supported by The David Lean Foundation Event in partnership with the David Lean Foundation and Noël Coward Foundation bfi.org.uk/relaxed",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "87 min",
+      "format": "Digital",
+      "rating": "PG",
+      "screenings": [
+        {
+          "date": "2025-10-27",
+          "time": "18:15",
+          "location": "NFT3"
+        }
+      ],
+      "category": "regular_programme"
+    },
+    {
+      "title": "UK 1945. Director Leslie Arliss. With Margaret Lockwood, James Mason,",
+      "description": "society through her double life as a highwayman.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "104 min",
+      "format": "35mm",
+      "rating": "PG",
+      "screenings": [
+        {
+          "date": "2025-11-23",
+          "time": "14:50",
+          "location": "NFT1"
         }
       ],
       "category": "re_releases"
@@ -663,6 +3349,29 @@
       "category": "re_releases"
     },
     {
+      "title": "UK 1977. Director Menelik Shabazz. 29min. 16mm",
+      "description": "A dizzying and passionate portrayal of intersectional politics in 1980s Black Britain plays alongside a film in which young Black British people speak out against negative media narratives.",
+      "country_year": "A dizzying and passionate portrayal of intersectional politics in 1980",
+      "director": null,
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-29",
+          "time": "18:00",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-11-25",
+          "time": "20:45",
+          "location": "NFT2"
+        }
+      ],
+      "category": "classics"
+    },
+    {
       "title": "UK 1977. Directors Laura Mulvey, Peter Wollen. With Dinah Stabb, Merdelle Jordine,",
       "description": "an experimental narrative structure, a revolutionary visual style and hypnotic music.",
       "country_year": null,
@@ -686,178 +3395,6 @@
           "date": "2025-11-21",
           "time": "18:20",
           "location": "NFT3"
-        }
-      ],
-      "category": "re_releases"
-    },
-    {
-      "title": "AMY! + discussion with Laura Mulvey",
-      "description": "+ Frida Kahlo & Tina Modotti A shorts programme of Mulvey and Wollen’s works, repositioning the narratives of three women: Amy Johnson, Frida Kahlo and Tina Modotti.",
-      "country_year": "UK 1979",
-      "director": "Laura Mulvey, Peter Wollen",
-      "cast": null,
-      "runtime": "34 min",
-      "format": "16mm",
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-11-11",
-          "time": "18:10",
-          "location": "NFT2"
-        }
-      ],
-      "category": "re_releases"
-    },
-    {
-      "title": "Shot on location yet featuring the voice of a narrator, Mulvey and Wollen’s",
-      "description": "1982 film presents an at-once grounded yet heavily staged portrait of London, which was then in recession.",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": null,
-      "format": null,
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-11-10",
-          "time": "18:15",
-          "location": "NFT2"
-        },
-        {
-          "date": "2025-11-23",
-          "time": "15:10",
-          "location": "NFT2"
-        }
-      ],
-      "category": "re_releases"
-    },
-    {
-      "title": "Channel 4 1983. Directors Laura Mulvey, Peter Wollen. With Dawn Archibald, Kevin",
-      "description": "a male-organised world.",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "93 min",
-      "format": "Digital",
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-11-22",
-          "time": "18:10",
-          "location": "NFT1"
-        },
-        {
-          "date": "2025-11-26",
-          "time": "21:00",
-          "location": "NFT3"
-        }
-      ],
-      "category": "re_releases"
-    },
-    {
-      "title": "Disgraced Monuments + discussion with Laura Mulvey",
-      "description": "+ 23rd August 2008 In Mulvey and Lewis’s film, the repercussions of regime change in Russia through the 20th century finds complex articulation and negotiation through the creation and alteration of statues in the former Soviet Empire. Experimenta: Riddles of the Sphinx in Context Laura Mulvey selects films which gave context to and informed the development of her and Peter Wollen’s iconic work Riddles of the Sphinx: ‘All these films seemed symptomatic of the depth of change as well as its varie",
-      "country_year": "UK 1994",
-      "director": "Laura Mulvey, Mark Lewis",
-      "cast": null,
-      "runtime": "50 min",
-      "format": "Digital",
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-11-27",
-          "time": "18:10",
-          "location": "NFT3"
-        }
-      ],
-      "category": "re_releases"
-    },
-    {
-      "title": "Zorn’s Lemma + intro by Laura Mulvey",
-      "description": "Laura Mulvey introduces the American structural film classic and explains how it influenced her and Peter Wollen and the making of Riddles of the Sphinx.",
-      "country_year": "USA 1970",
-      "director": "Hollis Frampton",
-      "cast": null,
-      "runtime": "60 min",
-      "format": "16mm",
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-11-17",
-          "time": "18:20",
-          "location": "NFT2"
-        }
-      ],
-      "category": "re_releases"
-    },
-    {
-      "title": "Gérard Martin). With Gian Maria Volontè, Anne Wiazemsky, Cristiana Tullio-Altan.",
-      "description": "Signalling a new era for Godard and an important influence on the development of feature-length radical films internationally, Le Vent d’est takes the form of a radical drama/essay hybrid. Antonio das Mortes",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "100 min",
-      "format": "Digital",
-      "rating": "12A",
-      "screenings": [
-        {
-          "date": "2025-11-24",
-          "time": "18:15",
-          "location": "NFT2"
-        }
-      ],
-      "category": "re_releases"
-    },
-    {
-      "title": "Brazil 1969. Director Glauber Rocha. With Maurício do Valle, Odete Lara,",
-      "description": "A hired gun changes his politics when he meets the beleaguered Cangaceiro bandits, in a Cannes-award-winning western that proved influential on Laura Mulvey and Peter Wollen.",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "100 min",
-      "format": "Digital",
-      "rating": "15",
-      "screenings": [
-        {
-          "date": "2025-11-29",
-          "time": "15:10",
-          "location": "NFT1"
-        }
-      ],
-      "category": "re_releases"
-    },
-    {
-      "title": "With James Powell, Lilith Ungerer, Hanna Schygulla, Rainer Werner Fassbinder.",
-      "description": "+ The Woman’s Film Two radical political films approach their subject matters through different yet boundary-pushing aesthetic approaches. LOVE, SEX, RELIGION, DEATH THE COMPLETE FILMS OF TERENCE DAVIES",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "28 min",
-      "format": "Digital",
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-11-22",
-          "time": "20:30",
-          "location": "NFT3"
-        }
-      ],
-      "category": "re_releases"
-    },
-    {
-      "title": "Remembering Terence Davies",
-      "description": "Join us for this celebration and commemoration of the life and work of Terence Davies. BSL This event will have live captions and a BSL interpreter The Terence Davies Trilogy + intro by season curator",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "90 min",
-      "format": null,
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-10-28",
-          "time": "18:30",
-          "location": "NFT1"
         }
       ],
       "category": "re_releases"
@@ -891,6 +3428,24 @@
       "category": "re_releases"
     },
     {
+      "title": "UK 1983. Director Tony Scott. With Catherine Deneuve, David Bowie, Susan Sarandon.",
+      "description": "Tony Scott’s sexy, atmospheric directorial debut is a masterclass in mood, vampiric style and sensuality.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "97 min",
+      "format": "Digital",
+      "rating": "18",
+      "screenings": [
+        {
+          "date": "2025-10-31",
+          "time": "20:45",
+          "location": "NFT1"
+        }
+      ],
+      "category": "classics"
+    },
+    {
       "title": "UK 1988. Director Terence Davies. With Pete Postlethwaite, Freda Dowie,",
       "description": "Terence Davies’ first feature is a semi-autobiographical masterpiece of fragmented memories. + Boogie* *Screening Mon 27 Oct and Sat 29 Nov only",
       "country_year": null,
@@ -919,8 +3474,31 @@
       "category": "re_releases"
     },
     {
+      "title": "UK 1989. Director Isaac Julien. With Ben Ellison, Matthew Baidoo, Akim Mogaji.",
+      "description": "Marlon Riggs’ documentary looks at the history of racist depictions of Black people in America, while the world of the Harlem Renaissance is poetically re-constructed by Isaac Julien.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "45 min",
+      "format": "Digital 4K",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-10",
+          "time": "20:45",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-11-19",
+          "time": "18:10",
+          "location": "NFT2"
+        }
+      ],
+      "category": "classics"
+    },
+    {
       "title": "UK 1992. Director Terence Davies. With Leigh McCormack, Marjorie Yates,",
-      "description": "Terence Davies’ mosaic of childhood, imagination, time and memory is one of the greatest cinematic experiences. + Passing Time Commissioned by Film Festival Ghent",
+      "description": "Terence Davies’ mosaic of childhood, imagination, time and memory is one of the greatest cinematic experiences. + Home! Home! bfi.org.uk/relaxed Woman with a Movie Camera We celebrate women’s contribution to cinema and spotlight female stories 50th Anniversary Screening: Hester Street + intro by",
       "country_year": null,
       "director": null,
       "cast": null,
@@ -929,17 +3507,12 @@
       "rating": "PG",
       "screenings": [
         {
-          "date": "2025-10-28",
-          "time": "20:45",
-          "location": "NFT1"
-        },
-        {
-          "date": "2025-11-19",
-          "time": "18:20",
-          "location": "NFT1"
+          "date": "2025-11-24",
+          "time": "18:05",
+          "location": "NFT3"
         }
       ],
-      "category": "re_releases"
+      "category": "regular_programme"
     },
     {
       "title": "UK 1995. Director Terence Davies. With Jacob Tierney, Drake Bell, Gena Rowlands.",
@@ -959,34 +3532,6 @@
         {
           "date": "2025-11-16",
           "time": "18:20",
-          "location": "NFT3"
-        }
-      ],
-      "category": "re_releases"
-    },
-    {
-      "title": "The screenings on Sun 26 and Wed 29 Oct will be preceded by a 2008 filmed interview",
-      "description": null,
-      "country_year": null,
-      "director": null,
-      "cast": "Terence Davies from The Culture Show (BBC 2008",
-      "runtime": "15 min",
-      "format": "Digital",
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-10-26",
-          "time": "12:10",
-          "location": "NFT2"
-        },
-        {
-          "date": "2025-10-29",
-          "time": "20:45",
-          "location": "NFT1"
-        },
-        {
-          "date": "2025-11-28",
-          "time": "20:40",
           "location": "NFT3"
         }
       ],
@@ -1021,27 +3566,22 @@
       "category": "re_releases"
     },
     {
-      "title": "Mark Bonnar, Emily-Jane Boyle, Stuart Bowman. 136min. Digital. 15",
-      "description": "A farmer’s daughter comes of age through hardships of 1900s rural Scotland in Terence Davies’ lyrical adaptation of Lewis Grassic Gibbon’s novel.",
+      "title": "UK 2015. Director Jon Drever. With Brett Goldstein, Catherine Tate, Natalia Tena.",
+      "description": "and quirky superhero rom-com. TV Preview: Series 3 – Episode One Trigger Point + Q&A with Vicky McClure, Nabil Elouahabi, Jason Flemyng, executive producer Chris Brandon and director Jamie Donoghue",
       "country_year": null,
       "director": null,
       "cast": null,
-      "runtime": null,
-      "format": null,
+      "runtime": "82 min",
+      "format": "Digital",
       "rating": null,
       "screenings": [
         {
-          "date": "2025-11-02",
+          "date": "2025-10-25",
           "time": "18:00",
-          "location": "NFT3"
-        },
-        {
-          "date": "2025-11-03",
-          "time": "20:20",
           "location": "NFT1"
         }
       ],
-      "category": "re_releases"
+      "category": "in_person"
     },
     {
       "title": "UK 2016. Director Terence Davies. With Cynthia Nixon, Jennifer Ehle,",
@@ -1090,104 +3630,127 @@
       "category": "re_releases"
     },
     {
-      "title": "Terence on Television",
-      "description": "Terence Davies was full of passion and light when he talked about cinema, as this programme reveals.",
+      "title": "UK 2025. Director Kirk Jones. With Robert Aramayo, Peter Mullan, Maxine Peake, Shirley Henderson. 120min. Digital. PG",
+      "description": "The true story of John Davidson, from his tumultuous upbringing in 1980s Britain to his success as a Tourette's Syndrome campaigner. bfi.org.uk/relaxed In partnership with Stims Collective",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-15",
+          "time": "18:00",
+          "location": "NFT3"
+        }
+      ],
+      "category": "regular_programme"
+    },
+    {
+      "title": "UK Premiere of 4K Restoration: Four Nights of a Dreamer Quatre nuits d'un rêveur",
+      "description": "This long-awaited new 4K restoration of the rarest of Bresson's films captures the waking dreams of youth only three years after May '68. Restored by mk2 Films under the supervision of Mylène Bresson, at Eclair Classics (Paris) and L.E. Diapason, with the support of the Centre national du cinema et de l'image animée (CNC)",
+      "country_year": "France-Italy 1971",
+      "director": "Robert Bresson",
+      "cast": "Isabelle Weingarten, Guillaume des Forêts, Jean-Maurice Monnoyer, Lydia Biondi",
+      "runtime": "82 min",
+      "format": "Digital 4K",
+      "rating": "15",
+      "screenings": [
+        {
+          "date": "2025-12-13",
+          "time": "12:20",
+          "location": "NFT2"
+        }
+      ],
+      "category": "regular_programme"
+    },
+    {
+      "title": "UK-USA 1975. Director Jim Sharman. With Tim Curry, Susan Sarandon,",
+      "description": "What better way to see this camp horror classic than on Halloween night and upon the UK’s largest screen.",
       "country_year": null,
       "director": null,
       "cast": null,
       "runtime": "100 min",
-      "format": null,
-      "rating": null,
+      "format": "Digital",
+      "rating": "12A",
       "screenings": [
         {
-          "date": "2025-10-25",
-          "time": "15:00",
-          "location": "NFT2"
+          "date": "2025-10-31",
+          "time": "23:45",
+          "location": "BFI IMAX"
         }
       ],
-      "category": "re_releases"
+      "category": "classics"
     },
     {
-      "title": "The Unrealised Projects of Terence Davies",
-      "description": "Join us as we explore the range of films that Terence Davies didn’t get to make. Dear Bud: The Creative Mind of Terence Davies Edge Hill University, the repository of the Terence Davies Archive, curates a free exhibition of previously unseen materials from Davies’ personal archive and the archive of production company Hurricane Films. The exhibition will include materials from both Terence’s personal life and film career such as family letters and belongings, behind-the-scenes photos, props and ",
+      "title": "USSR 1957. Director Mikhail Kalatozov. With Tatyana Samojlova, Aleksey Batalov,",
+      "description": "An adoring young couple are torn apart by the advent of war, seen through",
       "country_year": null,
       "director": null,
       "cast": null,
-      "runtime": "90 min",
-      "format": null,
-      "rating": null,
+      "runtime": "96 min",
+      "format": "Digital",
+      "rating": "PG",
       "screenings": [
         {
-          "date": "2025-11-18",
-          "time": "18:20",
+          "date": "2025-10-22",
+          "time": "18:15",
           "location": "NFT3"
+        },
+        {
+          "date": "2025-11-15",
+          "time": "20:45",
+          "location": "NFT1"
         }
       ],
       "category": "re_releases"
     },
     {
-      "title": "Book Launch: Terence Davies Screenplays, Volumes I and II",
-      "description": "We explore Terence Davies’ written work with contributors from a new collection of his screenplays.",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "90 min",
-      "format": null,
-      "rating": null,
+      "title": "Villain",
+      "description": "Richard Burton oozes malevolence as a gangland boss in this taut and uncompromising thriller.",
+      "country_year": "UK 1971",
+      "director": "Michael Tuchner",
+      "cast": "Richard Burton, Ian McShane, Nigel Davenport, Donald Sinden, Fiona Lewis",
+      "runtime": "98 min",
+      "format": "35mm",
+      "rating": "18",
       "screenings": [
         {
-          "date": "2025-11-11",
-          "time": "20:00",
-          "location": "BFI REUBEN LIBRARY"
-        }
-      ],
-      "category": "re_releases"
-    },
-    {
-      "title": "Titicut Follies + intro by Sandra Hebron, programme curator*",
-      "description": "Frederick Wiseman’s unflinching debut shows life inside an institution for the High School + discussion about Frederick Wiseman’s aesthetics and approach with filmmaker Andrea Luka",
-      "country_year": "USA 1967",
-      "director": "Frederick Wiseman",
-      "cast": null,
-      "runtime": "84 min",
-      "format": "Digital 4K",
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-10-29",
+          "date": "2025-12-23",
           "time": "18:10",
           "location": "NFT3"
         },
         {
-          "date": "2025-11-09",
-          "time": "12:30",
+          "date": "2025-12-28",
+          "time": "12:00",
           "location": "NFT3"
         }
       ],
-      "category": "frederick_wiseman"
+      "category": "richard_burton"
     },
     {
-      "title": "Zimmerman and curator Matthew Barrington*",
-      "description": "A riveting portrait of life inside a large city high school, where social and moral values are handed down.",
-      "country_year": "USA 1968",
-      "director": "Frederick Wiseman",
-      "cast": null,
-      "runtime": "75 min",
-      "format": "Digital 4K",
-      "rating": null,
+      "title": "Way Down East + intro by Pamela Hutchinson, film critic and historian",
+      "description": "A transcendent Lillian Gish brings a wide-eyed pathos to a country girl who endures an avalanche of misfortune, in this standout collaboration with D.W. Griffith.",
+      "country_year": "USA 1920",
+      "director": "D",
+      "cast": "Lillian Gish, Richard Barthelmess",
+      "runtime": "149 min",
+      "format": "35mm",
+      "rating": "U",
       "screenings": [
         {
-          "date": "2025-11-01",
-          "time": "12:30",
-          "location": "NFT3"
+          "date": "2025-12-07",
+          "time": "12:15",
+          "location": "NFT2"
         },
         {
-          "date": "2025-11-13",
-          "time": "18:30",
-          "location": "NFT3"
+          "date": "2025-12-16",
+          "time": "17:50",
+          "location": "NFT2"
         }
       ],
-      "category": "frederick_wiseman"
+      "category": "melodrama"
     },
     {
       "title": "Welfare",
@@ -1213,124 +3776,22 @@
       "category": "frederick_wiseman"
     },
     {
-      "title": "Multi-Handicapped",
-      "description": "A compassionate portrait of students at the Alabama Institute for the Deaf and Blind.",
-      "country_year": "USA 1986",
-      "director": "Frederick Wiseman",
-      "cast": null,
-      "runtime": "126 min",
-      "format": "Digital 4K",
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-11-02",
-          "time": "15:10",
-          "location": "NFT2"
-        },
-        {
-          "date": "2025-11-15",
-          "time": "17:45",
-          "location": "NFT2"
-        }
-      ],
-      "category": "frederick_wiseman"
-    },
-    {
-      "title": "Public Housing",
-      "description": "An absorbing study of daily life in one of Chicago’s poorest housing projects.",
-      "country_year": "USA 1997",
-      "director": "Frederick Wiseman",
-      "cast": null,
-      "runtime": "195 min",
-      "format": "Digital 4K",
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-10-26",
-          "time": "17:15",
-          "location": "NFT2"
-        },
-        {
-          "date": "2025-11-29",
-          "time": "14:20",
-          "location": "NFT3"
-        }
-      ],
-      "category": "frederick_wiseman"
-    },
-    {
-      "title": "The seminal work from the father of African cinema focuses on a domestic",
-      "description": "worker who emigrates from Senegal to France in hope of a better life.",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": null,
-      "format": null,
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-10-20",
-          "time": "20:45",
-          "location": "NFT2"
-        },
-        {
-          "date": "2025-10-30",
-          "time": "18:30",
-          "location": "NFT2"
-        },
-        {
-          "date": "2025-11-28",
-          "time": "12:30",
-          "location": "NFT4"
-        }
-      ],
-      "category": "classics"
-    },
-    {
-      "title": "Aminata Fall. 88min. Digital. EST",
-      "description": "A restless young couple dream of escaping Senegal for Paris, in one of the key works of African cinema.",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": null,
-      "format": null,
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-10-21",
-          "time": "18:30",
-          "location": "NFT1"
-        },
-        {
-          "date": "2025-11-11",
-          "time": "20:50",
-          "location": "NFT2"
-        }
-      ],
-      "category": "classics"
-    },
-    {
-      "title": "Cuba 1974. Director Sara Gómez. With Othon Blanco, Barbara Hernandez,",
-      "description": "A beautiful realist drama that looks at life for women and men in the aftermath of the Cuban Revolution.",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "79 min",
+      "title": "What Scoundrels Men Are! Gli uomini, che mascalzoni! + intro by Laura Mulvey",
+      "description": "Lia Franca and Vittorio De Sica star in a 'city girl' film that employs real locations around Milan.",
+      "country_year": "Italy 1932",
+      "director": "Mario Camerini",
+      "cast": "Lia Franca, Vittorio De Sica, Cesare Zoppetti",
+      "runtime": "67 min",
       "format": "Digital",
       "rating": null,
       "screenings": [
         {
-          "date": "2025-10-20",
-          "time": "18:20",
-          "location": "NFT3"
-        },
-        {
-          "date": "2025-11-02",
+          "date": "2025-12-10",
           "time": "18:20",
           "location": "NFT2"
         },
         {
-          "date": "2025-11-04",
+          "date": "2025-12-23",
           "time": "20:30",
           "location": "NFT2"
         }
@@ -1338,670 +3799,150 @@
       "category": "classics"
     },
     {
-      "title": "This classic of Black British cinema captures the struggle of young British",
-      "description": "West Indians as they attempt to make their way through life. Restored by the BFI National Archive and The Film Foundation. Funding provided by the Hobson/Lucas Family Foundation",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": null,
-      "format": null,
-      "rating": null,
+      "title": "Where Eagles Dare",
+      "description": "Richard Burton and Clint Eastwood are alternately odd couple and dynamic duo in this hugely enjoyable WWII action-adventure. Print courtesy of the Academy Film Archive",
+      "country_year": "USA-UK 1968",
+      "director": "Brian G",
+      "cast": "Richard Burton, Clint Eastwood, Mary Ure, Patrick Wymark",
+      "runtime": "155 min",
+      "format": "35mm",
+      "rating": "PG",
       "screenings": [
         {
-          "date": "2025-10-25",
-          "time": "20:30",
-          "location": "NFT2"
-        },
-        {
-          "date": "2025-11-07",
-          "time": "18:10",
-          "location": "NFT2"
-        },
-        {
-          "date": "2025-11-14",
-          "time": "14:40",
-          "location": "NFT4"
-        },
-        {
-          "date": "2025-11-23",
-          "time": "18:15",
-          "location": "NFT4"
-        }
-      ],
-      "category": "classics"
-    },
-    {
-      "title": "Sharon Clark. 30min. Digital",
-      "description": "Two films explore the pressures foisted upon Black women in 1980s British society.",
-      "country_year": "Two films explore the pressures foisted upon Black women in 1980",
-      "director": null,
-      "cast": null,
-      "runtime": null,
-      "format": null,
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-10-24",
-          "time": "18:20",
+          "date": "2025-12-20",
+          "time": "17:20",
           "location": "NFT3"
         },
         {
-          "date": "2025-11-05",
-          "time": "18:10",
-          "location": "NFT2"
+          "date": "2025-12-28",
+          "time": "14:45",
+          "location": "NFT1"
         }
       ],
-      "category": "classics"
+      "category": "richard_burton"
     },
     {
-      "title": "UK 1977. Director Menelik Shabazz. 29min. 16mm",
-      "description": "A dizzying and passionate portrayal of intersectional politics in 1980s Black Britain plays alongside a film in which young Black British people speak out against negative media narratives.",
-      "country_year": "A dizzying and passionate portrayal of intersectional politics in 1980",
-      "director": null,
-      "cast": null,
-      "runtime": null,
-      "format": null,
-      "rating": null,
+      "title": "Who's Afraid of Virginia Woolf?",
+      "description": "Richard Burton and Elizabeth Taylor's real-life dramas seep on to the screen in Mike Nichols' award-winning classic about marital strife.",
+      "country_year": "USA 1966",
+      "director": "Mike Nichols",
+      "cast": "Richard Burton, Elizabeth Taylor, George Segal, Sandy Dennis",
+      "runtime": "132 min",
+      "format": "Digital",
+      "rating": "12A",
       "screenings": [
         {
-          "date": "2025-10-29",
-          "time": "18:00",
-          "location": "NFT2"
-        },
-        {
-          "date": "2025-11-25",
-          "time": "20:45",
-          "location": "NFT2"
-        }
-      ],
-      "category": "classics"
-    },
-    {
-      "title": "UK 1989. Director Isaac Julien. With Ben Ellison, Matthew Baidoo, Akim Mogaji.",
-      "description": "Marlon Riggs’ documentary looks at the history of racist depictions of Black people in America, while the world of the Harlem Renaissance is poetically re-constructed by Isaac Julien.",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "45 min",
-      "format": "Digital 4K",
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-11-10",
-          "time": "20:45",
-          "location": "NFT3"
-        },
-        {
-          "date": "2025-11-19",
-          "time": "18:10",
-          "location": "NFT2"
-        }
-      ],
-      "category": "classics"
-    },
-    {
-      "title": "Steve McQueen’s biopic reconstructs the courageous battle by Notting Hill’s",
-      "description": "West Indian community against police intimidation.",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": null,
-      "format": null,
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-10-27",
-          "time": "20:30",
+          "date": "2025-12-13",
+          "time": "17:50",
           "location": "NFT1"
         },
+        {
+          "date": "2025-12-29",
+          "time": "20:30",
+          "location": "NFT1"
+        }
+      ],
+      "category": "richard_burton"
+    },
+    {
+      "title": "Will Arnett in Conversation",
+      "description": "Will Arnett discusses his career to date and talks about his collaboration with director Bradley Cooper on his latest film, Is This Thing On?",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "80 min",
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-04",
+          "time": "18:30",
+          "location": "NFT1"
+        }
+      ],
+      "category": "in_person"
+    },
+    {
+      "title": "With James Powell, Lilith Ungerer, Hanna Schygulla, Rainer Werner Fassbinder.",
+      "description": "+ The Woman’s Film Two radical political films approach their subject matters through different yet boundary-pushing aesthetic approaches. LOVE, SEX, RELIGION, DEATH THE COMPLETE FILMS OF TERENCE DAVIES",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "28 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
         {
           "date": "2025-11-22",
-          "time": "17:30",
-          "location": "NFT2"
-        }
-      ],
-      "category": "classics"
-    },
-    {
-      "title": "France-Senegal-Ivory Coast- Belgium 2019. Director Mati Diop.",
-      "description": "A hauntingly beautiful portrayal of the real consequences of the migrant crisis, told through the prism of a ghost story. Saint Omer + intro by Xavier Alexandre Pillai,",
-      "country_year": null,
-      "director": null,
-      "cast": "Mama Sane, Amadou Mbow, Ibrahima Traore",
-      "runtime": "106 min",
-      "format": "Digital",
-      "rating": "12A",
-      "screenings": [
-        {
-          "date": "2025-10-31",
-          "time": "20:40",
-          "location": "NFT2"
-        },
-        {
-          "date": "2025-11-09",
-          "time": "18:30",
-          "location": "NFT4"
-        },
-        {
-          "date": "2025-11-18",
-          "time": "14:40",
-          "location": "NFT4"
-        },
-        {
-          "date": "2025-11-29",
-          "time": "12:00",
+          "time": "20:30",
           "location": "NFT3"
         }
       ],
-      "category": "classics"
+      "category": "re_releases"
     },
     {
-      "title": "France 2022. Director Alice Diop. With Kayije Kagame, Guslagie Malanda,",
-      "description": "This nuanced portrait of the struggles of integration play out in this utterly original approach to the courtroom drama.",
-      "country_year": null,
-      "director": null,
-      "cast": null,
+      "title": "Xala",
+      "description": "Ousmane Sembène's adaptation of his own novel is a striking critique of economic, social and moral corruption.",
+      "country_year": "Senegal 1975",
+      "director": "Ousmane Sembène",
+      "cast": "Thierno Leye, Myriam Niang, Seune Samb, Fatim Diagne",
       "runtime": "123 min",
-      "format": "Digital",
-      "rating": "12A",
-      "screenings": [
-        {
-          "date": "2025-11-12",
-          "time": "17:45",
-          "location": "NFT1"
-        },
-        {
-          "date": "2025-11-17",
-          "time": "14:30",
-          "location": "NFT4"
-        },
-        {
-          "date": "2025-11-27",
-          "time": "20:35",
-          "location": "NFT2"
-        }
-      ],
-      "category": "classics"
-    },
-    {
-      "title": "Haiti-USA 1988. Director Raoul Peck. With Patrick Rameau, Aïlo Auguste-Judith,",
-      "description": "Raoul Peck’s powerful drama journeys to a small nook in New York City, where a tale of vengeance that began in Haiti plays out.",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "97 min",
-      "format": "Digital",
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-11-13",
-          "time": "20:55",
-          "location": "NFT2"
-        },
-        {
-          "date": "2025-11-26",
-          "time": "18:10",
-          "location": "NFT2"
-        }
-      ],
-      "category": "classics"
-    },
-    {
-      "title": "France 1967. Director Med Hondo. With Robert Liensol, Théo Legitimus,",
-      "description": "Med Hondo’s early film challenges the hostility of French society to migrants. SPECIAL FILMS & EVENTS Dates for your cultural diary, from DVD/Blu-ray launches to weekenders, film summits and festivals London Korean Film Festival 2025 5-18 Nov",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "104 min",
-      "format": "Digital",
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-10-26",
-          "time": "14:30",
-          "location": "NFT2"
-        },
-        {
-          "date": "2025-11-15",
-          "time": "20:35",
-          "location": "NFT3"
-        },
-        {
-          "date": "2025-11-24",
-          "time": "20:30",
-          "location": "NFT2"
-        }
-      ],
-      "category": "classics"
-    },
-    {
-      "title": "South Korea 2024. Director Kim Seok. With Heo Sung-tae, Jo Bok-rae, Seo Min-ju,",
-      "description": "Buddy comedy chaos lies at the heart of this infectious tale of the relationship between a bumbling cop and his informant.",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "103 min",
-      "format": "Digital",
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-11-09",
-          "time": "15:00",
-          "location": "NFT2"
-        }
-      ],
-      "category": "classics"
-    },
-    {
-      "title": "South Korea 2024. Director Hwang Seul-gi. With Jang Sun, Byun Chung-hee,",
-      "description": "A daughter exploits her mother’s dementia for financial survival in Hwang Seul-gi’s moving drama. 3670 + intro",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "86 min",
-      "format": "Digital",
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-11-11",
-          "time": "18:20",
-          "location": "NFT3"
-        }
-      ],
-      "category": "classics"
-    },
-    {
-      "title": "South Korea 2025. Director Park Joon-ho. With Park Joon-ho, Cho You-hyun,",
-      "description": "A North Korean defector seeks to define his identity and sexuality in Park Joon-ho’s impressive debut. 20:30 NFT1",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "124 min",
-      "format": "Digital",
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-11-12",
-          "time": "20:30",
-          "location": "NFT1"
-        }
-      ],
-      "category": "classics"
-    },
-    {
-      "title": "South Korea 2024. Director Shin Jae-min. With Kim Hyeon-soo, Kim Yong-ji,",
-      "description": "In this taut and unsettling thriller, a wannabe cartoonist unravels in a dark web of ambition.",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "113 min",
-      "format": "Digital",
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-11-13",
-          "time": "18:10",
-          "location": "NFT2"
-        }
-      ],
-      "category": "classics"
-    },
-    {
-      "title": "South Korea 1971. Director Lee Man-hee. With Jang Dong-hwi, Namkoong Won,",
-      "description": "Three adventurers meet frontier chaos in Lee Man-hee’s Korean western classic.",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "98 min",
-      "format": "Digital",
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-11-16",
-          "time": "15:15",
-          "location": "NFT3"
-        }
-      ],
-      "category": "classics"
-    },
-    {
-      "title": "South Korea 2024. Director Woo Min-ho. With Hyun Bin, Park Jeong-min,",
-      "description": "Legendary early 20th-century resistance fighter Ahn Jung-geun is the subject of Woo Min-ho’s epic, featuring a charismatic star turn by Hyun Bin. DOC’N ROLL FILM FESTIVAL 23 Oct-9 Nov Celebrating Music, Art and Subcultures at Doc’n Roll Film Festival London Premiere: Move Ya Body: The Birth Of House + Q&A with director Elegance Bratton Discover the history of the Chicago sound that led to a global house music revolution. For tickets visit to bfi.org.uk/imax World Premiere: Rockers Don’t Stop: Th",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "113 min",
-      "format": "Digital",
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-11-18",
-          "time": "18:30",
-          "location": "NFT1"
-        },
-        {
-          "date": "2025-11-06",
-          "time": "18:15",
-          "location": "BFI IMAX"
-        }
-      ],
-      "category": "classics"
-    },
-    {
-      "title": "Nigeria 2025. Director Akinola Davies Jr. With Sope Dirisu, Godwin Egbo, Chibuke",
-      "description": "In Akinola Davies Jr’s intimate drama, a father attempts to care for his two boys and they come to understand who he truly is. Closing Night: Katanga: The Dance of the Scorpions + intro and Q&A with director Dani Kouyate and cast members",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "94 min",
-      "format": "Digital",
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-11-14",
-          "time": "18:00",
-          "location": "NFT1"
-        }
-      ],
-      "category": "classics"
-    },
-    {
-      "title": "Burkina Faso 2025. Director Dani Kouyate. With Prosper Compaore, Hafissata",
-      "description": "Macbeth is retold through the prism of a man destined to seize the crown of a nation in Dani Kouyate’s powerful film. It’s that time again.. Celebrate Halloween in schlock and style with two cult classics of horror cinema",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "113 min",
-      "format": "Digital",
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-11-23",
-          "time": "18:00",
-          "location": "NFT1"
-        }
-      ],
-      "category": "classics"
-    },
-    {
-      "title": "UK 1983. Director Tony Scott. With Catherine Deneuve, David Bowie, Susan Sarandon.",
-      "description": "Tony Scott’s sexy, atmospheric directorial debut is a masterclass in mood, vampiric style and sensuality.",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "97 min",
-      "format": "Digital",
-      "rating": "18",
-      "screenings": [
-        {
-          "date": "2025-10-31",
-          "time": "20:45",
-          "location": "NFT1"
-        }
-      ],
-      "category": "classics"
-    },
-    {
-      "title": "Frankenstein",
-      "description": "Mia Goth, Christoph Waltz. RT tbc. IMAX with Laser. Cert tbc Guillermo del Toro’s take on Mary Shelley’s classic novel is a grandiose opera of a film, with Jacob Elordi as a towering monster.",
-      "country_year": "Mexico-USA 2025",
-      "director": "Guillermo del Toro",
-      "cast": null,
-      "runtime": null,
-      "format": null,
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-10-31",
-          "time": "20:15",
-          "location": "BFI IMAX"
-        }
-      ],
-      "category": "classics"
-    },
-    {
-      "title": "UK-USA 1975. Director Jim Sharman. With Tim Curry, Susan Sarandon,",
-      "description": "What better way to see this camp horror classic than on Halloween night and upon the UK’s largest screen.",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "100 min",
-      "format": "Digital",
-      "rating": "12A",
-      "screenings": [
-        {
-          "date": "2025-10-31",
-          "time": "23:45",
-          "location": "BFI IMAX"
-        }
-      ],
-      "category": "classics"
-    },
-    {
-      "title": "UK 1945. Director David Lean. With Celia Johnson, Trevor Howard,",
-      "description": "A chance meeting between two married people sparks an impossible chemistry and tragic emotional entanglement, in a film that is rich in pathos and masterfully crafted. Restoration supported by The David Lean Foundation Event in partnership with the David Lean Foundation and Noël Coward Foundation bfi.org.uk/relaxed",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "87 min",
-      "format": "Digital",
-      "rating": "PG",
-      "screenings": [
-        {
-          "date": "2025-10-27",
-          "time": "18:15",
-          "location": "NFT3"
-        }
-      ],
-      "category": "regular_programme"
-    },
-    {
-      "title": "UK 1992. Director Terence Davies. With Leigh McCormack, Marjorie Yates,",
-      "description": "Terence Davies’ mosaic of childhood, imagination, time and memory is one of the greatest cinematic experiences. + Home! Home! bfi.org.uk/relaxed Woman with a Movie Camera We celebrate women’s contribution to cinema and spotlight female stories 50th Anniversary Screening: Hester Street + intro by",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "85 min",
-      "format": "35mm",
-      "rating": "PG",
-      "screenings": [
-        {
-          "date": "2025-11-24",
-          "time": "18:05",
-          "location": "NFT3"
-        }
-      ],
-      "category": "regular_programme"
-    },
-    {
-      "title": "UK 1933 Director Friedrich Hollaender. With Lilian Harvey, Charles Boyer,",
-      "description": "A quirky musical farce of mistaken identity with Charles Boyer as a dashing Duke. Seniors Free matinees and talks for the over-60s",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "84 min",
-      "format": "35mm",
-      "rating": "U",
-      "screenings": [
-        {
-          "date": "2025-11-25",
-          "time": "18:15",
-          "location": "NFT2"
-        }
-      ],
-      "category": "regular_programme"
-    },
-    {
-      "title": "Hungary 1975. Director Márta Mészáros. With Katalin Berek, Gyöngyvér Vigh,",
-      "description": "Mark 50 years since the release of this trailblazing auteur’s intimate portrayal of female autonomy. Restored Masterpieces and recent discoveries from around the world, newly restored",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "87 min",
       "format": "Digital 4K",
-      "rating": "15",
+      "rating": "12A",
       "screenings": [
         {
-          "date": "2025-11-05",
-          "time": "14:00",
-          "location": "NFT1"
+          "date": "2025-12-11",
+          "time": "18:15",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-12-27",
+          "time": "11:45",
+          "location": "NFT2"
         }
       ],
-      "category": "regular_programme"
+      "category": "classics"
     },
     {
-      "title": "Hungary-West Germany-Austria 1981. Director István Szabó.",
-      "description": "Digital 4K (restoration). EST. 15 This epic study of an artist compromising with power for art’s sake was the first Hungarian entry to win the Academy Award for Best Foreign Film. Restored in 4K by the National Film Institute Hungary – Film Archive. Silent Cinema Bringing you the best silent film from the BFI and around the world, with live accompaniment",
-      "country_year": null,
-      "director": null,
-      "cast": "Klaus Maria Brandauer, Krystyna Janda, Ildikó Bánsági",
-      "runtime": "144 min",
-      "format": null,
+      "title": "Zimmerman and curator Matthew Barrington*",
+      "description": "A riveting portrait of life inside a large city high school, where social and moral values are handed down.",
+      "country_year": "USA 1968",
+      "director": "Frederick Wiseman",
+      "cast": null,
+      "runtime": "75 min",
+      "format": "Digital 4K",
       "rating": null,
       "screenings": [
         {
-          "date": "2025-11-26",
-          "time": "17:50",
+          "date": "2025-11-01",
+          "time": "12:30",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-11-13",
+          "time": "18:30",
           "location": "NFT3"
         }
       ],
-      "category": "regular_programme"
+      "category": "frederick_wiseman"
     },
     {
-      "title": "Lois Moran, Jean Hersholt. 110min. Digital 4K (restoration).",
-      "description": "An early silent version of Olive Higgins Prouty’s novel, featuring a standout performance by Vaudeville performer Belle Bennett. Families Ideal screenings for ages 4-12 Funday Preview: The Wonderfully Weird World of Gumball +",
-      "country_year": null,
-      "director": null,
+      "title": "Zorn’s Lemma + intro by Laura Mulvey",
+      "description": "Laura Mulvey introduces the American structural film classic and explains how it influenced her and Peter Wollen and the making of Riddles of the Sphinx.",
+      "country_year": "USA 1970",
+      "director": "Hollis Frampton",
       "cast": null,
-      "runtime": null,
-      "format": null,
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-11-02",
-          "time": "15:00",
-          "location": "NFT1"
-        }
-      ],
-      "category": "regular_programme"
-    },
-    {
-      "title": "A Halloween Special",
-      "description": "Come join the BFI Reuben Library team as they gather names for their records. This is a free event. Book in advance to avoid disappointment New Writings: Don’t Look Now and Then – Justin John Doherty in conversation with Jason Wood An in-depth conversation looking at the enduring appeal and brilliance of Nicolas Roeg’s haunting masterpiece. New Writings: Hester Street (BFI Film Classics) with",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "180 min",
-      "format": null,
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-10-27",
-          "time": "17:00",
-          "location": "BFI REUBEN LIBRARY"
-        },
-        {
-          "date": "2025-10-29",
-          "time": "20:00",
-          "location": "BFI REUBEN LIBRARY"
-        }
-      ],
-      "category": "regular_programme"
-    },
-    {
-      "title": "Dr Julia Wagner",
-      "description": "The author of a new study of the landmark film discusses its importance to cinema. NFT2 £17, concs £14 (Members pay £2.50 less) New Writings: Uncanny Landscapes in 21st Century",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "90 min",
-      "format": null,
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-11-03",
-          "time": "18:30",
-          "location": "BFI REUBEN LIBRARY"
-        }
-      ],
-      "category": "regular_programme"
-    },
-    {
-      "title": "British Cinema: The Pestilence in the Ditch",
-      "description": "A timely discussion about a particular strain of filmmaking that explores unique avenues into the representation of the British landscape. Library Talk: Disability Equality in the Film Industry –",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "90 min",
-      "format": null,
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-11-10",
-          "time": "18:30",
-          "location": "BFI REUBEN LIBRARY"
-        }
-      ],
-      "category": "regular_programme"
-    },
-    {
-      "title": "Evolution Film: A Case Study",
-      "description": "This event is part of an ongoing appraisal of the inroads made for disability within the film industry.",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "90 min",
-      "format": null,
+      "runtime": "60 min",
+      "format": "16mm",
       "rating": null,
       "screenings": [
         {
           "date": "2025-11-17",
-          "time": "18:30",
-          "location": "BFI REUBEN LIBRARY"
+          "time": "18:20",
+          "location": "NFT2"
         }
       ],
-      "category": "regular_programme"
-    },
-    {
-      "title": "New Writings: Call Me by Your Name: Perspectives on the Film",
-      "description": "This talk will focus on the myriad approaches taken towards Luca Guadagnino’s modern-day classic. BFI IMAX Britain’s biggest screen",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "90 min",
-      "format": null,
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-11-24",
-          "time": "18:30",
-          "location": "BFI REUBEN LIBRARY"
-        }
-      ],
-      "category": "regular_programme"
-    },
-    {
-      "title": "Depeche Mode: M",
-      "description": "Christian Eigner, Peter Gordeno. RT TBC. IMAX with Laser. Cert TBC A chance to see one of the UK’s biggest bands writ large upon the UK’s largest screen. BFI MEMBER TICKETS AT BFI IMAX BFI Members save £2.50 per ticket, on a maximum of four tickets, booked online or in person on presentation of a valid Membership card. of the day",
-      "country_year": "USA-Mexico 2025",
-      "director": "Fernando Frias",
-      "cast": null,
-      "runtime": null,
-      "format": null,
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-10-28",
-          "time": "20:45",
-          "location": "BFI IMAX"
-        },
-        {
-          "date": "2025-10-30",
-          "time": "21:00",
-          "location": "BFI IMAX"
-        }
-      ],
-      "category": "regular_programme"
+      "category": "re_releases"
     }
   ]
 }

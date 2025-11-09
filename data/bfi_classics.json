@@ -1,37 +1,9 @@
 {
-  "generated": "2025-11-08T21:18:34.850010",
-  "source": "BFI Southbank Programme Guide December 2025",
-  "total_films": 23,
-  "total_screenings": 44,
+  "generated": "2025-11-09T08:47:55.060Z",
+  "source": "BFI Southbank Programme Guide October-December 2025 (Merged)",
+  "total_films": 38,
+  "total_screenings": 75,
   "films": [
-    {
-      "title": "The seminal work from the father of African cinema focuses on a domestic",
-      "description": "worker who emigrates from Senegal to France in hope of a better life.",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": null,
-      "format": null,
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-10-20",
-          "time": "20:45",
-          "location": "NFT2"
-        },
-        {
-          "date": "2025-10-30",
-          "time": "18:30",
-          "location": "NFT2"
-        },
-        {
-          "date": "2025-11-28",
-          "time": "12:30",
-          "location": "NFT4"
-        }
-      ],
-      "category": "classics"
-    },
     {
       "title": "Aminata Fall. 88min. Digital. EST",
       "description": "A restless young couple dream of escaping Senegal for Paris, in one of the key works of African cinema.",
@@ -51,6 +23,47 @@
           "date": "2025-11-11",
           "time": "20:50",
           "location": "NFT2"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "Burkina Faso 2025. Director Dani Kouyate. With Prosper Compaore, Hafissata",
+      "description": "Macbeth is retold through the prism of a man destined to seize the crown of a nation in Dani Kouyate’s powerful film. It’s that time again.. Celebrate Halloween in schlock and style with two cult classics of horror cinema",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "113 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-23",
+          "time": "18:00",
+          "location": "NFT1"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "Chantal Akerman's homage to the musical, in all its various iterations, successfully combines her rigorous formalism with the genre's playfulness.",
+      "description": "Restored in 4K by Royal Film Archive of Belgium (CINEMATEK), Fondation Chantal Akerman and L'Immagine Ritrovata, Bologna",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-08",
+          "time": "20:50",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-12-17",
+          "time": "18:20",
+          "location": "NFT1"
         }
       ],
       "category": "classics"
@@ -84,126 +97,103 @@
       "category": "classics"
     },
     {
-      "title": "This classic of Black British cinema captures the struggle of young British",
-      "description": "West Indians as they attempt to make their way through life. Restored by the BFI National Archive and The Film Foundation. Funding provided by the Hobson/Lucas Family Foundation",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": null,
-      "format": null,
-      "rating": null,
+      "title": "Daughters of the Dust",
+      "description": "Julie Dash's film is a visually striking and lyrical portrait of life for generations of Gullah women at the time of the Great Migration.",
+      "country_year": "USA 1991",
+      "director": "Julie Dash",
+      "cast": "Adisa Anderson, Barbara O",
+      "runtime": "112 min",
+      "format": "Digital",
+      "rating": "12A",
       "screenings": [
         {
-          "date": "2025-10-25",
-          "time": "20:30",
-          "location": "NFT2"
+          "date": "2025-12-09",
+          "time": "20:45",
+          "location": "NFT3"
         },
         {
-          "date": "2025-11-07",
-          "time": "18:10",
-          "location": "NFT2"
-        },
-        {
-          "date": "2025-11-14",
-          "time": "14:40",
-          "location": "NFT4"
-        },
-        {
-          "date": "2025-11-23",
-          "time": "18:15",
+          "date": "2025-12-20",
+          "time": "14:30",
           "location": "NFT4"
         }
       ],
       "category": "classics"
     },
     {
-      "title": "Sharon Clark. 30min. Digital",
-      "description": "Two films explore the pressures foisted upon Black women in 1980s British society.",
-      "country_year": "Two films explore the pressures foisted upon Black women in 1980",
-      "director": null,
-      "cast": null,
-      "runtime": null,
-      "format": null,
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-10-24",
-          "time": "18:20",
-          "location": "NFT3"
-        },
-        {
-          "date": "2025-11-05",
-          "time": "18:10",
-          "location": "NFT2"
-        }
-      ],
-      "category": "classics"
-    },
-    {
-      "title": "UK 1977. Director Menelik Shabazz. 29min. 16mm",
-      "description": "A dizzying and passionate portrayal of intersectional politics in 1980s Black Britain plays alongside a film in which young Black British people speak out against negative media narratives.",
-      "country_year": "A dizzying and passionate portrayal of intersectional politics in 1980",
-      "director": null,
-      "cast": null,
-      "runtime": null,
-      "format": null,
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-10-29",
-          "time": "18:00",
-          "location": "NFT2"
-        },
-        {
-          "date": "2025-11-25",
-          "time": "20:45",
-          "location": "NFT2"
-        }
-      ],
-      "category": "classics"
-    },
-    {
-      "title": "UK 1989. Director Isaac Julien. With Ben Ellison, Matthew Baidoo, Akim Mogaji.",
-      "description": "Marlon Riggs’ documentary looks at the history of racist depictions of Black people in America, while the world of the Harlem Renaissance is poetically re-constructed by Isaac Julien.",
+      "title": "France 1967. Director Med Hondo. With Robert Liensol, Théo Legitimus,",
+      "description": "Med Hondo’s early film challenges the hostility of French society to migrants. SPECIAL FILMS & EVENTS Dates for your cultural diary, from DVD/Blu-ray launches to weekenders, film summits and festivals London Korean Film Festival 2025 5-18 Nov",
       "country_year": null,
       "director": null,
       "cast": null,
-      "runtime": "45 min",
-      "format": "Digital 4K",
+      "runtime": "104 min",
+      "format": "Digital",
       "rating": null,
       "screenings": [
         {
-          "date": "2025-11-10",
-          "time": "20:45",
+          "date": "2025-10-26",
+          "time": "14:30",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-11-15",
+          "time": "20:35",
           "location": "NFT3"
         },
         {
-          "date": "2025-11-19",
-          "time": "18:10",
-          "location": "NFT2"
-        }
-      ],
-      "category": "classics"
-    },
-    {
-      "title": "Steve McQueen’s biopic reconstructs the courageous battle by Notting Hill’s",
-      "description": "West Indian community against police intimidation.",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": null,
-      "format": null,
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-10-27",
+          "date": "2025-11-24",
           "time": "20:30",
+          "location": "NFT2"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "France 2022. Director Alice Diop. With Kayije Kagame, Guslagie Malanda,",
+      "description": "This nuanced portrait of the struggles of integration play out in this utterly original approach to the courtroom drama.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "123 min",
+      "format": "Digital",
+      "rating": "12A",
+      "screenings": [
+        {
+          "date": "2025-11-12",
+          "time": "17:45",
           "location": "NFT1"
         },
         {
-          "date": "2025-11-22",
-          "time": "17:30",
+          "date": "2025-11-17",
+          "time": "14:30",
+          "location": "NFT4"
+        },
+        {
+          "date": "2025-11-27",
+          "time": "20:35",
           "location": "NFT2"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "France-Italy 1965. Director Jean-Luc Godard. With Jean-Paul Belmondo, Anna Karina, Roger Dutoit, Samuel Fuller. 110min. Digital. EST. 15",
+      "description": "The spirit of rebellion is in the air in Jean-Luc Godard's prescient portrait of the turbulence of life in the mid-1960s.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-18",
+          "time": "20:50",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-12-29",
+          "time": "18:00",
+          "location": "NFT1"
         }
       ],
       "category": "classics"
@@ -242,29 +232,19 @@
       "category": "classics"
     },
     {
-      "title": "France 2022. Director Alice Diop. With Kayije Kagame, Guslagie Malanda,",
-      "description": "This nuanced portrait of the struggles of integration play out in this utterly original approach to the courtroom drama.",
-      "country_year": null,
-      "director": null,
+      "title": "Frankenstein",
+      "description": "Mia Goth, Christoph Waltz. RT tbc. IMAX with Laser. Cert tbc Guillermo del Toro’s take on Mary Shelley’s classic novel is a grandiose opera of a film, with Jacob Elordi as a towering monster.",
+      "country_year": "Mexico-USA 2025",
+      "director": "Guillermo del Toro",
       "cast": null,
-      "runtime": "123 min",
-      "format": "Digital",
-      "rating": "12A",
+      "runtime": null,
+      "format": null,
+      "rating": null,
       "screenings": [
         {
-          "date": "2025-11-12",
-          "time": "17:45",
-          "location": "NFT1"
-        },
-        {
-          "date": "2025-11-17",
-          "time": "14:30",
-          "location": "NFT4"
-        },
-        {
-          "date": "2025-11-27",
-          "time": "20:35",
-          "location": "NFT2"
+          "date": "2025-10-31",
+          "time": "20:15",
+          "location": "BFI IMAX"
         }
       ],
       "category": "classics"
@@ -293,27 +273,142 @@
       "category": "classics"
     },
     {
-      "title": "France 1967. Director Med Hondo. With Robert Liensol, Théo Legitimus,",
-      "description": "Med Hondo’s early film challenges the hostility of French society to migrants. SPECIAL FILMS & EVENTS Dates for your cultural diary, from DVD/Blu-ray launches to weekenders, film summits and festivals London Korean Film Festival 2025 5-18 Nov",
+      "title": "Imitation of Life",
+      "description": "Race, class and gender are explored through the prism of melodrama in one of Douglas Sirk's finest films.",
+      "country_year": "USA 1959",
+      "director": "Douglas Sirk",
+      "cast": "Lana Turner, Juanita Moore, Susan Kohner, John Gavin, Sandra Dee",
+      "runtime": "119 min",
+      "format": "Digital 4K",
+      "rating": "12A",
+      "screenings": [
+        {
+          "date": "2025-12-01",
+          "time": "20:30",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-12-13",
+          "time": "15:00",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-12-30",
+          "time": "20:40",
+          "location": "NFT1"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "Iran 2001. Director Rakhshan Banietemad. With Golab Adineh, Mohammad-Reza Forutan, Baran Kosari. 95min. Digital. EST",
+      "description": "A powerful evocation of family life in modern-day Iran.",
       "country_year": null,
       "director": null,
       "cast": null,
-      "runtime": "104 min",
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-10",
+          "time": "20:30",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-12-23",
+          "time": "18:15",
+          "location": "NFT2"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "It",
+      "description": "Clara Bow shines in this jubilant city-girl comedy drama.",
+      "country_year": "USA 1927",
+      "director": "Clarence Badger",
+      "cast": "Clara Bow, Antonio Moreno, William Austin",
+      "runtime": "72 min",
       "format": "Digital",
       "rating": null,
       "screenings": [
         {
-          "date": "2025-10-26",
-          "time": "14:30",
+          "date": "2025-12-16",
+          "time": "21:00",
           "location": "NFT2"
         },
         {
-          "date": "2025-11-15",
-          "time": "20:35",
+          "date": "2025-12-28",
+          "time": "12:10",
+          "location": "NFT2"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "Lives of the Performers",
+      "description": "A fascinating deconstruction of performance, in life and on stage, by Yvonne Rainer. Newly restored in 4K by The Museum of Modern Art and the Celeste Bartos Fund for Film Preservation, courtesy of Zeitgeist Films in association with Kino Lorber",
+      "country_year": "USA 1972",
+      "director": "Yvonne Rainer",
+      "cast": "James Barth, John Erdman, Epp Kotkas",
+      "runtime": "90 min",
+      "format": "Digital 4K",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-07",
+          "time": "18:30",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-12-19",
+          "time": "18:20",
+          "location": "NFT3"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "Man With a Movie Camera Chelovek s kino-apparatom",
+      "description": "Dziga Vertov pushes the possibilities of cinema with his portrait of a day in the life of a city.",
+      "country_year": "USSR 1929",
+      "director": "Dziga Vertov",
+      "cast": "score",
+      "runtime": "68 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-06",
+          "time": "15:30",
           "location": "NFT3"
         },
         {
-          "date": "2025-11-24",
+          "date": "2025-12-15",
+          "time": "20:45",
+          "location": "NFT2"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "Morocco + intro by Laura Mulvey",
+      "description": "Joseph von Sternberg's camera and Marlene Dietrich's performance make for an incendiary mix in their first collaboration after The Blue Angel.",
+      "country_year": "USA 1930",
+      "director": "Josef von Sternberg",
+      "cast": "Marlene Dietrich, Gary Cooper, Adolphe Menjou",
+      "runtime": "92 min",
+      "format": "Digital",
+      "rating": "U",
+      "screenings": [
+        {
+          "date": "2025-12-03",
+          "time": "18:10",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-12-12",
           "time": "20:30",
           "location": "NFT2"
         }
@@ -321,19 +416,106 @@
       "category": "classics"
     },
     {
-      "title": "South Korea 2024. Director Kim Seok. With Heo Sung-tae, Jo Bok-rae, Seo Min-ju,",
-      "description": "Buddy comedy chaos lies at the heart of this infectious tale of the relationship between a bumbling cop and his informant.",
+      "title": "Nigeria 2025. Director Akinola Davies Jr. With Sope Dirisu, Godwin Egbo, Chibuke",
+      "description": "In Akinola Davies Jr’s intimate drama, a father attempts to care for his two boys and they come to understand who he truly is. Closing Night: Katanga: The Dance of the Scorpions + intro and Q&A with director Dani Kouyate and cast members",
       "country_year": null,
       "director": null,
       "cast": null,
-      "runtime": "103 min",
+      "runtime": "94 min",
       "format": "Digital",
       "rating": null,
       "screenings": [
         {
-          "date": "2025-11-09",
-          "time": "15:00",
+          "date": "2025-11-14",
+          "time": "18:00",
+          "location": "NFT1"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "Notorious",
+      "description": "Cary Grant and Ingrid Bergman are at the top of their game in Alfred Hitchcock's cat-and-mouse thriller.",
+      "country_year": "USA 1946",
+      "director": "Alfred Hitchcock",
+      "cast": "Cary Grant, Ingrid Bergman, Claude Rains, Leo G Carroll",
+      "runtime": "101 min",
+      "format": "Digital 4K",
+      "rating": "U",
+      "screenings": [
+        {
+          "date": "2025-12-04",
+          "time": "14:30",
           "location": "NFT2"
+        },
+        {
+          "date": "2025-12-18",
+          "time": "20:45",
+          "location": "NFT1"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "People on Sunday Menschen am Sonntag",
+      "description": "Daily life for Berliners is evocatively captured, before the city changed under Nazi rule.",
+      "country_year": "Germany 1930",
+      "director": "Robert Siodmak, Edgar G",
+      "cast": null,
+      "runtime": "73 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-02",
+          "time": "20:50",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-12-21",
+          "time": "12:20",
+          "location": "NFT3"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "Sharon Clark. 30min. Digital",
+      "description": "Two films explore the pressures foisted upon Black women in 1980s British society.",
+      "country_year": "Two films explore the pressures foisted upon Black women in 1980",
+      "director": null,
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-24",
+          "time": "18:20",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-11-05",
+          "time": "18:10",
+          "location": "NFT2"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "South Korea 1971. Director Lee Man-hee. With Jang Dong-hwi, Namkoong Won,",
+      "description": "Three adventurers meet frontier chaos in Lee Man-hee’s Korean western classic.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": "98 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-16",
+          "time": "15:15",
+          "location": "NFT3"
         }
       ],
       "category": "classics"
@@ -357,19 +539,19 @@
       "category": "classics"
     },
     {
-      "title": "South Korea 2025. Director Park Joon-ho. With Park Joon-ho, Cho You-hyun,",
-      "description": "A North Korean defector seeks to define his identity and sexuality in Park Joon-ho’s impressive debut. 20:30 NFT1",
+      "title": "South Korea 2024. Director Kim Seok. With Heo Sung-tae, Jo Bok-rae, Seo Min-ju,",
+      "description": "Buddy comedy chaos lies at the heart of this infectious tale of the relationship between a bumbling cop and his informant.",
       "country_year": null,
       "director": null,
       "cast": null,
-      "runtime": "124 min",
+      "runtime": "103 min",
       "format": "Digital",
       "rating": null,
       "screenings": [
         {
-          "date": "2025-11-12",
-          "time": "20:30",
-          "location": "NFT1"
+          "date": "2025-11-09",
+          "time": "15:00",
+          "location": "NFT2"
         }
       ],
       "category": "classics"
@@ -388,24 +570,6 @@
           "date": "2025-11-13",
           "time": "18:10",
           "location": "NFT2"
-        }
-      ],
-      "category": "classics"
-    },
-    {
-      "title": "South Korea 1971. Director Lee Man-hee. With Jang Dong-hwi, Namkoong Won,",
-      "description": "Three adventurers meet frontier chaos in Lee Man-hee’s Korean western classic.",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "98 min",
-      "format": "Digital",
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-11-16",
-          "time": "15:15",
-          "location": "NFT3"
         }
       ],
       "category": "classics"
@@ -434,37 +598,172 @@
       "category": "classics"
     },
     {
-      "title": "Nigeria 2025. Director Akinola Davies Jr. With Sope Dirisu, Godwin Egbo, Chibuke",
-      "description": "In Akinola Davies Jr’s intimate drama, a father attempts to care for his two boys and they come to understand who he truly is. Closing Night: Katanga: The Dance of the Scorpions + intro and Q&A with director Dani Kouyate and cast members",
+      "title": "South Korea 2025. Director Park Joon-ho. With Park Joon-ho, Cho You-hyun,",
+      "description": "A North Korean defector seeks to define his identity and sexuality in Park Joon-ho’s impressive debut. 20:30 NFT1",
       "country_year": null,
       "director": null,
       "cast": null,
-      "runtime": "94 min",
+      "runtime": "124 min",
       "format": "Digital",
       "rating": null,
       "screenings": [
         {
-          "date": "2025-11-14",
-          "time": "18:00",
+          "date": "2025-11-12",
+          "time": "20:30",
           "location": "NFT1"
         }
       ],
       "category": "classics"
     },
     {
-      "title": "Burkina Faso 2025. Director Dani Kouyate. With Prosper Compaore, Hafissata",
-      "description": "Macbeth is retold through the prism of a man destined to seize the crown of a nation in Dani Kouyate’s powerful film. It’s that time again.. Celebrate Halloween in schlock and style with two cult classics of horror cinema",
+      "title": "Steve McQueen’s biopic reconstructs the courageous battle by Notting Hill’s",
+      "description": "West Indian community against police intimidation.",
       "country_year": null,
       "director": null,
       "cast": null,
-      "runtime": "113 min",
-      "format": "Digital",
+      "runtime": null,
+      "format": null,
       "rating": null,
       "screenings": [
         {
-          "date": "2025-11-23",
-          "time": "18:00",
+          "date": "2025-10-27",
+          "time": "20:30",
           "location": "NFT1"
+        },
+        {
+          "date": "2025-11-22",
+          "time": "17:30",
+          "location": "NFT2"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "The Arbor",
+      "description": "An innovative hybrid documentary exploring the troubled yet inspired life of Andrea Dunbar.",
+      "country_year": "UK 2010",
+      "director": "Clio Barnard",
+      "cast": "Manjinder Virk, Christine Bottomley, Natalie Gavin",
+      "runtime": "94 min",
+      "format": "Digital",
+      "rating": "15",
+      "screenings": [
+        {
+          "date": "2025-12-05",
+          "time": "20:45",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-12-21",
+          "time": "18:20",
+          "location": "NFT3"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "The seminal work from the father of African cinema focuses on a domestic",
+      "description": "worker who emigrates from Senegal to France in hope of a better life.",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-20",
+          "time": "20:45",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-10-30",
+          "time": "18:30",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-11-28",
+          "time": "12:30",
+          "location": "NFT4"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "This classic of Black British cinema captures the struggle of young British",
+      "description": "West Indians as they attempt to make their way through life. Restored by the BFI National Archive and The Film Foundation. Funding provided by the Hobson/Lucas Family Foundation",
+      "country_year": null,
+      "director": null,
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-25",
+          "time": "20:30",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-11-07",
+          "time": "18:10",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-11-14",
+          "time": "14:40",
+          "location": "NFT4"
+        },
+        {
+          "date": "2025-11-23",
+          "time": "18:15",
+          "location": "NFT4"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "Through the Olive Trees Zir-e darakhtan-e zeyton",
+      "description": "The final part of Abbas Kiarostami's Koker trilogy is one of his most beautifully realised films.",
+      "country_year": "Iran 1994",
+      "director": "Abbas Kiarostami",
+      "cast": "Hossein Rezai, Tahereh Ladania, Mohamad Ali Keshavarz, Zarifeh Shiva",
+      "runtime": "104 min",
+      "format": "Digital",
+      "rating": "U",
+      "screenings": [
+        {
+          "date": "2025-12-14",
+          "time": "12:30",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-12-22",
+          "time": "18:15",
+          "location": "NFT3"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "UK 1977. Director Menelik Shabazz. 29min. 16mm",
+      "description": "A dizzying and passionate portrayal of intersectional politics in 1980s Black Britain plays alongside a film in which young Black British people speak out against negative media narratives.",
+      "country_year": "A dizzying and passionate portrayal of intersectional politics in 1980",
+      "director": null,
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-29",
+          "time": "18:00",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-11-25",
+          "time": "20:45",
+          "location": "NFT2"
         }
       ],
       "category": "classics"
@@ -488,19 +787,24 @@
       "category": "classics"
     },
     {
-      "title": "Frankenstein",
-      "description": "Mia Goth, Christoph Waltz. RT tbc. IMAX with Laser. Cert tbc Guillermo del Toro’s take on Mary Shelley’s classic novel is a grandiose opera of a film, with Jacob Elordi as a towering monster.",
-      "country_year": "Mexico-USA 2025",
-      "director": "Guillermo del Toro",
+      "title": "UK 1989. Director Isaac Julien. With Ben Ellison, Matthew Baidoo, Akim Mogaji.",
+      "description": "Marlon Riggs’ documentary looks at the history of racist depictions of Black people in America, while the world of the Harlem Renaissance is poetically re-constructed by Isaac Julien.",
+      "country_year": null,
+      "director": null,
       "cast": null,
-      "runtime": null,
-      "format": null,
+      "runtime": "45 min",
+      "format": "Digital 4K",
       "rating": null,
       "screenings": [
         {
-          "date": "2025-10-31",
-          "time": "20:15",
-          "location": "BFI IMAX"
+          "date": "2025-11-10",
+          "time": "20:45",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-11-19",
+          "time": "18:10",
+          "location": "NFT2"
         }
       ],
       "category": "classics"
@@ -519,6 +823,52 @@
           "date": "2025-10-31",
           "time": "23:45",
           "location": "BFI IMAX"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "What Scoundrels Men Are! Gli uomini, che mascalzoni! + intro by Laura Mulvey",
+      "description": "Lia Franca and Vittorio De Sica star in a 'city girl' film that employs real locations around Milan.",
+      "country_year": "Italy 1932",
+      "director": "Mario Camerini",
+      "cast": "Lia Franca, Vittorio De Sica, Cesare Zoppetti",
+      "runtime": "67 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-10",
+          "time": "18:20",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-12-23",
+          "time": "20:30",
+          "location": "NFT2"
+        }
+      ],
+      "category": "classics"
+    },
+    {
+      "title": "Xala",
+      "description": "Ousmane Sembène's adaptation of his own novel is a striking critique of economic, social and moral corruption.",
+      "country_year": "Senegal 1975",
+      "director": "Ousmane Sembène",
+      "cast": "Thierno Leye, Myriam Niang, Seune Samb, Fatim Diagne",
+      "runtime": "123 min",
+      "format": "Digital 4K",
+      "rating": "12A",
+      "screenings": [
+        {
+          "date": "2025-12-11",
+          "time": "18:15",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-12-27",
+          "time": "11:45",
+          "location": "NFT2"
         }
       ],
       "category": "classics"
