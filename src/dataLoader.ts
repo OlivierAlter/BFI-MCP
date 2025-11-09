@@ -70,11 +70,13 @@ export const filterFilms = (params: {
   category?: string;
   location?: string;
   director?: string;
+  country?: string;
+  date?: string;
   startDate?: string;
   endDate?: string;
   limit?: number;
 }): Film[] => {
-  const { category, location, director, startDate, endDate, limit = 50 } = params;
+  const { category, location, director, country, date, startDate, endDate, limit = 50 } = params;
   let films = loadFilms();
 
   if (category) {
@@ -86,11 +88,19 @@ export const filterFilms = (params: {
     films = films.filter((film) => film.director?.toLowerCase().includes(lowerDirector));
   }
 
-  if (location || startDate || endDate) {
+  if (country) {
+    const lowerCountry = country.toLowerCase();
+    films = films.filter((film) => film.country_year?.toLowerCase().includes(lowerCountry));
+  }
+
+  if (location || date || startDate || endDate) {
     films = films
       .map((film) => {
         const filteredScreenings = film.screenings.filter((screening) => {
           if (location && !screening.location.toLowerCase().includes(location.toLowerCase())) {
+            return false;
+          }
+          if (date && screening.date !== date) {
             return false;
           }
           if (startDate && screening.date < startDate) {

@@ -52,7 +52,7 @@ export const getServer = (): McpServer => {
   // Tool 1: List films with optional filters
   server.tool(
     "list-films",
-    "List all BFI films with optional filtering by category, location, director, or date range",
+    "List all BFI films with optional filtering by category, location, director, country, or date range",
     {
       category: z
         .string()
@@ -60,15 +60,19 @@ export const getServer = (): McpServer => {
         .describe("Filter by category (e.g., 'james_cameron', 'christmas_films', 'classics')"),
       location: z.string().optional().describe("Filter by cinema location (e.g., 'NFT1', 'BFI IMAX')"),
       director: z.string().optional().describe("Filter by director name (partial match)"),
+      country: z.string().optional().describe("Filter by country of production (e.g., 'France', 'USA', 'Japan')"),
+      date: z.string().optional().describe("Filter by specific screening date (YYYY-MM-DD)"),
       start_date: z.string().optional().describe("Filter screenings from date (YYYY-MM-DD)"),
       end_date: z.string().optional().describe("Filter screenings until date (YYYY-MM-DD)"),
       limit: z.number().int().positive().default(50).describe("Maximum number of films to return"),
     },
-    async ({ category, location, director, start_date, end_date, limit }): Promise<CallToolResult> => {
+    async ({ category, location, director, country, date, start_date, end_date, limit }): Promise<CallToolResult> => {
       const films = filterFilms({
         category,
         location,
         director,
+        country,
+        date,
         startDate: start_date,
         endDate: end_date,
         limit,
