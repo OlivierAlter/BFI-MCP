@@ -1,5 +1,5 @@
 {
-  "generated": "2025-11-09T08:47:55.065Z",
+  "generated": "2025-11-09T09:02:16.584Z",
   "source": "BFI Southbank Programme Guide October-December 2025 (Merged)",
   "total_films": 18,
   "total_screenings": 20,
@@ -17,6 +17,24 @@
         {
           "date": "2025-12-09",
           "time": "18:20",
+          "location": "NFT1"
+        }
+      ],
+      "category": "in_person"
+    },
+    {
+      "title": "Brett Goldstein and friends reunite to celebrate 10 years of their charming",
+      "description": "and quirky superhero rom-com. TV Preview: Series 3 – Episode One Trigger Point + Q&A with Vicky McClure, Nabil Elouahabi, Jason Flemyng, executive producer Chris Brandon and director Jamie Donoghue",
+      "country_year": "UK 2015",
+      "director": "Jon Drever",
+      "cast": "Brett Goldstein, Catherine Tate, Natalia Tena",
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-25",
+          "time": "18:00",
           "location": "NFT1"
         }
       ],
@@ -297,24 +315,6 @@
         {
           "date": "2025-12-14",
           "time": "16:50",
-          "location": "NFT1"
-        }
-      ],
-      "category": "in_person"
-    },
-    {
-      "title": "UK 2015. Director Jon Drever. With Brett Goldstein, Catherine Tate, Natalia Tena.",
-      "description": "and quirky superhero rom-com. TV Preview: Series 3 – Episode One Trigger Point + Q&A with Vicky McClure, Nabil Elouahabi, Jason Flemyng, executive producer Chris Brandon and director Jamie Donoghue",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "82 min",
-      "format": "Digital",
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-10-25",
-          "time": "18:00",
           "location": "NFT1"
         }
       ],

@@ -1,9 +1,206 @@
 {
-  "generated": "2025-11-09T08:47:55.067Z",
+  "generated": "2025-11-09T09:02:16.584Z",
   "source": "BFI Southbank Programme Guide October-December 2025 (Merged)",
   "total_films": 46,
   "total_screenings": 82,
   "films": [
+    {
+      "title": "A chance meeting between two married people sparks an impossible",
+      "description": "A chance meeting between two married people sparks an impossible chemistry and tragic emotional entanglement, in a film that is rich in pathos and masterfully crafted. 7th Heaven",
+      "country_year": "UK 1945",
+      "director": "David Lean",
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-20",
+          "time": "20:50",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-11-16",
+          "time": "14:45",
+          "location": "NFT1"
+        }
+      ],
+      "category": "re_releases"
+    },
+    {
+      "title": "A former sex-worker seeks a new life for herself and her son, only to find the",
+      "description": "A former sex-worker seeks a new life for herself and her son, only to find the past is not easily left behind, in this operatic tragedy anchored by Anna Magnani.",
+      "country_year": "Italy 1962",
+      "director": "Pier Paolo Pasolini",
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-08",
+          "time": "20:40",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-11-28",
+          "time": "18:15",
+          "location": "NFT1"
+        }
+      ],
+      "category": "re_releases"
+    },
+    {
+      "title": "A hired gun changes his politics when he meets the beleaguered",
+      "description": "A hired gun changes his politics when he meets the beleaguered Cangaceiro bandits, in a Cannes-award-winning western that proved influential on Laura Mulvey and Peter Wollen.",
+      "country_year": "Brazil 1969",
+      "director": "Glauber Rocha",
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-29",
+          "time": "15:10",
+          "location": "NFT1"
+        }
+      ],
+      "category": "re_releases"
+    },
+    {
+      "title": "A man is permanently injured in an oil rig accident, leaving his adoring",
+      "description": "A man is permanently injured in an oil rig accident, leaving his adoring wife wracked with guilt, willing to do anything to restore her marriage and relationship with God. Spectacle The biggest emotions on the UK’s biggest screen. Melodrama’s most expressionistic, sumptuous films at BFI IMAX. For tickets go to bfi.org.uk/imax",
+      "country_year": "Denmark 1996",
+      "director": "Lars Von Trier",
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-01",
+          "time": "20:00",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-11-08",
+          "time": "11:50",
+          "location": "NFT3"
+        }
+      ],
+      "category": "re_releases"
+    },
+    {
+      "title": "A mother returns from the dead to confront unfinished business with",
+      "description": "A mother returns from the dead to confront unfinished business with her daughters, who are embroiled in their own emotional turmoil and entwined dramatics. Defiance Rebellion in all its forms, both righteous and frivolous. Women who refuse to be contained by circumstance, regardless of the consequences. Now, Voyager + intro by film programmer Caroline Cassin, curator and founder of Women & Cocaine*",
+      "country_year": "Spain 2006",
+      "director": "Pedro Almodóvar",
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-30",
+          "time": "20:40",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-11-29",
+          "time": "18:10",
+          "location": "NFT1"
+        }
+      ],
+      "category": "re_releases"
+    },
+    {
+      "title": "A new student at an all-female boarding school finds herself besotted with her",
+      "description": "A new student at an all-female boarding school finds herself besotted with her",
+      "country_year": "France 1951",
+      "director": "Jacqueline Audry",
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-04",
+          "time": "18:15",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-11-28",
+          "time": "20:45",
+          "location": "NFT2"
+        }
+      ],
+      "category": "re_releases"
+    },
+    {
+      "title": "A scheming and amoral woman escapes the trappings of 17th-century high",
+      "description": "society through her double life as a highwayman.",
+      "country_year": "UK 1945",
+      "director": "Leslie Arliss",
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-23",
+          "time": "14:50",
+          "location": "NFT1"
+        }
+      ],
+      "category": "re_releases"
+    },
+    {
+      "title": "A successful fashion designer finds her lavish apartment increasingly isolated",
+      "description": "A successful fashion designer finds her lavish apartment increasingly isolated as the object of her affections fails to return her devotion, in Fassbinder’s autobiographical masterpiece. Duty Beneath the serene surface of family life simmers a maelstrom of emotions. Stories of maternal sacrifice, marital constraints and dreams denied. UK Premiere of 4K Restoration: The Arch Dong fu ren + pre-recorded intro by T’ang Shushuen",
+      "country_year": "Germany 1972",
+      "director": "Rainer Werner Fassbinder",
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-26",
+          "time": "14:50",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-11-05",
+          "time": "20:20",
+          "location": "NFT2"
+        }
+      ],
+      "category": "re_releases"
+    },
+    {
+      "title": "A young woman seeks revenge for the death of her sister, only to be drawn",
+      "description": "A young woman seeks revenge for the death of her sister, only to be drawn into the same complex web of intrigue, desire and manipulation that led to her downfall. Scandal The opinion of others can make or break us. Here are melodrama’s tragic heroines, who fall victim to its judgmental gaze.",
+      "country_year": "Egypt 1959",
+      "director": "Henry Barakat",
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-31",
+          "time": "18:00",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-11-10",
+          "time": "20:40",
+          "location": "NFT2"
+        }
+      ],
+      "category": "re_releases"
+    },
     {
       "title": "Albert Gran. 117min. Digital 4K (restoration). Silent with English intertitles.",
       "description": "A disillusioned sewer worker and a down-on-her-luck street urchin hide from the authorities under the guise of a fake marriage, finding true love in the deception.",
@@ -64,23 +261,46 @@
       "category": "re_releases"
     },
     {
-      "title": "Argentina 1984. Director María Luisa Bemberg. With Susú Pecoraro, Imanol Arias,",
-      "description": "The true story of Argentine socialite Camila O’Gorman and her scandalous desire for a Jesuit priest, captured with empathy, heat and righteous anger. Obsession Love’s twisted relative, obsession takes root when the world will not bend to our wishes. Tales of unrequited love, impossible desires and toxic jealousy.",
-      "country_year": null,
-      "director": null,
+      "title": "An adoring young couple are torn apart by the advent of war, seen through",
+      "description": "An adoring young couple are torn apart by the advent of war, seen through",
+      "country_year": "USSR 1957",
+      "director": "Mikhail Kalatozov",
       "cast": null,
-      "runtime": "108 min",
-      "format": "Digital",
-      "rating": "15",
+      "runtime": null,
+      "format": null,
+      "rating": null,
       "screenings": [
         {
           "date": "2025-10-22",
+          "time": "18:15",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-11-15",
+          "time": "20:45",
+          "location": "NFT1"
+        }
+      ],
+      "category": "re_releases"
+    },
+    {
+      "title": "An uncompromising, charismatic bar-singer finds her independent lifestyle",
+      "description": "EST. PG An uncompromising, charismatic bar-singer finds her independent lifestyle under threat when she falls for a handsome footballer, yet resists his traditional outlook. The Nightingale’s Prayer Doaa al-Karawan + intro by",
+      "country_year": "Greece 1955",
+      "director": "Michael Cacoyannis",
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-07",
           "time": "20:45",
           "location": "NFT1"
         },
         {
-          "date": "2025-11-02",
-          "time": "12:15",
+          "date": "2025-11-22",
+          "time": "15:00",
           "location": "NFT2"
         }
       ],
@@ -100,24 +320,6 @@
           "date": "2025-11-11",
           "time": "20:00",
           "location": "BFI REUBEN LIBRARY"
-        }
-      ],
-      "category": "re_releases"
-    },
-    {
-      "title": "Brazil 1969. Director Glauber Rocha. With Maurício do Valle, Odete Lara,",
-      "description": "A hired gun changes his politics when he meets the beleaguered Cangaceiro bandits, in a Cannes-award-winning western that proved influential on Laura Mulvey and Peter Wollen.",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "100 min",
-      "format": "Digital",
-      "rating": "15",
-      "screenings": [
-        {
-          "date": "2025-11-29",
-          "time": "15:10",
-          "location": "NFT1"
         }
       ],
       "category": "re_releases"
@@ -146,29 +348,6 @@
       "category": "re_releases"
     },
     {
-      "title": "Denmark 1996. Director Lars Von Trier. With Emily Watson, Stellan Skarsgård,",
-      "description": "A man is permanently injured in an oil rig accident, leaving his adoring wife wracked with guilt, willing to do anything to restore her marriage and relationship with God. Spectacle The biggest emotions on the UK’s biggest screen. Melodrama’s most expressionistic, sumptuous films at BFI IMAX. For tickets go to bfi.org.uk/imax",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "159 min",
-      "format": "Digital",
-      "rating": "18",
-      "screenings": [
-        {
-          "date": "2025-11-01",
-          "time": "20:00",
-          "location": "NFT1"
-        },
-        {
-          "date": "2025-11-08",
-          "time": "11:50",
-          "location": "NFT3"
-        }
-      ],
-      "category": "re_releases"
-    },
-    {
       "title": "Disgraced Monuments + discussion with Laura Mulvey",
       "description": "+ 23rd August 2008 In Mulvey and Lewis’s film, the repercussions of regime change in Russia through the 20th century finds complex articulation and negotiation through the creation and alteration of statues in the former Soviet Empire. Experimenta: Riddles of the Sphinx in Context Laura Mulvey selects films which gave context to and informed the development of her and Peter Wollen’s iconic work Riddles of the Sphinx: ‘All these films seemed symptomatic of the depth of change as well as its varie",
       "country_year": "UK 1994",
@@ -187,47 +366,24 @@
       "category": "re_releases"
     },
     {
-      "title": "Egypt 1959. Director Henry Barakat. With Faten Hamama, Ahmed Mazhar,",
-      "description": "A young woman seeks revenge for the death of her sister, only to be drawn into the same complex web of intrigue, desire and manipulation that led to her downfall. Scandal The opinion of others can make or break us. Here are melodrama’s tragic heroines, who fall victim to its judgmental gaze.",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "109 min",
-      "format": "Digital",
+      "title": "Every frame in this beautiful, rarely screened gem from Terence Davies",
+      "description": "Every frame in this beautiful, rarely screened gem from Terence Davies resembles an enchanting, rhapsodic painting.",
+      "country_year": "UK 1995",
+      "director": "Terence Davies",
+      "cast": "Jacob Tierney, Drake Bell, Gena Rowlands",
+      "runtime": null,
+      "format": null,
       "rating": null,
       "screenings": [
         {
-          "date": "2025-10-31",
-          "time": "18:00",
-          "location": "NFT2"
+          "date": "2025-10-25",
+          "time": "18:10",
+          "location": "NFT3"
         },
         {
-          "date": "2025-11-10",
-          "time": "20:40",
-          "location": "NFT2"
-        }
-      ],
-      "category": "re_releases"
-    },
-    {
-      "title": "France 1951. Director Jacqueline Audry. With Marie-Claire Olivia, Edwige Feuillère,",
-      "description": "A new student at an all-female boarding school finds herself besotted with her",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "92 min",
-      "format": "Digital",
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-11-04",
-          "time": "18:15",
-          "location": "NFT2"
-        },
-        {
-          "date": "2025-11-28",
-          "time": "20:45",
-          "location": "NFT2"
+          "date": "2025-11-16",
+          "time": "18:20",
+          "location": "NFT3"
         }
       ],
       "category": "re_releases"
@@ -251,29 +407,6 @@
       "category": "re_releases"
     },
     {
-      "title": "Germany 1972. Director Rainer Werner Fassbinder. With Margit Carstensen,",
-      "description": "A successful fashion designer finds her lavish apartment increasingly isolated as the object of her affections fails to return her devotion, in Fassbinder’s autobiographical masterpiece. Duty Beneath the serene surface of family life simmers a maelstrom of emotions. Stories of maternal sacrifice, marital constraints and dreams denied. UK Premiere of 4K Restoration: The Arch Dong fu ren + pre-recorded intro by T’ang Shushuen",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "125 min",
-      "format": "Digital",
-      "rating": "12A",
-      "screenings": [
-        {
-          "date": "2025-10-26",
-          "time": "14:50",
-          "location": "NFT1"
-        },
-        {
-          "date": "2025-11-05",
-          "time": "20:20",
-          "location": "NFT2"
-        }
-      ],
-      "category": "re_releases"
-    },
-    {
       "title": "Gong Li. 171min. Digital 4K (restoration). EST. 15",
       "description": "Chen Kaige’s portrait of life and opera across 50 years of China’s tumultuous recent past is a grandiose and richly-drawn masterpiece.",
       "country_year": null,
@@ -287,29 +420,6 @@
           "date": "2025-11-02",
           "time": "14:00",
           "location": "BFI IMAX"
-        }
-      ],
-      "category": "re_releases"
-    },
-    {
-      "title": "Greece 1955. Director Michael Cacoyannis. With Melina Mercouri, Giorgos Foutas,",
-      "description": "EST. PG An uncompromising, charismatic bar-singer finds her independent lifestyle under threat when she falls for a handsome footballer, yet resists his traditional outlook. The Nightingale’s Prayer Doaa al-Karawan + intro by",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "95 min",
-      "format": "35mm",
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-11-07",
-          "time": "20:45",
-          "location": "NFT1"
-        },
-        {
-          "date": "2025-11-22",
-          "time": "15:00",
-          "location": "NFT2"
         }
       ],
       "category": "re_releases"
@@ -361,59 +471,13 @@
       "category": "re_releases"
     },
     {
-      "title": "Italy 1962. Director Pier Paolo Pasolini. With Anna Magnani, Ettore Garofolo,",
-      "description": "A former sex-worker seeks a new life for herself and her son, only to find the past is not easily left behind, in this operatic tragedy anchored by Anna Magnani.",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "106 min",
-      "format": "Digital",
-      "rating": "15",
-      "screenings": [
-        {
-          "date": "2025-11-08",
-          "time": "20:40",
-          "location": "NFT2"
-        },
-        {
-          "date": "2025-11-28",
-          "time": "18:15",
-          "location": "NFT1"
-        }
-      ],
-      "category": "re_releases"
-    },
-    {
-      "title": "Japan 1952. Director Kenji Mizoguchi. With Kinuyo Tanaka, Toshiro Mifune,",
-      "description": "Mizoguchi’s iconic central character looks back on her past and misfortunes with a melancholic gaze, observing her tragic fall from life in court to the streets. Mamma Roma + intro by Giulia Saccogna, BFI Programme &",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "128 min",
-      "format": "35mm",
-      "rating": "PG",
-      "screenings": [
-        {
-          "date": "2025-11-09",
-          "time": "18:10",
-          "location": "NFT2"
-        },
-        {
-          "date": "2025-11-20",
-          "time": "17:50",
-          "location": "NFT1"
-        }
-      ],
-      "category": "re_releases"
-    },
-    {
-      "title": "Japan 1955. Director Kinuyo Tanaka. With Yumeji Tsukioka, Ryōji Hayama,",
+      "title": "Inspired by the life of tanka poet Fumiko Nakajō, this is an unflinching and",
       "description": "Inspired by the life of tanka poet Fumiko Nakajō, this is an unflinching and humane portrait of a woman transformed by her cancer diagnosis.",
-      "country_year": null,
-      "director": null,
+      "country_year": "Japan 1955",
+      "director": "Kinuyo Tanaka",
       "cast": null,
-      "runtime": "110 min",
-      "format": "Digital 4K",
+      "runtime": null,
+      "format": null,
       "rating": null,
       "screenings": [
         {
@@ -471,23 +535,23 @@
       "category": "re_releases"
     },
     {
-      "title": "Mexico 1953. Director Luis Buñuel. With Delia Garcés, Arturo de Córdova,",
-      "description": "Obsessive and irrational jealousy fuels the controlling behaviour of an abusive husband, whose veneer of respectability steadily erodes throughout this darkly-lined tragedy. Restored in 4K by the Film Foundation’s World Cinema Project, Les Films du Camélia and Cineteca di Bologna with the support of OCAS and in association with Películas y Videos Internacionales. Special thanks to Guillermo del Toro.",
-      "country_year": null,
-      "director": null,
+      "title": "Mizoguchi’s iconic central character looks back on her past and misfortunes",
+      "description": "Mizoguchi’s iconic central character looks back on her past and misfortunes with a melancholic gaze, observing her tragic fall from life in court to the streets. Mamma Roma + intro by Giulia Saccogna, BFI Programme &",
+      "country_year": "Japan 1952",
+      "director": "Kenji Mizoguchi",
       "cast": null,
-      "runtime": "93 min",
-      "format": "Digital 4K",
+      "runtime": null,
+      "format": null,
       "rating": null,
       "screenings": [
         {
-          "date": "2025-10-24",
-          "time": "20:45",
+          "date": "2025-11-09",
+          "time": "18:10",
           "location": "NFT2"
         },
         {
-          "date": "2025-11-03",
-          "time": "18:10",
+          "date": "2025-11-20",
+          "time": "17:50",
           "location": "NFT1"
         }
       ],
@@ -512,6 +576,57 @@
           "date": "2025-11-01",
           "time": "12:20",
           "location": "NFT1"
+        }
+      ],
+      "category": "re_releases"
+    },
+    {
+      "title": "Obsessive and irrational jealousy fuels the controlling behaviour of an",
+      "description": "Obsessive and irrational jealousy fuels the controlling behaviour of an abusive husband, whose veneer of respectability steadily erodes throughout this darkly-lined tragedy. Restored in 4K by the Film Foundation’s World Cinema Project, Les Films du Camélia and Cineteca di Bologna with the support of OCAS and in association with Películas y Videos Internacionales. Special thanks to Guillermo del Toro.",
+      "country_year": "Mexico 1953",
+      "director": "Luis Buñuel",
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-24",
+          "time": "20:45",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-11-03",
+          "time": "18:10",
+          "location": "NFT1"
+        }
+      ],
+      "category": "re_releases"
+    },
+    {
+      "title": "Passion and emotion fill Terence Davies’ dreamy and meditative take on",
+      "description": "Passion and emotion fill Terence Davies’ dreamy and meditative take on Terence Rattigan’s play.",
+      "country_year": "UK 2011",
+      "director": "Terence Davies",
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-01",
+          "time": "15:10",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-11-06",
+          "time": "18:10",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-11-19",
+          "time": "20:45",
+          "location": "NFT2"
         }
       ],
       "category": "re_releases"
@@ -558,29 +673,6 @@
       "category": "re_releases"
     },
     {
-      "title": "Spain 2006. Director Pedro Almodóvar. With Penélope Cruz, Carmen Maura,",
-      "description": "A mother returns from the dead to confront unfinished business with her daughters, who are embroiled in their own emotional turmoil and entwined dramatics. Defiance Rebellion in all its forms, both righteous and frivolous. Women who refuse to be contained by circumstance, regardless of the consequences. Now, Voyager + intro by film programmer Caroline Cassin, curator and founder of Women & Cocaine*",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "121 min",
-      "format": "Digital",
-      "rating": "15",
-      "screenings": [
-        {
-          "date": "2025-10-30",
-          "time": "20:40",
-          "location": "NFT1"
-        },
-        {
-          "date": "2025-11-29",
-          "time": "18:10",
-          "location": "NFT1"
-        }
-      ],
-      "category": "re_releases"
-    },
-    {
       "title": "Spring in a Small Town Xiǎochéng zhī chūn",
       "description": "Amid post-war recovery and a struggling family’s loss of wealth and status, the return of a long-lost friend sows seeds of desire and discontent.",
       "country_year": "China 1948",
@@ -598,6 +690,103 @@
         {
           "date": "2025-11-29",
           "time": "12:40",
+          "location": "NFT1"
+        }
+      ],
+      "category": "re_releases"
+    },
+    {
+      "title": "Terence Davies exquisitely weaves together the life and poetry of",
+      "description": "Terence Davies exquisitely weaves together the life and poetry of Emily Dickinson.",
+      "country_year": "UK 2016",
+      "director": "Terence Davies",
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-07",
+          "time": "18:00",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-11-21",
+          "time": "20:30",
+          "location": "NFT3"
+        }
+      ],
+      "category": "re_releases"
+    },
+    {
+      "title": "Terence Davies’ devastatingly moving, lyrical portrait of the life of celebrated",
+      "description": "Terence Davies’ devastatingly moving, lyrical portrait of the life of celebrated war poet Siegfried Sassoon. + But Why?",
+      "country_year": "UK 2021",
+      "director": "Terence Davies",
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-22",
+          "time": "20:20",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-11-30",
+          "time": "18:00",
+          "location": "NFT2"
+        }
+      ],
+      "category": "re_releases"
+    },
+    {
+      "title": "Terence Davies’ first feature is a semi-autobiographical masterpiece of",
+      "description": "Terence Davies’ first feature is a semi-autobiographical masterpiece of fragmented memories. + Boogie* *Screening Mon 27 Oct and Sat 29 Nov only",
+      "country_year": "UK 1988",
+      "director": "Terence Davies",
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-23",
+          "time": "18:20",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-10-27",
+          "time": "18:20",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-11-29",
+          "time": "18:30",
+          "location": "NFT3"
+        }
+      ],
+      "category": "re_releases"
+    },
+    {
+      "title": "Terence Davies’ mosaic of childhood, imagination, time and memory is one of",
+      "description": "Terence Davies’ mosaic of childhood, imagination, time and memory is one of the greatest cinematic experiences. + Passing Time Commissioned by Film Festival Ghent",
+      "country_year": "UK 1992",
+      "director": "Terence Davies",
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-28",
+          "time": "20:45",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-11-19",
+          "time": "18:20",
           "location": "NFT1"
         }
       ],
@@ -650,6 +839,29 @@
       "category": "re_releases"
     },
     {
+      "title": "The true story of Argentine socialite Camila O’Gorman and her scandalous",
+      "description": "The true story of Argentine socialite Camila O’Gorman and her scandalous desire for a Jesuit priest, captured with empathy, heat and righteous anger. Obsession Love’s twisted relative, obsession takes root when the world will not bend to our wishes. Tales of unrequited love, impossible desires and toxic jealousy.",
+      "country_year": "Argentina 1984",
+      "director": "María Luisa Bemberg",
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-22",
+          "time": "20:45",
+          "location": "NFT1"
+        },
+        {
+          "date": "2025-11-02",
+          "time": "12:15",
+          "location": "NFT2"
+        }
+      ],
+      "category": "re_releases"
+    },
+    {
       "title": "The Unrealised Projects of Terence Davies",
       "description": "Join us as we explore the range of films that Terence Davies didn’t get to make. Dear Bud: The Creative Mind of Terence Davies Edge Hill University, the repository of the Terence Davies Archive, curates a free exhibition of previously unseen materials from Davies’ personal archive and the archive of production company Hurricane Films. The exhibition will include materials from both Terence’s personal life and film career such as family letters and belongings, behind-the-scenes photos, props and ",
       "country_year": null,
@@ -668,96 +880,14 @@
       "category": "re_releases"
     },
     {
-      "title": "UK 1945. Director Arthur Crabtree. With Phyllis Calvert, Patricia Roc,",
-      "description": "Traumatised by a sexual assault in her youth, the wife of an Italian wine merchant balances two existences, enabled by sporadic amnesia.",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "110 min",
-      "format": "35mm",
-      "rating": "U",
-      "screenings": [
-        {
-          "date": "2025-11-23",
-          "time": "18:20",
-          "location": "NFT2"
-        }
-      ],
-      "category": "re_releases"
-    },
-    {
-      "title": "UK 1945. Director David Lean. With Celia Johnson, Trevor Howard,",
-      "description": "A chance meeting between two married people sparks an impossible chemistry and tragic emotional entanglement, in a film that is rich in pathos and masterfully crafted. 7th Heaven",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "87 min",
-      "format": "Digital",
-      "rating": "PG",
-      "screenings": [
-        {
-          "date": "2025-10-20",
-          "time": "20:50",
-          "location": "NFT1"
-        },
-        {
-          "date": "2025-11-16",
-          "time": "14:45",
-          "location": "NFT1"
-        }
-      ],
-      "category": "re_releases"
-    },
-    {
-      "title": "UK 1945. Director Leslie Arliss. With Margaret Lockwood, James Mason,",
-      "description": "society through her double life as a highwayman.",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "104 min",
-      "format": "35mm",
-      "rating": "PG",
-      "screenings": [
-        {
-          "date": "2025-11-23",
-          "time": "14:50",
-          "location": "NFT1"
-        }
-      ],
-      "category": "re_releases"
-    },
-    {
-      "title": "UK 1974. Directors Laura Mulvey, Peter Wollen. With Debra Dolnansky,",
-      "description": "This first collaboration of Mulvey and Wollen is a radical reimagining of myth",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "99 min",
-      "format": "Digital",
-      "rating": "12A",
-      "screenings": [
-        {
-          "date": "2025-11-06",
-          "time": "18:15",
-          "location": "NFT3"
-        },
-        {
-          "date": "2025-11-16",
-          "time": "12:30",
-          "location": "NFT3"
-        }
-      ],
-      "category": "re_releases"
-    },
-    {
-      "title": "UK 1977. Directors Laura Mulvey, Peter Wollen. With Dinah Stabb, Merdelle Jordine,",
+      "title": "This dreamlike and meditative landmark of feminist cinema features",
       "description": "an experimental narrative structure, a revolutionary visual style and hypnotic music.",
-      "country_year": null,
-      "director": null,
+      "country_year": "UK 1977",
+      "director": "Laura Mulvey, Peter Wollen",
       "cast": null,
-      "runtime": "91 min",
-      "format": "Digital",
-      "rating": "U",
+      "runtime": null,
+      "format": null,
+      "rating": null,
       "screenings": [
         {
           "date": "2025-11-04",
@@ -778,200 +908,42 @@
       "category": "re_releases"
     },
     {
-      "title": "UK 1983. Director Terence Davies. With Wilfrid Brambell, Terry O’Sullivan,",
-      "description": "Youth, adulthood and death are explored in the three short, introspective films from the beginning of Terence Davies’ career. Restoration supported by Simon and Harley Hessel",
-      "country_year": null,
-      "director": null,
+      "title": "This first collaboration of Mulvey and Wollen is a radical reimagining of myth",
+      "description": "This first collaboration of Mulvey and Wollen is a radical reimagining of myth",
+      "country_year": "UK 1974",
+      "director": "Laura Mulvey, Peter Wollen",
       "cast": null,
-      "runtime": "26 min",
-      "format": "Digital",
-      "rating": "15",
+      "runtime": null,
+      "format": null,
+      "rating": null,
       "screenings": [
         {
-          "date": "2025-10-21",
+          "date": "2025-11-06",
           "time": "18:15",
-          "location": "NFT3"
-        },
-        {
-          "date": "2025-11-01",
-          "time": "12:10",
-          "location": "NFT2"
-        },
-        {
-          "date": "2025-11-07",
-          "time": "20:55",
-          "location": "NFT2"
-        }
-      ],
-      "category": "re_releases"
-    },
-    {
-      "title": "UK 1988. Director Terence Davies. With Pete Postlethwaite, Freda Dowie,",
-      "description": "Terence Davies’ first feature is a semi-autobiographical masterpiece of fragmented memories. + Boogie* *Screening Mon 27 Oct and Sat 29 Nov only",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "84 min",
-      "format": "Digital 4K",
-      "rating": "15",
-      "screenings": [
-        {
-          "date": "2025-10-23",
-          "time": "18:20",
-          "location": "NFT3"
-        },
-        {
-          "date": "2025-10-27",
-          "time": "18:20",
-          "location": "NFT1"
-        },
-        {
-          "date": "2025-11-29",
-          "time": "18:30",
-          "location": "NFT3"
-        }
-      ],
-      "category": "re_releases"
-    },
-    {
-      "title": "UK 1992. Director Terence Davies. With Leigh McCormack, Marjorie Yates,",
-      "description": "Terence Davies’ mosaic of childhood, imagination, time and memory is one of the greatest cinematic experiences. + Passing Time Commissioned by Film Festival Ghent",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "85 min",
-      "format": "35mm",
-      "rating": "PG",
-      "screenings": [
-        {
-          "date": "2025-10-28",
-          "time": "20:45",
-          "location": "NFT1"
-        },
-        {
-          "date": "2025-11-19",
-          "time": "18:20",
-          "location": "NFT1"
-        }
-      ],
-      "category": "re_releases"
-    },
-    {
-      "title": "UK 1995. Director Terence Davies. With Jacob Tierney, Drake Bell, Gena Rowlands.",
-      "description": "Every frame in this beautiful, rarely screened gem from Terence Davies resembles an enchanting, rhapsodic painting.",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "92 min",
-      "format": "35mm",
-      "rating": "15",
-      "screenings": [
-        {
-          "date": "2025-10-25",
-          "time": "18:10",
           "location": "NFT3"
         },
         {
           "date": "2025-11-16",
+          "time": "12:30",
+          "location": "NFT3"
+        }
+      ],
+      "category": "re_releases"
+    },
+    {
+      "title": "Traumatised by a sexual assault in her youth, the wife of an Italian wine",
+      "description": "Traumatised by a sexual assault in her youth, the wife of an Italian wine merchant balances two existences, enabled by sporadic amnesia.",
+      "country_year": "UK 1945",
+      "director": "Arthur Crabtree",
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-11-23",
           "time": "18:20",
-          "location": "NFT3"
-        }
-      ],
-      "category": "re_releases"
-    },
-    {
-      "title": "UK 2011. Director Terence Davies. With Rachel Weisz, Tom Hiddleston,",
-      "description": "Passion and emotion fill Terence Davies’ dreamy and meditative take on Terence Rattigan’s play.",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "98 min",
-      "format": "Digital",
-      "rating": "12A",
-      "screenings": [
-        {
-          "date": "2025-11-01",
-          "time": "15:10",
           "location": "NFT2"
-        },
-        {
-          "date": "2025-11-06",
-          "time": "18:10",
-          "location": "NFT1"
-        },
-        {
-          "date": "2025-11-19",
-          "time": "20:45",
-          "location": "NFT2"
-        }
-      ],
-      "category": "re_releases"
-    },
-    {
-      "title": "UK 2016. Director Terence Davies. With Cynthia Nixon, Jennifer Ehle,",
-      "description": "Terence Davies exquisitely weaves together the life and poetry of Emily Dickinson.",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "125 min",
-      "format": "Digital",
-      "rating": "12A",
-      "screenings": [
-        {
-          "date": "2025-11-07",
-          "time": "18:00",
-          "location": "NFT3"
-        },
-        {
-          "date": "2025-11-21",
-          "time": "20:30",
-          "location": "NFT3"
-        }
-      ],
-      "category": "re_releases"
-    },
-    {
-      "title": "UK 2021. Director Terence Davies. With Jack Lowden, Jeremy Irvine,",
-      "description": "Terence Davies’ devastatingly moving, lyrical portrait of the life of celebrated war poet Siegfried Sassoon. + But Why?",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "137 min",
-      "format": "Digital",
-      "rating": "12A",
-      "screenings": [
-        {
-          "date": "2025-11-22",
-          "time": "20:20",
-          "location": "NFT2"
-        },
-        {
-          "date": "2025-11-30",
-          "time": "18:00",
-          "location": "NFT2"
-        }
-      ],
-      "category": "re_releases"
-    },
-    {
-      "title": "USSR 1957. Director Mikhail Kalatozov. With Tatyana Samojlova, Aleksey Batalov,",
-      "description": "An adoring young couple are torn apart by the advent of war, seen through",
-      "country_year": null,
-      "director": null,
-      "cast": null,
-      "runtime": "96 min",
-      "format": "Digital",
-      "rating": "PG",
-      "screenings": [
-        {
-          "date": "2025-10-22",
-          "time": "18:15",
-          "location": "NFT3"
-        },
-        {
-          "date": "2025-11-15",
-          "time": "20:45",
-          "location": "NFT1"
         }
       ],
       "category": "re_releases"
@@ -990,6 +962,34 @@
           "date": "2025-11-22",
           "time": "20:30",
           "location": "NFT3"
+        }
+      ],
+      "category": "re_releases"
+    },
+    {
+      "title": "Youth, adulthood and death are explored in the three short, introspective films",
+      "description": "Youth, adulthood and death are explored in the three short, introspective films from the beginning of Terence Davies’ career. Restoration supported by Simon and Harley Hessel",
+      "country_year": "UK 1983",
+      "director": "Terence Davies",
+      "cast": null,
+      "runtime": null,
+      "format": null,
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-10-21",
+          "time": "18:15",
+          "location": "NFT3"
+        },
+        {
+          "date": "2025-11-01",
+          "time": "12:10",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-11-07",
+          "time": "20:55",
+          "location": "NFT2"
         }
       ],
       "category": "re_releases"

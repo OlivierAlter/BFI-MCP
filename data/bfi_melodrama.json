@@ -1,32 +1,9 @@
 {
-  "generated": "2025-11-09T08:47:55.062Z",
+  "generated": "2025-11-09T09:02:16.582Z",
   "source": "BFI Southbank Programme Guide October-December 2025 (Merged)",
   "total_films": 16,
   "total_screenings": 31,
   "films": [
-    {
-      "title": "Argentina 1956. Director Hugo del Carril. With Laura Hidalgo, Hugo del Carril, Gloria Ferrandiz. 94min. Digital (restoration). EST",
-      "description": "A landmark in 1950s Latin American cinema, Hugo del Carril's tautly compelling psychodrama is a rarely screened gem.",
-      "country_year": "A landmark in 1950",
-      "director": null,
-      "cast": null,
-      "runtime": null,
-      "format": null,
-      "rating": null,
-      "screenings": [
-        {
-          "date": "2025-12-19",
-          "time": "18:15",
-          "location": "NFT2"
-        },
-        {
-          "date": "2025-12-29",
-          "time": "20:50",
-          "location": "NFT2"
-        }
-      ],
-      "category": "melodrama"
-    },
     {
       "title": "Beyond Camp: The Queer Life and Afterlife of the Hollywood Melodrama",
       "description": "The perfect introduction to the second part of our melodrama season. Brief Encounters: Cinematic Speed Dating Enjoy romance on and off the screen with this event. Free entry with a ticket to the screening of Lola Montès Sat 6 Dec 14:30 NFT1",
@@ -63,6 +40,29 @@
         {
           "date": "2025-12-30",
           "time": "20:30",
+          "location": "NFT2"
+        }
+      ],
+      "category": "melodrama"
+    },
+    {
+      "title": "FRI 19 DEC 18:15 NFT2",
+      "description": "A landmark in 1950s Latin American cinema, Hugo del Carril's tautly compelling psychodrama is a rarely screened gem.",
+      "country_year": "Argentina 1956",
+      "director": "Hugo del Carril",
+      "cast": "Laura Hidalgo, Hugo del Carril, Gloria Ferrandiz",
+      "runtime": "94 min",
+      "format": "Digital",
+      "rating": null,
+      "screenings": [
+        {
+          "date": "2025-12-19",
+          "time": "18:15",
+          "location": "NFT2"
+        },
+        {
+          "date": "2025-12-29",
+          "time": "20:50",
           "location": "NFT2"
         }
       ],
